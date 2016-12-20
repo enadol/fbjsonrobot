@@ -1,5 +1,5 @@
 # fbjsonrobot
-A Python robot that transforms bundesliga text files from opendata/football in JSON using the given structure.
+A Python robot that transforms bundesliga text files from openfootball in JSON using the required structure.
 
 Scripts with dependencies
 
