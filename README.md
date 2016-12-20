@@ -26,4 +26,4 @@ to result in a validated json
 
 * JSOn is still to be "pretty printed"
 
-* A version in german is intented, to be used with the original JSON and the link from opendata/football
+* A fuure version in german is intented, to be used with the original JSON and the link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt
