@@ -9,7 +9,7 @@ In Windows console python jsonrobot2.py and the JSON file is generated
 
 Uses 1-bundesliga-i.txt as origin file but can be adapted to use the raw github Link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt to it
 
-The generated file is intented to be used in spanish
+The currently generated file is intented to be used in spanish with UTF-8
 
 TODO:
 
@@ -27,3 +27,5 @@ to result in a validated json
 * JSOn is still to be "pretty printed"
 
 * A future version in german is intented, to be used with the original JSON and the link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt
+
+:important: The scripts rely heavily, no, completely and very rigidly on the format of the .txt file. Spaces and :s in this file must be adjusted or verified for the scripts to work properly. In this sense, flexibility is another task to achieve on this project.
