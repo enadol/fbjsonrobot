@@ -1,0 +1,1853 @@
+{
+"name": "Deutsche Bundesliga 2016/17",
+"rounds": [
+{
+"name": "1. Jornada",
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : "6",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : "0",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"team2": 
+{
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"team2": 
+{
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"score1" : "2",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : "2",
+"score2" : "2"
+}
+]
+},
+{
+ "name": "2. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : "0",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"score1" : "3",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : "0",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : "3",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : "1",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : "4",
+"score2" : "4"
+}
+]
+},
+{
+ "name": "3. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : "3",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"score1" : "3",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"score1" : "6",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : "0",
+"score2" : "4"
+},
+{"date" : "date",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : "4",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : "1",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : "2",
+"score2" : "0"
+}
+]
+},
+{
+ "name": "4. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : "1",
+"score2" : "5"
+},
+{"date" : "date",
+"team1": {
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : "0",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : "3",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"score1" : "1",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : "1",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : "1",
+"score2" : "1"
+}
+]
+},
+{
+ "name": "5. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : "3",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"score1" : "2",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : "2",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : "0",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : "3",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : "1",
+"score2" : "1"
+}
+]
+},
+{
+ "name": "6. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : "2",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : "2",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"score1" : "2",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : "1",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : "4",
+"score2" : "0"
+}
+]
+},
+{
+ "name": "7. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : "2",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"team2": 
+{
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : "0",
+"score2" : "1"
+}
+]
+},
+{
+ "name": "8. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : "0",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : "0",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : "3",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : "3",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : "2",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : "3",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : "3",
+"score2" : "0"
+}
+]
+},
+{
+ "name": "9. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"score1" : "2",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : "1",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : "1",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : "1",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : "0",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"team2": 
+{
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"score1" : "3",
+"score2" : "0"
+}
+]
+},
+{
+ "name": "10. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : "3",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"score1" : "3",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : "0",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : "2",
+"score2" : "5"
+},
+{"date" : "date",
+"team1": {
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : "0",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : "3",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : "3",
+"score2" : "1"
+}
+]
+},
+{
+ "name": "11. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : "2",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"score1" : "1",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : "4",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : "0",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"team2": 
+{
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"score1" : "0",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : "1",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"score1" : "2",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : "1",
+"score2" : "2"
+}
+]
+},
+{
+ "name": "12. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : "1",
+"score2" : "4"
+},
+{"date" : "date",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : "0",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : "2",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"score1" : "3",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : "2",
+"score2" : "1"
+}
+]
+},
+{
+ "name": "13. Jornada",
+
+"matches": [
+{
+"date" : "date",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : "1",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : "4",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : "1",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : "2",
+"score2" : "3"
+},
+{"date" : "date",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "ingolstadt",
+"name" : "FC Ingolstadt 04",
+"code" : "FCI"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "koeln",
+"name" : "1. FC Koeln",
+"code" : "KOE"
+},
+"score1" : "4",
+"score2" : "0"
+},
+{"date" : "date",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : "2",
+"score2" : "1"
+},
+{"date" : "date",
+"team1": {
+"key" : "darmstadt",
+"name" : "SV Darmstadt 98",
+"code" : "D98"
+},
+"team2": 
+{
+"key" : "hsv",
+"name" : "Hamburger SV",
+"code" : "HSV"
+},
+"score1" : "0",
+"score2" : "2"
+},
+{"date" : "date",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : "1",
+"score2" : "1"
+}
+]
+},
+{
+ "name": "14. Jornada",
+
+"matches": [
+{
