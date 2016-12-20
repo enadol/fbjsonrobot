@@ -29,3 +29,5 @@ to result in a validated json
 * A future version in german is intented, to be used with the original JSON and the link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt
 
 :important: The scripts rely heavily, no, completely and very rigidly on the format of the .txt file. Spaces and :s in this file must be adjusted or verified for the scripts to work properly. In this sense, flexibility is another task to achieve on this project.
+
+Also, I'm still working to find out a way to make the dates in using the info on the .txt file
