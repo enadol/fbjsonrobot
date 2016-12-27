@@ -1,5 +1,5 @@
 import re
-#import urllib
+#import date2json
 
 #url=('https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt')
 fh=open('1-bundesliga-i.txt')
@@ -17,6 +17,8 @@ for text in fh:
 	if line.startswith('['):
 		date=line
 		lstdate.append(date)
+		#print date
+		#print len(lstdate)
 	
 	if 'Jornada' in line:
 		jornada=line
@@ -79,7 +81,8 @@ for text in fh:
 		
 	else:
 		continue
-#print lstaway
+#print lstdate
+#print lstnuevafecha
 # print lsthome
 #print lstjornada
 # print lstdate
