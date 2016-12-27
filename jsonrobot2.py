@@ -1,10 +1,12 @@
 from jsonbuilderbis import match, score1, score2, lstjornada
 import json
 import pprint
+from daterobot import lstnuevafecha
 
 count=0
 countjuegos=1
 countteam=2
+countjornada=0
 #print score1, score2
 fhand=open('bundesliga.json', 'w')
 fhand.write('{\n"name": "Deutsche Bundesliga 2016/17",\n"rounds": [\n{\n"name": "1. Jornada",\n"matches": [\n{\n')
@@ -18,7 +20,9 @@ for item in match:
 	valores1=valores[0]
 	#fhand.write('{')
 	for key in item:
+		#print len(item)
 		fhand.write('"'+llaves1+'" : "'+valores1+'"')
+		#print len(llaves1)
 		if llaves1=='date':
 			fhand.write(',\n"team1": {\n')
 
@@ -46,6 +50,7 @@ for item in match:
 				fhand.write('\n}\n]\n},\n{')
 				countjuegos==1
 			else:
+			#TODO: programar el cambio adecuado de jornada (brackets)
 				fhand.write('\n},\n{')
 		
 		else:
@@ -55,11 +60,24 @@ for item in match:
 
 	if (count%81==0):
 		jornada=(count/81)
-		fhand.write('\n "name": "'+str(jornada+1)+'. Jornada",\n')
-		fhand.write('\n"matches": [\n{\n')
-
+		#para evitar que se imprima la ultima careta vacia de jornada
+		#factor semi-aleatorio. *10 facilita comprender: numero de jornada + un cero
+		#hay que cambiarlo cada jornada
+		lstjornada.append(jornada)
+		countjornada=jornada*10
+		#TODO: volver dinamico el factor
+		if countjornada<160:
+			fhand.write('\n "name": "'+str(jornada+1)+'. Jornada",\n')
+			fhand.write('\n"matches": [\n{\n')
+			#countjornada=countjornada-1
+			#print countjornada, jornada
+		else:
+			fhand.write('\n]\n}')
 	else:
 		continue
 
+	
+
+#print count
 
 fhand.close()
