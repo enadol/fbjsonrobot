@@ -1,3 +1,5 @@
+import re
+from dateproofer import diadef
 from fbjsonbis import lstjornada
 from fbjsonbis import lstdate
 from fbjsonbis import lsthome
@@ -8,6 +10,7 @@ from fbjsonbis import clubkeys
 from fbjsonbis import clubcodes
 
 
+#print diadef
 lstpartidos=[]
 matches=[]
 lstteam1=[]
@@ -19,30 +22,30 @@ rondas=[ronda1, ronda2]
 match=[]
 count=0
 
-def getkeyCodes(team, dict):
-	equipo=dict[team]
-	return equipo
-	#return equipo
+# def getkeyCodes(team, dict):
+# 	equipo=dict[team]
+# 	return equipo
+# 	#return equipo
 
 
 
-import re
-# for season in seasons:
-# season=
-# for round in rondas:
-#     round=
-#print lstgoalsaway
 
-for d in range(0,len(lstdate)):
-	date=lstdate[d]
-	#match.append(date)
-  	#print len(lstdate)
+# # for season in seasons:
+# # season=
+# # for round in rondas:
+# #     round=
+# #print lstgoalsaway
+
+# for d in range(0,len(lstdate)):
+# 	date=lstdate[d]
+# 	#match.append(date)
+# #print lstdate
 
 
 #Jornada 1 a 34 o lo que vaya llenandose
 #Jornada 1, etcetera
-for b in range(0, len(lstjornada)):
-    jornada=lstjornada[b]
+# for b in range(0, len(lstjornada)):
+#     jornada=lstjornada[b]
     #print jornada
 
 
@@ -53,10 +56,8 @@ for b in range(0, len(lstjornada)):
 		
 
 for e in range(0,len(lsthome)):
-	
-	date="date"
-
-	
+	#fecha dinamica desde dateproofer.py
+	date=diadef[e]
 	name1=lsthome[e]
 	#print name1
 	key1=clubkeys[name1]
@@ -112,7 +113,7 @@ for e in range(0,len(lsthome)):
 	match.append(score1)
 	match.append(score2)
 	matches.append(match)
-	#print len(lsthome)
+#print diadef
 #print matches
 
 #match.append(lstteam2)
