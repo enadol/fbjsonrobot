@@ -18,14 +18,11 @@ for item in match:
 	valores=item.values()
 	llaves1=llaves[0]
 	valores1=valores[0]
-	#fhand.write('{')
+
 	for key in item:
-		#print len(item)
 		fhand.write('"'+llaves1+'" : "'+valores1+'"')
-		#print len(llaves1)
 		if llaves1=='date':
 			fhand.write(',\n"team1": {\n')
-
 		
 		if llaves1=='code':
 			fhand.write('\n},\n')
@@ -38,12 +35,6 @@ for item in match:
 					fhand.write(',\n')
 				else:
 					continue
-		
-		
-			#print countjuegos
-
-	#defi=valores[0]
-
 
 		if llaves1=='score2':
 			if countjuegos%9==0:
@@ -66,11 +57,11 @@ for item in match:
 		lstjornada.append(jornada)
 		countjornada=jornada*10
 		#TODO: volver dinamico el factor
+
 		if countjornada<160:
 			fhand.write('\n "name": "'+str(jornada+1)+'. Jornada",\n')
 			fhand.write('\n"matches": [\n{\n')
-			#countjornada=countjornada-1
-			#print countjornada, jornada
+
 		else:
 			fhand.write('\n]\n}')
 	else:

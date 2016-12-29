@@ -12,34 +12,27 @@ for date in lstnuevafecha:
 	yyear=fecha[2]
 	strdate=dia+','+mes+','+yyear
 	for i in range(0, len(fecha)):
-		#fecha2=fecha[i]
 		date1=datetime.datetime.strptime(strdate, "%d,%m,%Y")
 		date2=date1.strftime('%A')
 	if date2=="Friday":
 		diadef.append(date)
+
 	elif date2=="Saturday":
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
-	elif date2=="Sunday":
-		diadef.append(date)
-		diadef.append(date)
-	elif date2=="Tuesday":
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
+		for i in range(0,6):
+			diadef.append(date)
 		
+	elif date2=="Sunday":
+		for i in range(0,2):
+			diadef.append(date)
+		
+	elif date2=="Tuesday":
+		for i in range(0,4):
+			diadef.append(date)
+				
 	else:
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
-		diadef.append(date)
+		for i in range(0,5):
+			diadef.append(date)
+		
 
 #print diadef
 #print len(diadef)
-

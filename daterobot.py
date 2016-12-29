@@ -21,15 +21,12 @@ for item in lstdate:
 		fecha[2]="2017"
 	
 	nuevafecha1=dia, mes, fecha[2]
-	#print nuevafecha1
-	#lstnuevafecha.append(nuevafecha1)
-	# for x in nuevafecha1:
+
 	ddia=nuevafecha1[0]
 	mmes=nuevafecha1[1]
 	yyear=nuevafecha1[2]
 	nuevafecha2=ddia+"-"+mmes+"-"+yyear
 	nuevafecha3=datetime.datetime.strptime(nuevafecha2, "%d-%m-%Y").strftime("%d-%m-%Y")
-	# 	lstnuevafecha.append(x)
 	lstnuevafecha.append(nuevafecha3)
 #print lstnuevafecha
 	

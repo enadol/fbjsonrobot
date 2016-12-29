@@ -1,5 +1,5 @@
 import re
-#import date2json
+#script inicial. importa y limpia los datos del .txt
 
 #url=('https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt')
 fh=open('1-bundesliga-i.txt')
@@ -81,16 +81,3 @@ for text in fh:
 		
 	else:
 		continue
-#print lstdate
-#print lstnuevafecha
-# print lsthome
-#print lstjornada
-# print lstdate
-# print lstgoalshome
-# print lstgoalsaway
-# print len(lstaway)
-# print len(lsthome)
-# print len(lstjornada)
-# print len(lstdate)
-# print len(lstgoalshome)
-# print len(lstgoalsaway)
