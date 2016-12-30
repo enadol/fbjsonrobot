@@ -17,8 +17,8 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : "6",
-"score2" : "0"
+"score1" : 6,
+"score2" : 0
 },
 {"date" : "27-08-2016",
 "team1": {
@@ -32,8 +32,8 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "27-08-2016",
 "team1": {
@@ -47,8 +47,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : "0",
-"score2" : "2"
+"score1" : 0,
+"score2" : 2
 },
 {"date" : "27-08-2016",
 "team1": {
@@ -62,8 +62,8 @@
 "name" : "FC Ingolstadt 04",
 "code" : "FCI"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "27-08-2016",
 "team1": {
@@ -77,8 +77,8 @@
 "name" : "SV Darmstadt 98",
 "code" : "D98"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 },
 {"date" : "27-08-2016",
 "team1": {
@@ -92,8 +92,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "27-08-2016",
 "team1": {
@@ -107,8 +107,8 @@
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "28-08-2016",
 "team1": {
@@ -122,8 +122,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "28-08-2016",
 "team1": {
@@ -137,8 +137,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "2",
-"score2" : "2"
+"score1" : 2,
+"score2" : 2
 }
 ]
 },
@@ -159,8 +159,8 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : "0",
-"score2" : "2"
+"score1" : 0,
+"score2" : 2
 },
 {"date" : "10-09-2016",
 "team1": {
@@ -174,8 +174,8 @@
 "name" : "Hamburger SV",
 "code" : "HSV"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "10-09-2016",
 "team1": {
@@ -189,8 +189,8 @@
 "name" : "1. FC Koeln",
 "code" : "KOE"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "10-09-2016",
 "team1": {
@@ -204,8 +204,8 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : "0",
-"score2" : "2"
+"score1" : 0,
+"score2" : 2
 },
 {"date" : "10-09-2016",
 "team1": {
@@ -219,8 +219,8 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "10-09-2016",
 "team1": {
@@ -234,8 +234,8 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "10-09-2016",
 "team1": {
@@ -249,8 +249,8 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "11-09-2016",
 "team1": {
@@ -264,8 +264,8 @@
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 },
 {"date" : "11-09-2016",
 "team1": {
@@ -279,8 +279,8 @@
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : "4",
-"score2" : "4"
+"score1" : 4,
+"score2" : 4
 }
 ]
 },
@@ -301,8 +301,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "3",
-"score2" : "0"
+"score1" : 3,
+"score2" : 0
 },
 {"date" : "17-09-2016",
 "team1": {
@@ -316,8 +316,8 @@
 "name" : "FC Ingolstadt 04",
 "code" : "FCI"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "17-09-2016",
 "team1": {
@@ -331,8 +331,8 @@
 "name" : "SV Darmstadt 98",
 "code" : "D98"
 },
-"score1" : "6",
-"score2" : "0"
+"score1" : 6,
+"score2" : 0
 },
 {"date" : "17-09-2016",
 "team1": {
@@ -346,8 +346,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "0",
-"score2" : "4"
+"score1" : 0,
+"score2" : 4
 },
 {"date" : "17-09-2016",
 "team1": {
@@ -361,8 +361,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "17-09-2016",
 "team1": {
@@ -376,8 +376,8 @@
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "17-09-2016",
 "team1": {
@@ -391,8 +391,8 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : "4",
-"score2" : "1"
+"score1" : 4,
+"score2" : 1
 },
 {"date" : "18-09-2016",
 "team1": {
@@ -406,8 +406,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "1",
-"score2" : "3"
+"score1" : 1,
+"score2" : 3
 },
 {"date" : "18-09-2016",
 "team1": {
@@ -421,8 +421,8 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 }
 ]
 },
@@ -443,8 +443,8 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : "1",
-"score2" : "5"
+"score1" : 1,
+"score2" : 5
 },
 {"date" : "20-09-2016",
 "team1": {
@@ -458,8 +458,8 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : "0",
-"score2" : "2"
+"score1" : 0,
+"score2" : 2
 },
 {"date" : "20-09-2016",
 "team1": {
@@ -473,8 +473,8 @@
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "20-09-2016",
 "team1": {
@@ -488,8 +488,8 @@
 "name" : "Hamburger SV",
 "code" : "HSV"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "21-09-2016",
 "team1": {
@@ -503,8 +503,8 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : "3",
-"score2" : "0"
+"score1" : 3,
+"score2" : 0
 },
 {"date" : "21-09-2016",
 "team1": {
@@ -518,8 +518,8 @@
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "21-09-2016",
 "team1": {
@@ -533,8 +533,8 @@
 "name" : "1. FC Koeln",
 "code" : "KOE"
 },
-"score1" : "1",
-"score2" : "3"
+"score1" : 1,
+"score2" : 3
 },
 {"date" : "21-09-2016",
 "team1": {
@@ -548,8 +548,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 },
 {"date" : "21-09-2016",
 "team1": {
@@ -563,8 +563,8 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 }
 ]
 },
@@ -585,8 +585,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "24-09-2016",
 "team1": {
@@ -600,8 +600,8 @@
 "name" : "FC Ingolstadt 04",
 "code" : "FCI"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 },
 {"date" : "24-09-2016",
 "team1": {
@@ -615,8 +615,8 @@
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : "2",
-"score2" : "3"
+"score1" : 2,
+"score2" : 3
 },
 {"date" : "24-09-2016",
 "team1": {
@@ -630,8 +630,8 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : "0",
-"score2" : "1"
+"score1" : 0,
+"score2" : 1
 },
 {"date" : "24-09-2016",
 "team1": {
@@ -645,8 +645,8 @@
 "name" : "SV Darmstadt 98",
 "code" : "D98"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "24-09-2016",
 "team1": {
@@ -660,8 +660,8 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : "3",
-"score2" : "3"
+"score1" : 3,
+"score2" : 3
 },
 {"date" : "24-09-2016",
 "team1": {
@@ -675,8 +675,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "25-09-2016",
 "team1": {
@@ -690,8 +690,8 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "25-09-2016",
 "team1": {
@@ -705,8 +705,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 }
 ]
 },
@@ -727,8 +727,8 @@
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "01-10-2016",
 "team1": {
@@ -742,8 +742,8 @@
 "name" : "1. FC Koeln",
 "code" : "KOE"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "01-10-2016",
 "team1": {
@@ -757,8 +757,8 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 },
 {"date" : "01-10-2016",
 "team1": {
@@ -772,8 +772,8 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : "2",
-"score2" : "2"
+"score1" : 2,
+"score2" : 2
 },
 {"date" : "01-10-2016",
 "team1": {
@@ -787,8 +787,8 @@
 "name" : "Hamburger SV",
 "code" : "HSV"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 },
 {"date" : "01-10-2016",
 "team1": {
@@ -802,8 +802,8 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "01-10-2016",
 "team1": {
@@ -817,8 +817,8 @@
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 },
 {"date" : "02-10-2016",
 "team1": {
@@ -832,8 +832,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "02-10-2016",
 "team1": {
@@ -847,8 +847,8 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : "4",
-"score2" : "0"
+"score1" : 4,
+"score2" : 0
 }
 ]
 },
@@ -869,8 +869,8 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "15-10-2016",
 "team1": {
@@ -884,8 +884,8 @@
 "name" : "Hamburger SV",
 "code" : "HSV"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "15-10-2016",
 "team1": {
@@ -899,8 +899,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "15-10-2016",
 "team1": {
@@ -914,8 +914,8 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : "2",
-"score2" : "2"
+"score1" : 2,
+"score2" : 2
 },
 {"date" : "15-10-2016",
 "team1": {
@@ -929,8 +929,8 @@
 "name" : "FC Ingolstadt 04",
 "code" : "FCI"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "15-10-2016",
 "team1": {
@@ -944,8 +944,8 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "15-10-2016",
 "team1": {
@@ -959,8 +959,8 @@
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "16-10-2016",
 "team1": {
@@ -974,8 +974,8 @@
 "name" : "SV Darmstadt 98",
 "code" : "D98"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "16-10-2016",
 "team1": {
@@ -989,8 +989,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "0",
-"score2" : "1"
+"score1" : 0,
+"score2" : 1
 }
 ]
 },
@@ -1011,8 +1011,8 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : "0",
-"score2" : "3"
+"score1" : 0,
+"score2" : 3
 },
 {"date" : "22-10-2016",
 "team1": {
@@ -1026,8 +1026,8 @@
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : "0",
-"score2" : "3"
+"score1" : 0,
+"score2" : 3
 },
 {"date" : "22-10-2016",
 "team1": {
@@ -1041,8 +1041,8 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : "3",
-"score2" : "3"
+"score1" : 3,
+"score2" : 3
 },
 {"date" : "22-10-2016",
 "team1": {
@@ -1056,8 +1056,8 @@
 "name" : "1. FC Koeln",
 "code" : "KOE"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "22-10-2016",
 "team1": {
@@ -1071,8 +1071,8 @@
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "22-10-2016",
 "team1": {
@@ -1086,8 +1086,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "22-10-2016",
 "team1": {
@@ -1101,8 +1101,8 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 },
 {"date" : "23-10-2016",
 "team1": {
@@ -1116,8 +1116,8 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "23-10-2016",
 "team1": {
@@ -1131,8 +1131,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "3",
-"score2" : "0"
+"score1" : 3,
+"score2" : 0
 }
 ]
 },
@@ -1153,8 +1153,8 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "29-10-2016",
 "team1": {
@@ -1168,8 +1168,8 @@
 "name" : "FC Ingolstadt 04",
 "code" : "FCI"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 },
 {"date" : "29-10-2016",
 "team1": {
@@ -1183,8 +1183,8 @@
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 },
 {"date" : "29-10-2016",
 "team1": {
@@ -1198,8 +1198,8 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : "1",
-"score2" : "3"
+"score1" : 1,
+"score2" : 3
 },
 {"date" : "29-10-2016",
 "team1": {
@@ -1213,8 +1213,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "1",
-"score2" : "3"
+"score1" : 1,
+"score2" : 3
 },
 {"date" : "29-10-2016",
 "team1": {
@@ -1228,8 +1228,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "0",
-"score2" : "2"
+"score1" : 0,
+"score2" : 2
 },
 {"date" : "29-10-2016",
 "team1": {
@@ -1243,8 +1243,8 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "30-10-2016",
 "team1": {
@@ -1258,8 +1258,8 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "30-10-2016",
 "team1": {
@@ -1273,8 +1273,8 @@
 "name" : "Hamburger SV",
 "code" : "HSV"
 },
-"score1" : "3",
-"score2" : "0"
+"score1" : 3,
+"score2" : 0
 }
 ]
 },
@@ -1295,8 +1295,8 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : "3",
-"score2" : "0"
+"score1" : 3,
+"score2" : 0
 },
 {"date" : "05-11-2016",
 "team1": {
@@ -1310,8 +1310,8 @@
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "05-11-2016",
 "team1": {
@@ -1325,8 +1325,8 @@
 "name" : "SV Darmstadt 98",
 "code" : "D98"
 },
-"score1" : "3",
-"score2" : "2"
+"score1" : 3,
+"score2" : 2
 },
 {"date" : "05-11-2016",
 "team1": {
@@ -1340,8 +1340,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : "0",
-"score2" : "3"
+"score1" : 0,
+"score2" : 3
 },
 {"date" : "05-11-2016",
 "team1": {
@@ -1355,8 +1355,8 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : "2",
-"score2" : "5"
+"score1" : 2,
+"score2" : 5
 },
 {"date" : "05-11-2016",
 "team1": {
@@ -1370,8 +1370,8 @@
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"score1" : "0",
-"score2" : "2"
+"score1" : 0,
+"score2" : 2
 },
 {"date" : "05-11-2016",
 "team1": {
@@ -1385,8 +1385,8 @@
 "name" : "1. FC Koeln",
 "code" : "KOE"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "06-11-2016",
 "team1": {
@@ -1400,8 +1400,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "06-11-2016",
 "team1": {
@@ -1415,8 +1415,8 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 }
 ]
 },
@@ -1437,8 +1437,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "2",
-"score2" : "3"
+"score1" : 2,
+"score2" : 3
 },
 {"date" : "19-11-2016",
 "team1": {
@@ -1452,8 +1452,8 @@
 "name" : "1. FC Koeln",
 "code" : "KOE"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 },
 {"date" : "19-11-2016",
 "team1": {
@@ -1467,8 +1467,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "4",
-"score2" : "2"
+"score1" : 4,
+"score2" : 2
 },
 {"date" : "19-11-2016",
 "team1": {
@@ -1482,8 +1482,8 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : "0",
-"score2" : "1"
+"score1" : 0,
+"score2" : 1
 },
 {"date" : "19-11-2016",
 "team1": {
@@ -1497,8 +1497,8 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "19-11-2016",
 "team1": {
@@ -1512,8 +1512,8 @@
 "name" : "FC Ingolstadt 04",
 "code" : "FCI"
 },
-"score1" : "0",
-"score2" : "1"
+"score1" : 0,
+"score2" : 1
 },
 {"date" : "19-11-2016",
 "team1": {
@@ -1527,8 +1527,8 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "20-11-2016",
 "team1": {
@@ -1542,8 +1542,8 @@
 "name" : "Hamburger SV",
 "code" : "HSV"
 },
-"score1" : "2",
-"score2" : "2"
+"score1" : 2,
+"score2" : 2
 },
 {"date" : "20-11-2016",
 "team1": {
@@ -1557,8 +1557,8 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 }
 ]
 },
@@ -1579,8 +1579,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "1",
-"score2" : "4"
+"score1" : 1,
+"score2" : 4
 },
 {"date" : "26-11-2016",
 "team1": {
@@ -1594,8 +1594,8 @@
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "26-11-2016",
 "team1": {
@@ -1609,8 +1609,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "26-11-2016",
 "team1": {
@@ -1624,8 +1624,8 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "26-11-2016",
 "team1": {
@@ -1639,8 +1639,8 @@
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "26-11-2016",
 "team1": {
@@ -1654,8 +1654,8 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : "2",
-"score2" : "2"
+"score1" : 2,
+"score2" : 2
 },
 {"date" : "26-11-2016",
 "team1": {
@@ -1669,8 +1669,8 @@
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "27-11-2016",
 "team1": {
@@ -1684,8 +1684,8 @@
 "name" : "SV Darmstadt 98",
 "code" : "D98"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "27-11-2016",
 "team1": {
@@ -1699,8 +1699,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 }
 ]
 },
@@ -1721,8 +1721,8 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : "1",
-"score2" : "3"
+"score1" : 1,
+"score2" : 3
 },
 {"date" : "03-12-2016",
 "team1": {
@@ -1736,8 +1736,8 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : "4",
-"score2" : "1"
+"score1" : 4,
+"score2" : 1
 },
 {"date" : "03-12-2016",
 "team1": {
@@ -1751,8 +1751,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "03-12-2016",
 "team1": {
@@ -1766,8 +1766,8 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : "2",
-"score2" : "3"
+"score1" : 2,
+"score2" : 3
 },
 {"date" : "03-12-2016",
 "team1": {
@@ -1781,8 +1781,8 @@
 "name" : "FC Ingolstadt 04",
 "code" : "FCI"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "03-12-2016",
 "team1": {
@@ -1796,8 +1796,8 @@
 "name" : "1. FC Koeln",
 "code" : "KOE"
 },
-"score1" : "4",
-"score2" : "0"
+"score1" : 4,
+"score2" : 0
 },
 {"date" : "03-12-2016",
 "team1": {
@@ -1811,8 +1811,8 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "04-12-2016",
 "team1": {
@@ -1826,8 +1826,8 @@
 "name" : "Hamburger SV",
 "code" : "HSV"
 },
-"score1" : "0",
-"score2" : "2"
+"score1" : 0,
+"score2" : 2
 },
 {"date" : "04-12-2016",
 "team1": {
@@ -1841,8 +1841,8 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 }
 ]
 },
@@ -1863,8 +1863,8 @@
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : "0",
-"score2" : "0"
+"score1" : 0,
+"score2" : 0
 },
 {"date" : "10-12-2016",
 "team1": {
@@ -1878,8 +1878,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : "5",
-"score2" : "0"
+"score1" : 5,
+"score2" : 0
 },
 {"date" : "10-12-2016",
 "team1": {
@@ -1893,8 +1893,8 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "10-12-2016",
 "team1": {
@@ -1908,8 +1908,8 @@
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "10-12-2016",
 "team1": {
@@ -1923,8 +1923,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "10-12-2016",
 "team1": {
@@ -1938,8 +1938,8 @@
 "name" : "SV Darmstadt 98",
 "code" : "D98"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "10-12-2016",
 "team1": {
@@ -1953,8 +1953,8 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : "0",
-"score2" : "1"
+"score1" : 0,
+"score2" : 1
 },
 {"date" : "11-12-2016",
 "team1": {
@@ -1968,8 +1968,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "11-12-2016",
 "team1": {
@@ -1983,8 +1983,8 @@
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : "0",
-"score2" : "1"
+"score1" : 0,
+"score2" : 1
 }
 ]
 },
@@ -2005,8 +2005,8 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : "2",
-"score2" : "2"
+"score1" : 2,
+"score2" : 2
 },
 {"date" : "17-12-2016",
 "team1": {
@@ -2020,8 +2020,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "17-12-2016",
 "team1": {
@@ -2035,8 +2035,8 @@
 "name" : "Hamburger SV",
 "code" : "HSV"
 },
-"score1" : "3",
-"score2" : "1"
+"score1" : 3,
+"score2" : 1
 },
 {"date" : "17-12-2016",
 "team1": {
@@ -2050,8 +2050,8 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "17-12-2016",
 "team1": {
@@ -2065,8 +2065,8 @@
 "name" : "1. FC Koeln",
 "code" : "KOE"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "17-12-2016",
 "team1": {
@@ -2080,8 +2080,8 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 },
 {"date" : "17-12-2016",
 "team1": {
@@ -2095,8 +2095,8 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : "1",
-"score2" : "0"
+"score1" : 1,
+"score2" : 0
 },
 {"date" : "18-12-2016",
 "team1": {
@@ -2110,8 +2110,8 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : "0",
-"score2" : "1"
+"score1" : 0,
+"score2" : 1
 },
 {"date" : "18-12-2016",
 "team1": {
@@ -2125,8 +2125,8 @@
 "name" : "FC Ingolstadt 04",
 "code" : "FCI"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 }
 ]
 },
@@ -2147,8 +2147,8 @@
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "20-12-2016",
 "team1": {
@@ -2162,8 +2162,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 },
 {"date" : "20-12-2016",
 "team1": {
@@ -2177,8 +2177,8 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : "2",
-"score2" : "1"
+"score1" : 2,
+"score2" : 1
 },
 {"date" : "20-12-2016",
 "team1": {
@@ -2192,8 +2192,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : "3",
-"score2" : "0"
+"score1" : 3,
+"score2" : 0
 },
 {"date" : "21-12-2016",
 "team1": {
@@ -2207,8 +2207,8 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : "3",
-"score2" : "0"
+"score1" : 3,
+"score2" : 0
 },
 {"date" : "21-12-2016",
 "team1": {
@@ -2222,8 +2222,8 @@
 "name" : "SV Darmstadt 98",
 "code" : "D98"
 },
-"score1" : "2",
-"score2" : "0"
+"score1" : 2,
+"score2" : 0
 },
 {"date" : "21-12-2016",
 "team1": {
@@ -2237,8 +2237,8 @@
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 },
 {"date" : "21-12-2016",
 "team1": {
@@ -2252,8 +2252,8 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : "1",
-"score2" : "2"
+"score1" : 1,
+"score2" : 2
 },
 {"date" : "21-12-2016",
 "team1": {
@@ -2267,8 +2267,8 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : "1",
-"score2" : "1"
+"score1" : 1,
+"score2" : 1
 }
 ]
 }
