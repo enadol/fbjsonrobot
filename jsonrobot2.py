@@ -20,7 +20,12 @@ for item in match:
 	valores1=valores[0]
 
 	for key in item:
-		fhand.write('"'+llaves1+'" : "'+valores1+'"')
+
+		if llaves1=='score1' or llaves1=='score2':
+			fhand.write('"'+llaves1+'" : '+valores1)
+		else: 
+			fhand.write('"'+llaves1+'" : "'+valores1+'"')
+
 		if llaves1=='date':
 			fhand.write(',\n"team1": {\n')
 		
