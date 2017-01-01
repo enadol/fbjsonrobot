@@ -2,10 +2,13 @@ from daterobot import lstnuevafecha
 import datetime
 import time
 
-#print lstnuevafecha
 diadef=[]
+
 for date in lstnuevafecha:
-	datelst=[]
+	jornada=len(diadef)/9
+	jornada +=1
+	#print jornada
+	#datelst=[]
 	fecha=date.split('-')
 	dia=fecha[0]
 	mes=fecha[1]
@@ -29,6 +32,13 @@ for date in lstnuevafecha:
 		for i in range(0,4):
 			diadef.append(date)
 				
+	#para las dos ultimas jornadas del torneo,
+	#que se juegan todos los partidos en un solo dia
+	elif jornada>32:
+		for i in range(0,9):
+			diadef.append(date)
+
+	#para los miercoles
 	else:
 		for i in range(0,5):
 			diadef.append(date)
