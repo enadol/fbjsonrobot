@@ -1,5 +1,5 @@
 import re
-#script inicial. importa y limpia los datos del .txt
+#initial script. cleans data from .txt
 
 #url=('https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt')
 fh=open('1-bundesliga-i.txt')

@@ -7,6 +7,7 @@ count=0
 countjuegos=1
 countteam=2
 countjornada=0
+pp=pprint.PrettyPrinter(indent=4)
 #print score1, score2
 fhand=open('bundesliga.json', 'w')
 fhand.write('{\n"name": "Deutsche Bundesliga 2016/17",\n"rounds": [\n{\n"name": "1. Jornada",\n"matches": [\n{\n')
@@ -46,7 +47,7 @@ for item in match:
 				fhand.write('\n}\n]\n},\n{')
 				countjuegos==1
 			else:
-			#TODO: programar el cambio adecuado de jornada (brackets)
+			
 				fhand.write('\n},\n{')
 		
 		else:
@@ -56,12 +57,11 @@ for item in match:
 
 	if (count%81==0):
 		jornada=(count/81)
-		#para evitar que se imprima la ultima careta vacia de jornada
-		#factor semi-aleatorio. *10 facilita comprender: numero de jornada + un cero
-		#hay que cambiarlo cada jornada
+		#to aoid printing the last, empty md
+		#md * 10. factor chosen alleatory
 		lstjornada.append(jornada)
 		countjornada=jornada*10
-		#TODO: volver dinamico el factor
+		#TODO: dinamically generate factor
 
 		if countjornada<160:
 			fhand.write('\n "name": "'+str(jornada+1)+'. Jornada",\n')
@@ -72,8 +72,18 @@ for item in match:
 	else:
 		continue
 
-	
+
 
 #print count
 
 fhand.close()
+
+# fhand2=open('bundesliga.json')
+# stringfhand=fhand2.read()
+# pp.pprint(stringfhand)
+# print stringfhand
+
+# with open('bl1.json', 'w') as bl1:
+ 	
+#  	bl1.write(stringfhand)
+# fhand2.close()	

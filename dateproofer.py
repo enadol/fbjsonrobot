@@ -32,13 +32,14 @@ for date in lstnuevafecha:
 		for i in range(0,4):
 			diadef.append(date)
 				
-	#para las dos ultimas jornadas del torneo,
-	#que se juegan todos los partidos en un solo dia
+	#for the last two matchdays of each tournament,
+	#all matches in one day
+	# to be verified at the end of this tournament
 	elif jornada>32:
 		for i in range(0,9):
 			diadef.append(date)
 
-	#para los miercoles
+	#for wednesday matches on english weeks
 	else:
 		for i in range(0,5):
 			diadef.append(date)

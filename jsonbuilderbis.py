@@ -21,9 +21,9 @@ ronda2=[]
 rondas=[ronda1, ronda2]
 match=[]
 count=0
-
+#print lsthome
 for e in range(0,len(lsthome)):
-	#fecha dinamica desde dateproofer.py
+	#dinamically generated date from dateproofer.py
 	date=diadef[e]
 	name1=lsthome[e]
 	#print name1
