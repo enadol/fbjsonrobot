@@ -7,7 +7,7 @@ Launch file is launch.py
 
 In Windows console python launch.py and the JSON file is generated
 
-## But first, adapt the code according to your needs (league, file names, etc)
+## But first, check and/or adapt the code according to your needs (league, file names, paths, etc)
 
 This example uses 1-bundesliga-i.txt as origin file but can be adapted to use the raw github Link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt to it
 
