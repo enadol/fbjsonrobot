@@ -11,7 +11,7 @@ In Windows console python launch.py and the JSON file is generated
 
 This example uses 1-bundesliga-i.txt as origin file but can be adapted to use the raw github Link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt to it
 
-The currently generated file is intented to be used in spanish with UTF-8
+The currently generated file (in this example, bundesliga.json) is intented to be used in spanish with UTF-8
 
 TODO:
 
