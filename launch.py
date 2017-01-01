@@ -1,4 +1,5 @@
-import cleanerteams
+#import cleanerteams 
+# only necessary if club names are to be changed from the original
 import fbjsonbis
 import jsonbuilderbis
 #import daterobot ???
