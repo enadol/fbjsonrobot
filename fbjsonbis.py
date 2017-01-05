@@ -2,7 +2,7 @@ import re
 #initial script. cleans data from .txt
 #to open the two files of the season
 filenames = ['1-bundesliga-i.txt', '1-bundesliga-ii.txt']
-with open('bundesliga2016', 'w') as outfile:
+with open('bundesliga2016.txt', 'w') as outfile:
     for fname in filenames:
         with open(fname) as infile:
             for line in infile:
