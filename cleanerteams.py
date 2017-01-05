@@ -4,6 +4,7 @@
 #Para limpiar el json general obtenido del repositorio
 
 fname = raw_input("Enter a file name: ")
+#do it also with 1-bundesliga-ii.txt
 if ( len(fname) < 1 ) : fname = '1-bundesliga-i.txt'
 
 fh = open(fname)
