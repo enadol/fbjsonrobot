@@ -15,6 +15,7 @@ lstjornada=[]
 
 for text in fh:
 	line=text.rstrip()
+	#print line
 	if line.startswith('['):
 		date=line
 		lstdate.append(date)
@@ -37,7 +38,7 @@ for text in fh:
 	roh3=tghome.split(line)
 	roh4=tgaway.split(line)
 
-	#print roh4
+	#print roh2[0]
 	if len(roh3)>1:
 		position=0
 		item10=roh3[0]
@@ -54,16 +55,18 @@ for text in fh:
 
 	if len(roh2)>1:
 		item=roh2[0]
+		#print item.strip()
 		item2=item.split('  ',2)
 		#split para quitar espacios
 		item3=item2[2]
-		#print item3
-		item4=item3.split(' ',1)
+		teamhome=item3.strip()
+		#item4=item3.split(' ',1)
 		#print item4
-		item5a=item4[1]
-		#print item5a
-		item6a=item5a.split('  ')
-		teamhome=item6a[0].rstrip()
+		#item5a=item4[1]
+		#teamhome=item5a.strip()
+		#print teamhome
+		#item6a=item5a.split('  ')
+		#teamhome=item6a[0].rstrip()
 		#print teamhome
 		lsthome.append(teamhome)
 	else:
@@ -72,11 +75,11 @@ for text in fh:
 	if len(roh)>1:
 		
 		item5=roh[1]
-		
-		item6=item5.split('  ', 1)
-		item7=item6[1]
-		item8=item7.split(' ', 1)
-		teamaway=item7.lstrip()
+		teamaway=item5.strip()
+		#item6=item5.split('  ', 1)
+		#item7=item6[1]
+		#item8=item7.split(' ', 1)
+		#teamaway=item7.lstrip()
 		#print teamaway
 		lstaway.append(teamaway)
 		
