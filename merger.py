@@ -5,3 +5,4 @@ with open('bundesliga2016.txt', 'w') as outfile:
             for line in infile:
                 outfile.write(line)
         outfile.write('\n')
+outfile.close()
