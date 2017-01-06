@@ -44,7 +44,6 @@ for text in fh:
 		item10=roh3[0]
 		
 		positionhome=len(item10)-1
-		#print position
 		goalshome=item10[positionhome:]
 		lstgoalshome.append(goalshome)
 
@@ -55,19 +54,10 @@ for text in fh:
 
 	if len(roh2)>1:
 		item=roh2[0]
-		#print item.strip()
 		item2=item.split('  ',2)
 		#split para quitar espacios
 		item3=item2[2]
 		teamhome=item3.strip()
-		#item4=item3.split(' ',1)
-		#print item4
-		#item5a=item4[1]
-		#teamhome=item5a.strip()
-		#print teamhome
-		#item6a=item5a.split('  ')
-		#teamhome=item6a[0].rstrip()
-		#print teamhome
 		lsthome.append(teamhome)
 	else:
 		continue
@@ -76,11 +66,6 @@ for text in fh:
 		
 		item5=roh[1]
 		teamaway=item5.strip()
-		#item6=item5.split('  ', 1)
-		#item7=item6[1]
-		#item8=item7.split(' ', 1)
-		#teamaway=item7.lstrip()
-		#print teamaway
 		lstaway.append(teamaway)
 		
 	else:
