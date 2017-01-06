@@ -1,19 +1,19 @@
 # fbjsonrobot
-## A Python robot that transforms bundesliga text files from @geraldb ' s openfootball and emulates its JSON using the required structure.
+## A Python robot that transforms bundesliga text files from @geraldb ' s openfootball and replicates its JSON using the required structure.
 
 Scripts with dependencies
 
 Launch file is launch.py
 
-In Windows console python launch.py and the JSON file is generated
+In Windows console, execute python launch.py and the JSON file is generated dinamically and completely
 
 ## But first, check and/or adapt the code according to your needs (league, file names, paths, etc)
 
-This example uses 1-bundesliga-i.txt as origin file but can be adapted to use the raw github Link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt to it
+This example uses 1-bundesliga-i.txt and 1-bundesliga-ii.txt (merged via merger.py) as origin files but can be adapted to use the raw github Link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt to it
 
 The currently generated file (in this example, bundesliga.json) is intented to be used in spanish with UTF-8
 
-TODO:
+* TODO:
 
 * Erase "{,]" at the end of the JSON to make it valideable
 
