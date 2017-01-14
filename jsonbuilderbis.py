@@ -32,20 +32,8 @@ for e in range(0,len(lsthome)):
 	name2=lstaway[e]
 	key2=clubkeys[name2]
 	code2=clubcodes[name2]
-	lstteam1.append(key1)
-	lstteam1.append(name1)
-	lstteam1.append(code1)
 	goals1=lstgoalshome[e]
-	
-			#print lstteam1
-			
-	lstteam1.append(date)
-	lstteam1.append(key2)
-	lstteam1.append(name2)
-	lstteam1.append(code2)
 	goals2=lstgoalsaway[e]
-	lstteam1.append(goals1)
-	lstteam1.append(goals2)
 
 	date1={"date": date}
 	key14lst={'key': key1}
@@ -69,4 +57,4 @@ for e in range(0,len(lsthome)):
 	match.append(score1)
 	match.append(score2)
 	matches.append(match)
-#print diadef
+#print match

@@ -19,8 +19,7 @@ for text in fh:
 	if line.startswith('['):
 		date=line
 		lstdate.append(date)
-		#print date
-		#print len(lstdate)
+		
 	
 	if 'Jornada' in line:
 		jornada=line
@@ -31,8 +30,7 @@ for text in fh:
 	thome=re.compile('.:.*')
 	tghome=re.compile(':.*')
 	tgaway=re.compile('.*:')
-	#res=re.findall(r'^\s+.*\s.*', line)
-	#print res
+	
 	roh=taway.split(line)
 	roh2=thome.split(line)
 	roh3=tghome.split(line)
@@ -44,6 +42,7 @@ for text in fh:
 		item10=roh3[0]
 		
 		positionhome=len(item10)-1
+		#print position
 		goalshome=item10[positionhome:]
 		lstgoalshome.append(goalshome)
 
@@ -54,6 +53,7 @@ for text in fh:
 
 	if len(roh2)>1:
 		item=roh2[0]
+		#print item.strip()
 		item2=item.split('  ',2)
 		#split para quitar espacios
 		item3=item2[2]

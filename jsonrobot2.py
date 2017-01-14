@@ -57,7 +57,7 @@ for item in match:
 
 	if (count%81==0):
 		jornada=(count/81)
-		#to aoid printing the last, empty md
+		#to avoid printing the last, empty md
 		#md * 10. factor chosen alleatory
 		lstjornada.append(jornada)
 		countjornada=jornada*10
@@ -77,13 +77,3 @@ for item in match:
 #print count
 
 fhand.close()
-
-# fhand2=open('bundesliga.json')
-# stringfhand=fhand2.read()
-# pp.pprint(stringfhand)
-# print stringfhand
-
-# with open('bl1.json', 'w') as bl1:
- 	
-#  	bl1.write(stringfhand)
-# fhand2.close()	
