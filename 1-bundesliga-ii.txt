@@ -1,140 +1,158 @@
 17. Spieltag
+[Fr 20.1.]
+  20.30  SC Freiburg           1:2  Bayern Muenchen
 [Sa 21.1.]
-  Bayer Leverkusen  Hertha BSC
-  FC Schalke 04  FC Ingolstadt 04
-  1. FSV Mainz 05  1. FC Köln
-  VfL Wolfsburg  Hamburger SV
-  FC Augsburg  1899 Hoffenheim
-  Werder Bremen  Borussia Dortmund
-  SV Darmstadt 98  Bor. Mönchengladbach
-  SC Freiburg  Bayern München
-  RB Leipzig  Eintracht Frankfurt
-
+  15.30  FC Schalke 04         1:0  FC Ingolstadt 04
+  15.30  VfL Wolfsburg         1:0  Hamburger SV
+  15.30  FC Augsburg           0:2  1899 Hoffenheim
+  15.30  Werder Bremen         1:2  Borussia Dortmund
+  15.30  SV Darmstadt 98       0:0  Bor. Moenchengladbach
+  18.30  RB Leipzig            3:0  Eintracht Frankfurt
+[So 22.1.]
+  15.30  Bayer Leverkusen      3:1  Hertha BSC
+  17.30  1. FSV Mainz 05       0:0  1. FC Koeln
+    
 18. Spieltag
+[Fr 27.1.]
+  20.30  FC Schalke 04         0:1  Eintracht Frankfurt
 [Sa 28.1.]
-  Werder Bremen  Bayern München
-  FC Schalke 04  Eintracht Frankfurt
-  RB Leipzig  1899 Hoffenheim
-  VfL Wolfsburg  FC Augsburg
-  FC Ingolstadt 04  Hamburger SV
-  SV Darmstadt 98  1. FC Köln
-  SC Freiburg  Hertha BSC
-  Bayer Leverkusen  Bor. Mönchengladbach
-  1. FSV Mainz 05  Borussia Dortmund
+  15.30  VfL Wolfsburg         1:2  FC Augsburg
+  15.30  FC Ingolstadt 04      3:1  Hamburger SV
+  15.30  Werder Bremen         1:2  Bayern Muenchen
+  15.30  SV Darmstadt 98       1:6  1. FC Koeln
+  15.30  RB Leipzig            2:1  1899 Hoffenheim
+  18.30  Bayer Leverkusen      2:3  Bor. Moenchengladbach 
+[So 29.1.]
+  15.30  SC Freiburg           2:1  Hertha BSC
+  17.30  1. FSV Mainz 05       1:1  Borussia Dortmund
 
 19. Spieltag
+[Fr 3.2.]
+  20.30  Hamburger SV          1:0  Bayer Leverkusen
 [Sa 4.2.]
-  Hamburger SV  Bayer Leverkusen
-  Bayern München  FC Schalke 04
-  1899 Hoffenheim  1. FSV Mainz 05
-  1. FC Köln  VfL Wolfsburg
-  Hertha BSC  FC Ingolstadt 04
-  FC Augsburg  Werder Bremen
-  Eintracht Frankfurt  SV Darmstadt 98
-  Bor. Mönchengladbach  SC Freiburg
-  Borussia Dortmund  RB Leipzig
-
+  15.30  Bayern Muenchen        1:1  FC Schalke 04
+  15.30  Bor. Moenchengladbach  3:0  SC Freiburg
+  15.30  Hertha BSC            1:0  FC Ingolstadt 04
+  15.30  1. FC Koeln            1:0  VfL Wolfsburg
+  15.30  1899 Hoffenheim       4:0  1. FSV Mainz 05
+  18.30  Borussia Dortmund     1:0  RB Leipzig
+[So 5.2.]
+  15.30  FC Augsburg           3:2  Werder Bremen
+  17.30  Eintracht Frankfurt   2:0  SV Darmstadt 98
+  
 20. Spieltag
+[Fr 10.2.]
+  20.30  1. FSV Mainz 05       2:0  FC Augsburg
 [Sa 11.2.]
-  FC Ingolstadt 04  Bayern München
-  SV Darmstadt 98  Borussia Dortmund
-  Werder Bremen  Bor. Mönchengladbach
-  FC Schalke 04  Hertha BSC
-  SC Freiburg  1. FC Köln
-  RB Leipzig  Hamburger SV
-  1. FSV Mainz 05  FC Augsburg
-  VfL Wolfsburg  1899 Hoffenheim
-  Bayer Leverkusen  Eintracht Frankfurt
-
+  15.30  Bayer Leverkusen      3:0  Eintracht Frankfurt
+  15.30  FC Ingolstadt 04      0:2  Bayern Muenchen
+  15.30  Werder Bremen         0:1  Bor. Moenchengladbach
+  15.30  SV Darmstadt 98       2:1  Borussia Dortmund
+  15.30  RB Leipzig            0:3  Hamburger SV
+  18.30  FC Schalke 04         2:0  Hertha BSC
+[So 12.2.]
+  15.30  VfL Wolfsburg         2:1  1899 Hoffenheim
+  17.30  SC Freiburg           2:1  1. FC Koeln
+  
 21. Spieltag
+[Fr 17.2.]
+  20.30  FC Augsburg           1:3  Bayer Leverkusen
 [Sa 18.2.]
-  Hertha BSC  Bayern München
-  FC Augsburg  Bayer Leverkusen
-  1. FC Köln  FC Schalke 04
-  Borussia Dortmund  VfL Wolfsburg
-  Eintracht Frankfurt  FC Ingolstadt 04
-  1. FSV Mainz 05  Werder Bremen
-  1899 Hoffenheim  SV Darmstadt 98
-  Hamburger SV  SC Freiburg
-  Bor. Mönchengladbach  RB Leipzig
+  15.30  Hertha BSC            1:1  Bayern Muenchen
+  15.30  Borussia Dortmund     3:0  VfL Wolfsburg
+  15.30  Eintracht Frankfurt   0:2  FC Ingolstadt 04
+  15.30  1. FSV Mainz 05       0:2  Werder Bremen
+  15.30  1899 Hoffenheim       2:0  SV Darmstadt 98
+  18.30  Hamburger SV          2:2  SC Freiburg
+[So 19.2.]
+  15.30  Bor. Moenchengladbach  1:2  RB Leipzig
+  17.30  1. FC Koeln            1:1  FC Schalke 04
 
 22. Spieltag
+[Fr 24.2.]
+  20.30  VfL Wolfsburg         1:2  Werder Bremen
 [Sa 25.2.]
-  SC Freiburg  Borussia Dortmund
-  FC Ingolstadt 04  Bor. Mönchengladbach
-  Bayer Leverkusen  1. FSV Mainz 05
-  RB Leipzig  1. FC Köln
-  Bayern München  Hamburger SV
-  SV Darmstadt 98  FC Augsburg
-  VfL Wolfsburg  Werder Bremen
-  FC Schalke 04  1899 Hoffenheim
-  Hertha BSC  Eintracht Frankfurt
+  15.30  Bayern Muenchen        8:0  Hamburger SV
+  15.30  Bayer Leverkusen      0:2  1. FSV Mainz 05
+  15.30  SV Darmstadt 98       1:2  FC Augsburg
+  15.30  SC Freiburg           0:3  Borussia Dortmund
+  15.30  RB Leipzig            3:1  1. FC Koeln
+  18.30  Hertha BSC            2:0  Eintracht Frankfurt
+[So 26.2.]
+  15.30  FC Ingolstadt 04      0:2  Bor. Moenchengladbach
+  17.30  FC Schalke 04         1:1  1899 Hoffenheim
 
 23. Spieltag
+[Fr 3.3.]
+  20.30  FC Augsburg           2:2  RB Leipzig
 [Sa 4.3.]
-  1. FC Köln  Bayern München
-  Borussia Dortmund  Bayer Leverkusen
-  Bor. Mönchengladbach  FC Schalke 04
-  Hamburger SV  Hertha BSC
-  1. FSV Mainz 05  VfL Wolfsburg
-  1899 Hoffenheim  FC Ingolstadt 04
-  Werder Bremen  SV Darmstadt 98
-  Eintracht Frankfurt  SC Freiburg
-  FC Augsburg  RB Leipzig
-
+  15.30  Borussia Dortmund     6:2  Bayer Leverkusen
+  15.30  1. FSV Mainz 05       1:1  VfL Wolfsburg
+  15.30  1. FC Koeln            0:3  Bayern Muenchen
+  15.30  Werder Bremen         2:0  SV Darmstadt 98
+  15.30  1899 Hoffenheim       5:2  FC Ingolstadt 04
+  18.30  Bor. Moenchengladbach  4:2  FC Schalke 04
+[So 5.3.]
+  15.30  Eintracht Frankfurt   1:2  SC Freiburg
+  17.30  Hamburger SV          1:0  Hertha BSC
+  
 24. Spieltag
+[Fr 10.3.]
+  20.30  Bayer Leverkusen      1:1  Werder Bremen
 [Sa 11.3.]
-  Hertha BSC  Borussia Dortmund
-  Hamburger SV  Bor. Mönchengladbach
-  SV Darmstadt 98  1. FSV Mainz 05
-  RB Leipzig  VfL Wolfsburg
-  FC Ingolstadt 04  1. FC Köln
-  FC Schalke 04  FC Augsburg
-  Bayer Leverkusen  Werder Bremen
-  SC Freiburg  1899 Hoffenheim
-  Bayern München  Eintracht Frankfurt
+  15.30  Bayern Muenchen        3:0  Eintracht Frankfurt
+  15.30  Hertha BSC            2:1  Borussia Dortmund
+  15.30  SV Darmstadt 98       2:1  1. FSV Mainz 05
+  15.30  SC Freiburg           1:1  1899 Hoffenheim
+  15.30  RB Leipzig            0:1  VfL Wolfsburg
+  18.30  FC Ingolstadt 04      2:2  1. FC Koeln
+[So 12.3.]
+  15.30  FC Schalke 04         3:0  FC Augsburg
+  17.30  Hamburger SV          2:1  Bor. Moenchengladbach
 
 25. Spieltag
+[Fr 17.3.]
+  20.30  Borussia Dortmund  FC Ingolstadt 04
 [Sa 18.3.]
-  Bor. Mönchengladbach  Bayern München
-  1899 Hoffenheim  Bayer Leverkusen
-  1. FSV Mainz 05  FC Schalke 04
-  1. FC Köln  Hertha BSC
-  Eintracht Frankfurt  Hamburger SV
-  Borussia Dortmund  FC Ingolstadt 04
-  VfL Wolfsburg  SV Darmstadt 98
-  Werder Bremen  RB Leipzig
-  FC Augsburg  SC Freiburg
+  15.30  VfL Wolfsburg  SV Darmstadt 98
+  15.30  1. FC Koeln  Hertha BSC
+  15.30  FC Augsburg  SC Freiburg
+  15.30  Werder Bremen  RB Leipzig 
+  15.30  1899 Hoffenheim  Bayer Leverkusen
+  18.30  Eintracht Frankfurt  Hamburger SV
+[So 19.3.]
+  15.30  1. FSV Mainz 05  FC Schalke 04
+  17.30  Bor. Moenchengladbach  Bayern Muenchen
 
 26. Spieltag
 [Sa 1.4.]
   FC Schalke 04  Borussia Dortmund
-  Eintracht Frankfurt  Bor. Mönchengladbach
+  Eintracht Frankfurt  Bor. Moenchengladbach
   FC Ingolstadt 04  1. FSV Mainz 05
   Bayer Leverkusen  VfL Wolfsburg
-  Hamburger SV  1. FC Köln
-  Bayern München  FC Augsburg
+  Hamburger SV  1. FC Koeln
+  Bayern Muenchen  FC Augsburg
   SC Freiburg  Werder Bremen
   RB Leipzig  SV Darmstadt 98
   Hertha BSC  1899 Hoffenheim
 
 27. Spieltag
 [Di 4.4.]
-  1899 Hoffenheim  Bayern München
+  1899 Hoffenheim  Bayern Muenchen
   SV Darmstadt 98  Bayer Leverkusen
   Werder Bremen  FC Schalke 04
-  Bor. Mönchengladbach  Hertha BSC
+  Bor. Moenchengladbach  Hertha BSC
   Borussia Dortmund  Hamburger SV
   FC Augsburg  FC Ingolstadt 04
-  1. FC Köln  Eintracht Frankfurt
+  1. FC Koeln  Eintracht Frankfurt
   VfL Wolfsburg  SC Freiburg
   1. FSV Mainz 05  RB Leipzig
 
 28. Spieltag
 [Sa 8.4.]
-  Bayern München  Borussia Dortmund
+  Bayern Muenchen  Borussia Dortmund
   RB Leipzig  Bayer Leverkusen
-  1. FC Köln  Bor. Mönchengladbach
+  1. FC Koeln  Bor. Moenchengladbach
   SC Freiburg  1. FSV Mainz 05
   FC Schalke 04  VfL Wolfsburg
   Hertha BSC  FC Augsburg
@@ -144,11 +162,11 @@
 
 29. Spieltag
 [Sa 15.4.]
-  Bayer Leverkusen  Bayern München
-  1899 Hoffenheim  Bor. Mönchengladbach
+  Bayer Leverkusen  Bayern Muenchen
+  1899 Hoffenheim  Bor. Moenchengladbach
   SV Darmstadt 98  FC Schalke 04
   1. FSV Mainz 05  Hertha BSC
-  FC Augsburg  1. FC Köln
+  FC Augsburg  1. FC Koeln
   Werder Bremen  Hamburger SV
   VfL Wolfsburg  FC Ingolstadt 04
   Borussia Dortmund  Eintracht Frankfurt
@@ -156,23 +174,23 @@
 
 30. Spieltag
 [Sa 22.4.]
-  Bor. Mönchengladbach  Borussia Dortmund
+  Bor. Moenchengladbach  Borussia Dortmund
   SC Freiburg  Bayer Leverkusen
-  Bayern München  1. FSV Mainz 05
+  Bayern Muenchen  1. FSV Mainz 05
   Hertha BSC  VfL Wolfsburg
   Eintracht Frankfurt  FC Augsburg
   FC Ingolstadt 04  Werder Bremen
   Hamburger SV  SV Darmstadt 98
-  1. FC Köln  1899 Hoffenheim
+  1. FC Koeln  1899 Hoffenheim
   FC Schalke 04  RB Leipzig
 
 31. Spieltag
 [Sa 29.4.]
-  VfL Wolfsburg  Bayern München
-  1. FSV Mainz 05  Bor. Mönchengladbach
+  VfL Wolfsburg  Bayern Muenchen
+  1. FSV Mainz 05  Bor. Moenchengladbach
   Bayer Leverkusen  FC Schalke 04
   Werder Bremen  Hertha BSC
-  Borussia Dortmund  1. FC Köln
+  Borussia Dortmund  1. FC Koeln
   FC Augsburg  Hamburger SV
   RB Leipzig  FC Ingolstadt 04
   1899 Hoffenheim  Eintracht Frankfurt
@@ -184,19 +202,19 @@
   SC Freiburg  FC Schalke 04
   Hamburger SV  1. FSV Mainz 05
   Eintracht Frankfurt  VfL Wolfsburg
-  Bor. Mönchengladbach  FC Augsburg
-  1. FC Köln  Werder Bremen
-  Bayern München  SV Darmstadt 98
+  Bor. Moenchengladbach  FC Augsburg
+  1. FC Koeln  Werder Bremen
+  Bayern Muenchen  SV Darmstadt 98
   Borussia Dortmund  1899 Hoffenheim
   Hertha BSC  RB Leipzig
 
 33. Spieltag
 [Sa 13.5.]
-  RB Leipzig  Bayern München
+  RB Leipzig  Bayern Muenchen
   FC Augsburg  Borussia Dortmund
-  VfL Wolfsburg  Bor. Mönchengladbach
+  VfL Wolfsburg  Bor. Moenchengladbach
   SV Darmstadt 98  Hertha BSC
-  Bayer Leverkusen  1. FC Köln
+  Bayer Leverkusen  1. FC Koeln
   FC Schalke 04  Hamburger SV
   SC Freiburg  FC Ingolstadt 04
   Werder Bremen  1899 Hoffenheim
@@ -206,10 +224,10 @@
 [Sa 20.5.]
   Hertha BSC  Bayer Leverkusen
   FC Ingolstadt 04  FC Schalke 04
-  1. FC Köln  1. FSV Mainz 05
+  1. FC Koeln  1. FSV Mainz 05
   Hamburger SV  VfL Wolfsburg
   1899 Hoffenheim  FC Augsburg
   Borussia Dortmund  Werder Bremen
-  Bor. Mönchengladbach  SV Darmstadt 98
-  Bayern München  SC Freiburg
+  Bor. Moenchengladbach  SV Darmstadt 98
+  Bayern Muenchen  SC Freiburg
   Eintracht Frankfurt  RB Leipzig

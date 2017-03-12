@@ -44,8 +44,11 @@ for item in match:
 
 		if llaves1=='score2':
 			if countjuegos%9==0:
-				fhand.write('\n}\n]\n},\n{')
-				countjuegos==1
+				if count<len(match):
+					fhand.write('\n}\n]\n},\n{')
+					countjuegos==1
+				else:
+					fhand.write('\n}\n]\n}')
 			else:
 			
 				fhand.write('\n},\n{')
@@ -63,7 +66,8 @@ for item in match:
 		countjornada=jornada*10
 		#TODO: dinamically generate factor
 
-		if countjornada<160:
+		if countjornada<240:
+
 			fhand.write('\n "name": "'+str(jornada+1)+'. Jornada",\n')
 			fhand.write('\n"matches": [\n{\n')
 
