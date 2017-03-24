@@ -1,3 +1,4 @@
+from input import jornada as howmany
 from jsonbuilderbis import match, score1, score2, lstjornada
 import json
 import pprint
@@ -66,7 +67,7 @@ for item in match:
 		countjornada=jornada*10
 		#TODO: dinamically generate factor
 
-		if countjornada<240:
+		if countjornada<int(howmany)*10:
 
 			fhand.write('\n "name": "'+str(jornada+1)+'. Jornada",\n')
 			fhand.write('\n"matches": [\n{\n')
