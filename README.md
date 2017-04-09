@@ -15,8 +15,6 @@ The currently generated file (in this example, bundesliga.json) is intented to b
 
 TODO:
 
-* Erase "{,]" at the end of the JSON to make it valideable
-
 * JSOn is still to be "pretty printed"
 
 * A future version in german is intented, to be used with the original JSON and the link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt
