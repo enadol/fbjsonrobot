@@ -7,6 +7,7 @@ lstdatenew=[]
 lstnuevafecha=[]
 for item in lstdate:
 	fecha=item.split('.')
+	#print fecha
 	partida=fecha[0].split(' ')
 	dia=partida[1]
 	#print dia
