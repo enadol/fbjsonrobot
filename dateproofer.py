@@ -3,7 +3,7 @@ import datetime
 import time
 
 diadef=[]
-
+#print lstnuevafecha
 for date in lstnuevafecha:
 	jornada=len(diadef)/9
 	jornada +=1
