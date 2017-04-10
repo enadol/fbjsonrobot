@@ -9,20 +9,21 @@ for item in lstdate:
 	fecha=item.split('.')
 	#print fecha
 	partida=fecha[0].split(' ')
+	#print partida
 	dia=partida[1]
 	#print dia
-	mes=str(fecha[1]).zfill(2)
-	#print mes
+	mes=fecha[1].zfill(2)
+	#print int(fecha[1])
 	
-	if mes>=8:
+	if int(mes) >=8:
 		fecha[2]="2016"
 		
 		#print mes
 	else:
 		fecha[2]="2017"
-	
+	#print mes, fecha[2]
 	nuevafecha1=dia, mes, fecha[2]
-
+	#print nuevafecha1
 	ddia=nuevafecha1[0]
 	mmes=nuevafecha1[1]
 	yyear=nuevafecha1[2]
