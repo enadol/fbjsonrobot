@@ -28,7 +28,7 @@ for item in lstdate:
 	mmes=nuevafecha1[1]
 	yyear=nuevafecha1[2]
 	nuevafecha2=ddia+"-"+mmes+"-"+yyear
-	nuevafecha3=datetime.datetime.strptime(nuevafecha2, "%d-%m-%Y").strftime("%d-%m-%Y")
+	nuevafecha3=datetime.datetime.strptime(nuevafecha2, "%d-%m-%Y").strftime("%Y-%m-%d")
 	lstnuevafecha.append(nuevafecha3)
 #print lstnuevafecha
 	

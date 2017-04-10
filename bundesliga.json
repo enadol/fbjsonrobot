@@ -5,7 +5,7 @@
 "name": "1. Jornada",
 "matches": [
 {
-"date" : "26-08-2016",
+"date" : "2016-08-26",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -20,7 +20,7 @@
 "score1" : 6,
 "score2" : 0
 },
-{"date" : "27-08-2016",
+{"date" : "2016-08-27",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -35,7 +35,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "27-08-2016",
+{"date" : "2016-08-27",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -50,7 +50,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "27-08-2016",
+{"date" : "2016-08-27",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -65,7 +65,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "27-08-2016",
+{"date" : "2016-08-27",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -80,7 +80,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "27-08-2016",
+{"date" : "2016-08-27",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -95,7 +95,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "27-08-2016",
+{"date" : "2016-08-27",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -110,7 +110,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "28-08-2016",
+{"date" : "2016-08-28",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -125,7 +125,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "28-08-2016",
+{"date" : "2016-08-28",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -147,7 +147,7 @@
 
 "matches": [
 {
-"date" : "09-09-2016",
+"date" : "2016-09-09",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -162,7 +162,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "10-09-2016",
+{"date" : "2016-09-10",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -177,7 +177,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "10-09-2016",
+{"date" : "2016-09-10",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -192,7 +192,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "10-09-2016",
+{"date" : "2016-09-10",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -207,7 +207,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "10-09-2016",
+{"date" : "2016-09-10",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -222,7 +222,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "10-09-2016",
+{"date" : "2016-09-10",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -237,7 +237,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "10-09-2016",
+{"date" : "2016-09-10",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -252,7 +252,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "11-09-2016",
+{"date" : "2016-09-11",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -267,7 +267,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "11-09-2016",
+{"date" : "2016-09-11",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -289,7 +289,7 @@
 
 "matches": [
 {
-"date" : "16-09-2016",
+"date" : "2016-09-16",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -304,7 +304,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "17-09-2016",
+{"date" : "2016-09-17",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -319,7 +319,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "17-09-2016",
+{"date" : "2016-09-17",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -334,7 +334,7 @@
 "score1" : 6,
 "score2" : 0
 },
-{"date" : "17-09-2016",
+{"date" : "2016-09-17",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -349,7 +349,7 @@
 "score1" : 0,
 "score2" : 4
 },
-{"date" : "17-09-2016",
+{"date" : "2016-09-17",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -364,7 +364,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "17-09-2016",
+{"date" : "2016-09-17",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -379,7 +379,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "17-09-2016",
+{"date" : "2016-09-17",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -394,7 +394,7 @@
 "score1" : 4,
 "score2" : 1
 },
-{"date" : "18-09-2016",
+{"date" : "2016-09-18",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -409,7 +409,7 @@
 "score1" : 1,
 "score2" : 3
 },
-{"date" : "18-09-2016",
+{"date" : "2016-09-18",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -431,7 +431,7 @@
 
 "matches": [
 {
-"date" : "20-09-2016",
+"date" : "2016-09-20",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -446,7 +446,7 @@
 "score1" : 1,
 "score2" : 5
 },
-{"date" : "20-09-2016",
+{"date" : "2016-09-20",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -461,7 +461,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "20-09-2016",
+{"date" : "2016-09-20",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -476,7 +476,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "20-09-2016",
+{"date" : "2016-09-20",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -491,7 +491,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "21-09-2016",
+{"date" : "2016-09-21",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -506,7 +506,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "21-09-2016",
+{"date" : "2016-09-21",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -521,7 +521,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "21-09-2016",
+{"date" : "2016-09-21",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -536,7 +536,7 @@
 "score1" : 1,
 "score2" : 3
 },
-{"date" : "21-09-2016",
+{"date" : "2016-09-21",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -551,7 +551,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "21-09-2016",
+{"date" : "2016-09-21",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -573,7 +573,7 @@
 
 "matches": [
 {
-"date" : "23-09-2016",
+"date" : "2016-09-23",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -588,7 +588,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "24-09-2016",
+{"date" : "2016-09-24",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -603,7 +603,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "24-09-2016",
+{"date" : "2016-09-24",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -618,7 +618,7 @@
 "score1" : 2,
 "score2" : 3
 },
-{"date" : "24-09-2016",
+{"date" : "2016-09-24",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -633,7 +633,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "24-09-2016",
+{"date" : "2016-09-24",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -648,7 +648,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "24-09-2016",
+{"date" : "2016-09-24",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -663,7 +663,7 @@
 "score1" : 3,
 "score2" : 3
 },
-{"date" : "24-09-2016",
+{"date" : "2016-09-24",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -678,7 +678,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "25-09-2016",
+{"date" : "2016-09-25",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -693,7 +693,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "25-09-2016",
+{"date" : "2016-09-25",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -715,7 +715,7 @@
 
 "matches": [
 {
-"date" : "30-09-2016",
+"date" : "2016-09-30",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -730,7 +730,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "01-10-2016",
+{"date" : "2016-10-01",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -745,7 +745,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "01-10-2016",
+{"date" : "2016-10-01",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -760,7 +760,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "01-10-2016",
+{"date" : "2016-10-01",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -775,7 +775,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "01-10-2016",
+{"date" : "2016-10-01",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -790,7 +790,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "01-10-2016",
+{"date" : "2016-10-01",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -805,7 +805,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "01-10-2016",
+{"date" : "2016-10-01",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -820,7 +820,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "02-10-2016",
+{"date" : "2016-10-02",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -835,7 +835,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "02-10-2016",
+{"date" : "2016-10-02",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -857,7 +857,7 @@
 
 "matches": [
 {
-"date" : "14-10-2016",
+"date" : "2016-10-14",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -872,7 +872,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "15-10-2016",
+{"date" : "2016-10-15",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -887,7 +887,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "15-10-2016",
+{"date" : "2016-10-15",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -902,7 +902,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "15-10-2016",
+{"date" : "2016-10-15",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -917,7 +917,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "15-10-2016",
+{"date" : "2016-10-15",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -932,7 +932,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "15-10-2016",
+{"date" : "2016-10-15",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -947,7 +947,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "15-10-2016",
+{"date" : "2016-10-15",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -962,7 +962,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "16-10-2016",
+{"date" : "2016-10-16",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -977,7 +977,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "16-10-2016",
+{"date" : "2016-10-16",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -999,7 +999,7 @@
 
 "matches": [
 {
-"date" : "21-10-2016",
+"date" : "2016-10-21",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -1014,7 +1014,7 @@
 "score1" : 0,
 "score2" : 3
 },
-{"date" : "22-10-2016",
+{"date" : "2016-10-22",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -1029,7 +1029,7 @@
 "score1" : 0,
 "score2" : 3
 },
-{"date" : "22-10-2016",
+{"date" : "2016-10-22",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -1044,7 +1044,7 @@
 "score1" : 3,
 "score2" : 3
 },
-{"date" : "22-10-2016",
+{"date" : "2016-10-22",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -1059,7 +1059,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "22-10-2016",
+{"date" : "2016-10-22",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -1074,7 +1074,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "22-10-2016",
+{"date" : "2016-10-22",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -1089,7 +1089,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "22-10-2016",
+{"date" : "2016-10-22",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -1104,7 +1104,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "23-10-2016",
+{"date" : "2016-10-23",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -1119,7 +1119,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "23-10-2016",
+{"date" : "2016-10-23",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -1141,7 +1141,7 @@
 
 "matches": [
 {
-"date" : "28-10-2016",
+"date" : "2016-10-28",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -1156,7 +1156,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "29-10-2016",
+{"date" : "2016-10-29",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -1171,7 +1171,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "29-10-2016",
+{"date" : "2016-10-29",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -1186,7 +1186,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "29-10-2016",
+{"date" : "2016-10-29",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -1201,7 +1201,7 @@
 "score1" : 1,
 "score2" : 3
 },
-{"date" : "29-10-2016",
+{"date" : "2016-10-29",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -1216,7 +1216,7 @@
 "score1" : 1,
 "score2" : 3
 },
-{"date" : "29-10-2016",
+{"date" : "2016-10-29",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -1231,7 +1231,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "29-10-2016",
+{"date" : "2016-10-29",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -1246,7 +1246,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "30-10-2016",
+{"date" : "2016-10-30",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -1261,7 +1261,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "30-10-2016",
+{"date" : "2016-10-30",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -1283,7 +1283,7 @@
 
 "matches": [
 {
-"date" : "04-11-2016",
+"date" : "2016-11-04",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -1298,7 +1298,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "05-11-2016",
+{"date" : "2016-11-05",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -1313,7 +1313,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "05-11-2016",
+{"date" : "2016-11-05",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -1328,7 +1328,7 @@
 "score1" : 3,
 "score2" : 2
 },
-{"date" : "05-11-2016",
+{"date" : "2016-11-05",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -1343,7 +1343,7 @@
 "score1" : 0,
 "score2" : 3
 },
-{"date" : "05-11-2016",
+{"date" : "2016-11-05",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -1358,7 +1358,7 @@
 "score1" : 2,
 "score2" : 5
 },
-{"date" : "05-11-2016",
+{"date" : "2016-11-05",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -1373,7 +1373,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "05-11-2016",
+{"date" : "2016-11-05",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -1388,7 +1388,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "06-11-2016",
+{"date" : "2016-11-06",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -1403,7 +1403,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "06-11-2016",
+{"date" : "2016-11-06",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -1425,7 +1425,7 @@
 
 "matches": [
 {
-"date" : "18-11-2016",
+"date" : "2016-11-18",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -1440,7 +1440,7 @@
 "score1" : 2,
 "score2" : 3
 },
-{"date" : "19-11-2016",
+{"date" : "2016-11-19",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -1455,7 +1455,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "19-11-2016",
+{"date" : "2016-11-19",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -1470,7 +1470,7 @@
 "score1" : 4,
 "score2" : 2
 },
-{"date" : "19-11-2016",
+{"date" : "2016-11-19",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -1485,7 +1485,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "19-11-2016",
+{"date" : "2016-11-19",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -1500,7 +1500,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "19-11-2016",
+{"date" : "2016-11-19",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -1515,7 +1515,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "19-11-2016",
+{"date" : "2016-11-19",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -1530,7 +1530,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "20-11-2016",
+{"date" : "2016-11-20",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -1545,7 +1545,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "20-11-2016",
+{"date" : "2016-11-20",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -1567,7 +1567,7 @@
 
 "matches": [
 {
-"date" : "25-11-2016",
+"date" : "2016-11-25",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -1582,7 +1582,7 @@
 "score1" : 1,
 "score2" : 4
 },
-{"date" : "26-11-2016",
+{"date" : "2016-11-26",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -1597,7 +1597,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "26-11-2016",
+{"date" : "2016-11-26",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -1612,7 +1612,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "26-11-2016",
+{"date" : "2016-11-26",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -1627,7 +1627,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "26-11-2016",
+{"date" : "2016-11-26",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -1642,7 +1642,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "26-11-2016",
+{"date" : "2016-11-26",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -1657,7 +1657,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "26-11-2016",
+{"date" : "2016-11-26",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -1672,7 +1672,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "27-11-2016",
+{"date" : "2016-11-27",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -1687,7 +1687,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "27-11-2016",
+{"date" : "2016-11-27",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -1709,7 +1709,7 @@
 
 "matches": [
 {
-"date" : "02-12-2016",
+"date" : "2016-12-02",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -1724,7 +1724,7 @@
 "score1" : 1,
 "score2" : 3
 },
-{"date" : "03-12-2016",
+{"date" : "2016-12-03",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -1739,7 +1739,7 @@
 "score1" : 4,
 "score2" : 1
 },
-{"date" : "03-12-2016",
+{"date" : "2016-12-03",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -1754,7 +1754,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "03-12-2016",
+{"date" : "2016-12-03",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -1769,7 +1769,7 @@
 "score1" : 2,
 "score2" : 3
 },
-{"date" : "03-12-2016",
+{"date" : "2016-12-03",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -1784,7 +1784,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "03-12-2016",
+{"date" : "2016-12-03",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -1799,7 +1799,7 @@
 "score1" : 4,
 "score2" : 0
 },
-{"date" : "03-12-2016",
+{"date" : "2016-12-03",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -1814,7 +1814,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "04-12-2016",
+{"date" : "2016-12-04",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -1829,7 +1829,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "04-12-2016",
+{"date" : "2016-12-04",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -1851,7 +1851,7 @@
 
 "matches": [
 {
-"date" : "09-12-2016",
+"date" : "2016-12-09",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -1866,7 +1866,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "10-12-2016",
+{"date" : "2016-12-10",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -1881,7 +1881,7 @@
 "score1" : 5,
 "score2" : 0
 },
-{"date" : "10-12-2016",
+{"date" : "2016-12-10",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -1896,7 +1896,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "10-12-2016",
+{"date" : "2016-12-10",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -1911,7 +1911,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "10-12-2016",
+{"date" : "2016-12-10",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -1926,7 +1926,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "10-12-2016",
+{"date" : "2016-12-10",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -1941,7 +1941,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "10-12-2016",
+{"date" : "2016-12-10",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -1956,7 +1956,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "11-12-2016",
+{"date" : "2016-12-11",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -1971,7 +1971,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "11-12-2016",
+{"date" : "2016-12-11",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -1993,7 +1993,7 @@
 
 "matches": [
 {
-"date" : "16-12-2016",
+"date" : "2016-12-16",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -2008,7 +2008,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "17-12-2016",
+{"date" : "2016-12-17",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -2023,7 +2023,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "17-12-2016",
+{"date" : "2016-12-17",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -2038,7 +2038,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "17-12-2016",
+{"date" : "2016-12-17",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -2053,7 +2053,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "17-12-2016",
+{"date" : "2016-12-17",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -2068,7 +2068,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "17-12-2016",
+{"date" : "2016-12-17",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -2083,7 +2083,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "17-12-2016",
+{"date" : "2016-12-17",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -2098,7 +2098,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "18-12-2016",
+{"date" : "2016-12-18",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -2113,7 +2113,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "18-12-2016",
+{"date" : "2016-12-18",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -2135,7 +2135,7 @@
 
 "matches": [
 {
-"date" : "20-12-2016",
+"date" : "2016-12-20",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -2150,7 +2150,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "20-12-2016",
+{"date" : "2016-12-20",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -2165,7 +2165,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "20-12-2016",
+{"date" : "2016-12-20",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -2180,7 +2180,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "20-12-2016",
+{"date" : "2016-12-20",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -2195,7 +2195,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "21-12-2016",
+{"date" : "2016-12-21",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -2210,7 +2210,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "21-12-2016",
+{"date" : "2016-12-21",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -2225,7 +2225,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "21-12-2016",
+{"date" : "2016-12-21",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -2240,7 +2240,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "21-12-2016",
+{"date" : "2016-12-21",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -2255,7 +2255,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "21-12-2016",
+{"date" : "2016-12-21",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -2277,7 +2277,7 @@
 
 "matches": [
 {
-"date" : "20-01-2017",
+"date" : "2017-01-20",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -2292,7 +2292,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "21-01-2017",
+{"date" : "2017-01-21",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -2307,7 +2307,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "21-01-2017",
+{"date" : "2017-01-21",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -2322,7 +2322,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "21-01-2017",
+{"date" : "2017-01-21",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -2337,7 +2337,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "21-01-2017",
+{"date" : "2017-01-21",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -2352,7 +2352,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "21-01-2017",
+{"date" : "2017-01-21",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -2367,7 +2367,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "21-01-2017",
+{"date" : "2017-01-21",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -2382,7 +2382,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "22-01-2017",
+{"date" : "2017-01-22",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -2397,7 +2397,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "22-01-2017",
+{"date" : "2017-01-22",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -2419,7 +2419,7 @@
 
 "matches": [
 {
-"date" : "27-01-2017",
+"date" : "2017-01-27",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -2434,7 +2434,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "28-01-2017",
+{"date" : "2017-01-28",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -2449,7 +2449,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "28-01-2017",
+{"date" : "2017-01-28",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -2464,7 +2464,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "28-01-2017",
+{"date" : "2017-01-28",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -2479,7 +2479,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "28-01-2017",
+{"date" : "2017-01-28",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -2494,7 +2494,7 @@
 "score1" : 1,
 "score2" : 6
 },
-{"date" : "28-01-2017",
+{"date" : "2017-01-28",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -2509,7 +2509,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "28-01-2017",
+{"date" : "2017-01-28",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -2524,7 +2524,7 @@
 "score1" : 2,
 "score2" : 3
 },
-{"date" : "29-01-2017",
+{"date" : "2017-01-29",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -2539,7 +2539,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "29-01-2017",
+{"date" : "2017-01-29",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -2561,7 +2561,7 @@
 
 "matches": [
 {
-"date" : "03-02-2017",
+"date" : "2017-02-03",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -2576,7 +2576,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "04-02-2017",
+{"date" : "2017-02-04",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -2591,7 +2591,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "04-02-2017",
+{"date" : "2017-02-04",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -2606,7 +2606,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "04-02-2017",
+{"date" : "2017-02-04",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -2621,7 +2621,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "04-02-2017",
+{"date" : "2017-02-04",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -2636,7 +2636,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "04-02-2017",
+{"date" : "2017-02-04",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -2651,7 +2651,7 @@
 "score1" : 4,
 "score2" : 0
 },
-{"date" : "04-02-2017",
+{"date" : "2017-02-04",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -2666,7 +2666,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "05-02-2017",
+{"date" : "2017-02-05",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -2681,7 +2681,7 @@
 "score1" : 3,
 "score2" : 2
 },
-{"date" : "05-02-2017",
+{"date" : "2017-02-05",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -2703,7 +2703,7 @@
 
 "matches": [
 {
-"date" : "10-02-2017",
+"date" : "2017-02-10",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -2718,7 +2718,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "11-02-2017",
+{"date" : "2017-02-11",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -2733,7 +2733,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "11-02-2017",
+{"date" : "2017-02-11",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -2748,7 +2748,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "11-02-2017",
+{"date" : "2017-02-11",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -2763,7 +2763,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "11-02-2017",
+{"date" : "2017-02-11",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -2778,7 +2778,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "11-02-2017",
+{"date" : "2017-02-11",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -2793,7 +2793,7 @@
 "score1" : 0,
 "score2" : 3
 },
-{"date" : "11-02-2017",
+{"date" : "2017-02-11",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -2808,7 +2808,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "12-02-2017",
+{"date" : "2017-02-12",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -2823,7 +2823,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "12-02-2017",
+{"date" : "2017-02-12",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -2845,7 +2845,7 @@
 
 "matches": [
 {
-"date" : "17-02-2017",
+"date" : "2017-02-17",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -2860,7 +2860,7 @@
 "score1" : 1,
 "score2" : 3
 },
-{"date" : "18-02-2017",
+{"date" : "2017-02-18",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -2875,7 +2875,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "18-02-2017",
+{"date" : "2017-02-18",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -2890,7 +2890,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "18-02-2017",
+{"date" : "2017-02-18",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -2905,7 +2905,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "18-02-2017",
+{"date" : "2017-02-18",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -2920,7 +2920,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "18-02-2017",
+{"date" : "2017-02-18",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -2935,7 +2935,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "18-02-2017",
+{"date" : "2017-02-18",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -2950,7 +2950,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "19-02-2017",
+{"date" : "2017-02-19",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -2965,7 +2965,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "19-02-2017",
+{"date" : "2017-02-19",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -2987,7 +2987,7 @@
 
 "matches": [
 {
-"date" : "24-02-2017",
+"date" : "2017-02-24",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -3002,7 +3002,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "25-02-2017",
+{"date" : "2017-02-25",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -3017,7 +3017,7 @@
 "score1" : 8,
 "score2" : 0
 },
-{"date" : "25-02-2017",
+{"date" : "2017-02-25",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -3032,7 +3032,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "25-02-2017",
+{"date" : "2017-02-25",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -3047,7 +3047,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "25-02-2017",
+{"date" : "2017-02-25",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -3062,7 +3062,7 @@
 "score1" : 0,
 "score2" : 3
 },
-{"date" : "25-02-2017",
+{"date" : "2017-02-25",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -3077,7 +3077,7 @@
 "score1" : 3,
 "score2" : 1
 },
-{"date" : "25-02-2017",
+{"date" : "2017-02-25",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -3092,7 +3092,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "26-02-2017",
+{"date" : "2017-02-26",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -3107,7 +3107,7 @@
 "score1" : 0,
 "score2" : 2
 },
-{"date" : "26-02-2017",
+{"date" : "2017-02-26",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -3129,7 +3129,7 @@
 
 "matches": [
 {
-"date" : "03-03-2017",
+"date" : "2017-03-03",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -3144,7 +3144,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "04-03-2017",
+{"date" : "2017-03-04",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -3159,7 +3159,7 @@
 "score1" : 6,
 "score2" : 2
 },
-{"date" : "04-03-2017",
+{"date" : "2017-03-04",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -3174,7 +3174,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "04-03-2017",
+{"date" : "2017-03-04",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -3189,7 +3189,7 @@
 "score1" : 0,
 "score2" : 3
 },
-{"date" : "04-03-2017",
+{"date" : "2017-03-04",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -3204,7 +3204,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "04-03-2017",
+{"date" : "2017-03-04",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -3219,7 +3219,7 @@
 "score1" : 5,
 "score2" : 2
 },
-{"date" : "04-03-2017",
+{"date" : "2017-03-04",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -3234,7 +3234,7 @@
 "score1" : 4,
 "score2" : 2
 },
-{"date" : "05-03-2017",
+{"date" : "2017-03-05",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -3249,7 +3249,7 @@
 "score1" : 1,
 "score2" : 2
 },
-{"date" : "05-03-2017",
+{"date" : "2017-03-05",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -3271,7 +3271,7 @@
 
 "matches": [
 {
-"date" : "10-03-2017",
+"date" : "2017-03-10",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -3286,7 +3286,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "11-03-2017",
+{"date" : "2017-03-11",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -3301,7 +3301,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "11-03-2017",
+{"date" : "2017-03-11",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -3316,7 +3316,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "11-03-2017",
+{"date" : "2017-03-11",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -3331,7 +3331,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "11-03-2017",
+{"date" : "2017-03-11",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -3346,7 +3346,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "11-03-2017",
+{"date" : "2017-03-11",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -3361,7 +3361,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "11-03-2017",
+{"date" : "2017-03-11",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -3376,7 +3376,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "12-03-2017",
+{"date" : "2017-03-12",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -3391,7 +3391,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "12-03-2017",
+{"date" : "2017-03-12",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -3413,7 +3413,7 @@
 
 "matches": [
 {
-"date" : "17-03-2017",
+"date" : "2017-03-17",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -3428,7 +3428,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "18-03-2017",
+{"date" : "2017-03-18",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -3443,7 +3443,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "18-03-2017",
+{"date" : "2017-03-18",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -3458,7 +3458,7 @@
 "score1" : 4,
 "score2" : 2
 },
-{"date" : "18-03-2017",
+{"date" : "2017-03-18",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -3473,7 +3473,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "18-03-2017",
+{"date" : "2017-03-18",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -3488,7 +3488,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "18-03-2017",
+{"date" : "2017-03-18",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -3503,7 +3503,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "18-03-2017",
+{"date" : "2017-03-18",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -3518,7 +3518,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "19-03-2017",
+{"date" : "2017-03-19",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -3533,7 +3533,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "19-03-2017",
+{"date" : "2017-03-19",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -3555,7 +3555,7 @@
 
 "matches": [
 {
-"date" : "31-03-2017",
+"date" : "2017-03-31",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -3570,7 +3570,7 @@
 "score1" : 1,
 "score2" : 3
 },
-{"date" : "01-04-2017",
+{"date" : "2017-04-01",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -3585,7 +3585,7 @@
 "score1" : 6,
 "score2" : 0
 },
-{"date" : "01-04-2017",
+{"date" : "2017-04-01",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -3600,7 +3600,7 @@
 "score1" : 1,
 "score2" : 1
 },
-{"date" : "01-04-2017",
+{"date" : "2017-04-01",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -3615,7 +3615,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "01-04-2017",
+{"date" : "2017-04-01",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -3630,7 +3630,7 @@
 "score1" : 2,
 "score2" : 5
 },
-{"date" : "01-04-2017",
+{"date" : "2017-04-01",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -3645,7 +3645,7 @@
 "score1" : 4,
 "score2" : 0
 },
-{"date" : "01-04-2017",
+{"date" : "2017-04-01",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -3660,7 +3660,7 @@
 "score1" : 0,
 "score2" : 0
 },
-{"date" : "02-04-2017",
+{"date" : "2017-04-02",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",
@@ -3675,7 +3675,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "02-04-2017",
+{"date" : "2017-04-02",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -3697,7 +3697,7 @@
 
 "matches": [
 {
-"date" : "04-04-2017",
+"date" : "2017-04-04",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -3712,7 +3712,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "04-04-2017",
+{"date" : "2017-04-04",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -3727,7 +3727,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "04-04-2017",
+{"date" : "2017-04-04",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -3742,7 +3742,7 @@
 "score1" : 3,
 "score2" : 0
 },
-{"date" : "04-04-2017",
+{"date" : "2017-04-04",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -3757,7 +3757,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "05-04-2017",
+{"date" : "2017-04-05",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -3772,7 +3772,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "05-04-2017",
+{"date" : "2017-04-05",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -3787,7 +3787,7 @@
 "score1" : 2,
 "score2" : 3
 },
-{"date" : "05-04-2017",
+{"date" : "2017-04-05",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -3802,7 +3802,7 @@
 "score1" : 0,
 "score2" : 1
 },
-{"date" : "05-04-2017",
+{"date" : "2017-04-05",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -3817,7 +3817,7 @@
 "score1" : 2,
 "score2" : 3
 },
-{"date" : "05-04-2017",
+{"date" : "2017-04-05",
 "team1": {
 "key" : "darmstadt",
 "name" : "SV Darmstadt 98",
@@ -3839,7 +3839,7 @@
 
 "matches": [
 {
-"date" : "07-04-2017",
+"date" : "2017-04-07",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -3854,7 +3854,7 @@
 "score1" : 2,
 "score2" : 2
 },
-{"date" : "08-04-2017",
+{"date" : "2017-04-08",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -3869,7 +3869,7 @@
 "score1" : 4,
 "score2" : 1
 },
-{"date" : "08-04-2017",
+{"date" : "2017-04-08",
 "team1": {
 "key" : "koeln",
 "name" : "1. FC Koeln",
@@ -3884,7 +3884,7 @@
 "score1" : 2,
 "score2" : 3
 },
-{"date" : "08-04-2017",
+{"date" : "2017-04-08",
 "team1": {
 "key" : "hsv",
 "name" : "Hamburger SV",
@@ -3899,7 +3899,7 @@
 "score1" : 2,
 "score2" : 1
 },
-{"date" : "08-04-2017",
+{"date" : "2017-04-08",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -3914,7 +3914,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "08-04-2017",
+{"date" : "2017-04-08",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -3929,7 +3929,7 @@
 "score1" : 1,
 "score2" : 0
 },
-{"date" : "08-04-2017",
+{"date" : "2017-04-08",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -3944,7 +3944,7 @@
 "score1" : 4,
 "score2" : 1
 },
-{"date" : "09-04-2017",
+{"date" : "2017-04-09",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -3959,7 +3959,7 @@
 "score1" : 2,
 "score2" : 0
 },
-{"date" : "09-04-2017",
+{"date" : "2017-04-09",
 "team1": {
 "key" : "ingolstadt",
 "name" : "FC Ingolstadt 04",

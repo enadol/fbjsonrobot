@@ -15,7 +15,7 @@ for date in lstnuevafecha:
 	yyear=fecha[2]
 	strdate=dia+','+mes+','+yyear
 	for i in range(0, len(fecha)):
-		date1=datetime.datetime.strptime(strdate, "%d,%m,%Y")
+		date1=datetime.datetime.strptime(strdate, "%Y,%m,%d")
 		date2=date1.strftime('%A')
 	if date2=="Friday":
 		diadef.append(date)
