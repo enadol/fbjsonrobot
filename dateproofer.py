@@ -17,7 +17,25 @@ for date in lstnuevafecha:
 	for i in range(0, len(fecha)):
 		date1=datetime.datetime.strptime(strdate, "%Y,%m,%d")
 		date2=date1.strftime('%A')
-	if date2=="Friday":
+	
+	#only for season 2016/2017. MD on Easter Week. Delete or adjust for other seasons
+	if jornada == 29:
+		if date2=="Saturday":
+			for i in range(0,7):
+				diadef.append(date)
+		else:
+			for i in range(0,2):
+				diadef.append(date)
+				
+	#for the last two matchdays of each tournament,
+	#all matches in one day
+	# to be verified at the end of this tournament
+	elif jornada>32:
+		for i in range(0,9):
+			diadef.append(date)
+
+	
+	elif date2=="Friday":
 		diadef.append(date)
 
 	elif date2=="Saturday":
@@ -32,18 +50,7 @@ for date in lstnuevafecha:
 		for i in range(0,4):
 			diadef.append(date)
 			
-	#only for season 2016/2017. MD on Easter Week. Delete or adjust for other seasons
-	elif jornada == 29:
-		for i in range(0,6):
-			diadef.append(date)
-				
-	#for the last two matchdays of each tournament,
-	#all matches in one day
-	# to be verified at the end of this tournament
-	elif jornada>32:
-		for i in range(0,9):
-			diadef.append(date)
-
+	
 	#for wednesday matches on english weeks
 	else:
 		for i in range(0,5):
