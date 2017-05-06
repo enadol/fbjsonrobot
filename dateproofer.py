@@ -31,6 +31,11 @@ for date in lstnuevafecha:
 	elif date2=="Tuesday":
 		for i in range(0,4):
 			diadef.append(date)
+			
+	#only for season 2016/2017. MD on Easter Week. Delete or adjust for other seasons
+	elif jornada == 29:
+		for i in range(0,6):
+			diadef.append(date)
 				
 	#for the last two matchdays of each tournament,
 	#all matches in one day
