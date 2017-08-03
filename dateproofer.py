@@ -2,15 +2,6 @@ from daterobot import lstnuevafecha
 import datetime
 import time
 
-gamesfriday=raw_input("¿Cuántos partidos se jugaron el viernes?: ")
-gamessaturday=raw_input("¿Cuántos partidos se jugaron el sábado?: ")
-gamessunday=raw_input("¿Cuántos partidos se jugaron el domingo?: ")
-gamesmonday=raw_input("¿Cuántos partidos se jugaron el lunes?: ")
-gamestuesday=raw_input("¿Cuántos partidos se jugaron el martes?: ")
-gameswednesday=raw_input("¿Cuántos partidos se jugaron el miércoles?: ")
-gamesthursday=raw_input("¿Cuántos partidos se jugaron el jueves?: ")
-
-
 diadef=[]
 #print lstnuevafecha
 for date in lstnuevafecha:
@@ -45,29 +36,36 @@ for date in lstnuevafecha:
 
 	
 	elif date2=="Friday":
+		gamesfriday=raw_input("¿Cuántos partidos se jugaron el viernes?: ")
 		for i in range(0,int(gamesfriday)):
 		diadef.append(date)
 
 	elif date2=="Saturday":
+		gamessaturday=raw_input("¿Cuántos partidos se jugaron el sábado?: ")
 		for i in range(0, int(gamessaturday)):
 			diadef.append(date)
 		
 	elif date2=="Sunday":
+		gamessunday=raw_input("¿Cuántos partidos se jugaron el domingo?: ")
 		for i in range(0, int(gamessunday)):
 			diadef.append(date)
 			
 	elif date2=="Monday":
+		gamesmonday=raw_input("¿Cuántos partidos se jugaron el lunes?: ")
 		for i in range(0, int(gamesmonday)):
 			diadef.append(date)
 		
 	elif date2=="Tuesday":
+		gamestuesday=raw_input("¿Cuántos partidos se jugaron el martes?: ")
 		for i in range(0, int(gamestuesday)):
 			diadef.append(date)
 	
 	elif date2=="Wednesday":
+		gameswednesday=raw_input("¿Cuántos partidos se jugaron el miércoles?: ")
 		for i in range(0, int(gameswednesday)):
 			diadef.append(date)
 	else:
+		gamesthursday=raw_input("¿Cuántos partidos se jugaron el jueves?: ")
 		for in in range (0, int(gamesthursday)):
 			diadef.append(date)
 
