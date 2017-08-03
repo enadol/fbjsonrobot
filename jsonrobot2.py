@@ -11,7 +11,7 @@ countjornada=0
 pp=pprint.PrettyPrinter(indent=4)
 #print score1, score2
 fhand=open('bundesliga.json', 'w')
-fhand.write('{\n"name": "Deutsche Bundesliga 2016/17",\n"rounds": [\n{\n"name": "1. Jornada",\n"matches": [\n{\n')
+fhand.write('{\n"name": "Deutsche Bundesliga 2017/18",\n"rounds": [\n{\n"name": "1. Jornada",\n"matches": [\n{\n')
 #print match[501]
 
 for item in match:
