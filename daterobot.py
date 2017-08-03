@@ -1,6 +1,6 @@
 import datetime
 import time
-from fbjsonbis import lstdate
+from fbjson import lstdate
 #from jsonbuilderbis import match
 
 lstdatenew=[]
