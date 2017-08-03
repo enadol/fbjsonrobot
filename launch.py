@@ -6,6 +6,6 @@ import fbjsonbis
 import jsonbuilderbis
 #import daterobot ???
 import dateproofer
-import jsonrobot2
+import jsonrobot
 
 print "Launching robot..."
