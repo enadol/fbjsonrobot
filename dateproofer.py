@@ -30,7 +30,7 @@ for date in lstnuevafecha:
 	#for the last two matchdays of each tournament,
 	#all matches in one day
 	# to be verified at the end of this tournament
-	elif jornada>32:
+	if jornada>32:
 		for i in range(0,9):
 			diadef.append(date)
 
