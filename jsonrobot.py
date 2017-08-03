@@ -1,5 +1,5 @@
 from input import jornada as howmany
-from jsonbuilderbis import match, score1, score2, lstjornada
+from jsonbuilder import match, score1, score2, lstjornada
 import json
 import pprint
 from daterobot import lstnuevafecha
