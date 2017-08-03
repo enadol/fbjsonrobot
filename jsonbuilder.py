@@ -1,13 +1,13 @@
 import re
 from dateproofer import diadef
-from fbjsonbis import lstjornada
-from fbjsonbis import lstdate
-from fbjsonbis import lsthome
-from fbjsonbis import lstaway
-from fbjsonbis import lstgoalshome
-from fbjsonbis import lstgoalsaway
-from fbjsonbis import clubkeys
-from fbjsonbis import clubcodes
+from fbjson import lstjornada
+from fbjson import lstdate
+from fbjson import lsthome
+from fbjson import lstaway
+from fbjson import lstgoalshome
+from fbjson import lstgoalsaway
+from fbjson import clubkeys
+from fbjson import clubcodes
 
 
 #print diadef
