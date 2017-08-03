@@ -19,6 +19,8 @@ TODO:
 
 * A future version in german is intented, to be used with the original JSON and the link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt
 
+* Dynamically find the structure of each MD, due to changes in the Bundesliga MD structure starting season 2017/2018
+
 ## The scripts rely COMPLETELY AND VERY RIGIDLY on the format of the .txt file. Spaces and ":"s in this file must be adjusted or verified for the scripts to work properly. In this sense, flexibility is another task to achieve on this project.
 
 New scripts were integrated in order to dinamically generate the dates.
