@@ -19,15 +19,16 @@ for date in lstnuevafecha:
 		date2=date1.strftime('%A')
 	
 	if jornada == 4:
-		if date2=="Saturday":
-			for i in range(0,5):
-			    diadef.append(date)
-		elif date2="Sunday":
-			for i in range(0, 3):
-			    diadef.append(date)
-		else:
-			diadef.append(date)
-	
+	    if date2=="Friday":
+	        diadef.append(date)
+			
+	    elif date2=="Saturday":
+		for i in range(0,5):
+		    diadef.append(date)
+	    else: 
+		for i in range(0, 3):
+		    diadef.append(date)
+			
 	elif date2=="Friday":
 		diadef.append(date)
 
