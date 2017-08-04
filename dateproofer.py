@@ -23,26 +23,26 @@ for date in lstnuevafecha:
 	        diadef.append(date)
 			
 	    elif date2=="Saturday":
-			for i in range(0,5):
-		    	diadef.append(date)
+		for i in range(0,5):
+		    diadef.append(date)
 	    else: 
-			for i in range(0, 3):
-		    	diadef.append(date)
+		for i in range(0, 3):
+		    diadef.append(date)
 			
 	elif date2=="Friday":
 		diadef.append(date)
 
 	elif date2=="Saturday":
 		for i in range(0,6):
-			diadef.append(date)
+		    diadef.append(date)
 		
 	elif date2=="Sunday":
 		for i in range(0,2):
-			diadef.append(date)
+		    diadef.append(date)
 		
 	elif date2=="Tuesday":
 		for i in range(0,4):
-			diadef.append(date)
+		    diadef.append(date)
 			
 	
 			
@@ -56,12 +56,12 @@ for date in lstnuevafecha:
 	# to be verified at the end of this tournament
 	elif jornada>32:
 		for i in range(0,9):
-			diadef.append(date)
+		    diadef.append(date)
 
 	#for wednesday matches on english weeks
 	else:
 		for i in range(0,5):
-			diadef.append(date)
+		     diadef.append(date)
 		
 
 #print diadef
