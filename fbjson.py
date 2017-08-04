@@ -1,9 +1,9 @@
 import re
 #initial script. cleans data from .txt
-#to open the two files of the season
+#to open the two files of the season (rounds) use-uncomment merger.py and bundesliga2017.txt
 
 #url=('https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt')
-fh=open('bundesliga2017.txt')
+fh=open('1-bundesliga-i.txt')
 clubcodes={"Eintracht Frankfurt": "FFM","1899 Hoffenheim": "HOF","Bayern Muenchen": "FCB","VfL Wolfsburg": "WOB","Borussia Dortmund": "BVB","Hamburger SV": "HSV","FC Augsburg": "FCA","RB Leipzig": "RBL","SC Freiburg":"SCF","Hertha BSC":"BSC","Werder Bremen": "BRE","Bor. Moenchengladbach":"BMG", "Bayer Leverkusen":"B04","1. FC Koeln":"KOE", "Stuttgart": "VFB", "Hannover 96": "H96","FC Schalke 04":"S04","1. FSV Mainz 05":"M05"}
 clubkeys={"Eintracht Frankfurt":"frankfurt", "1899 Hoffenheim":"hoffenheim","Bayern Muenchen": "bayern","VfL Wolfsburg":"wolfsburg","Borussia Dortmund":"dortmund","Hamburger SV":"hsv","FC Augsburg":"augsburg","RB Leipzig": "leipzig","SC Freiburg":"freiburg","Hertha BSC":"herthabsc","Werder Bremen":"bremen","Bor. Moenchengladbach": "mgladbach","Bayer Leverkusen":"leverkusen","1. FC Koeln":"koeln","Stuttgart": "VFB", "Hannover 96": "H96","FC Schalke 04":"schalke","1. FSV Mainz 05":"mainz"}
 lsthome=[]
