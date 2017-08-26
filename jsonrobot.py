@@ -52,7 +52,7 @@ for item in match:
 					fhand.write('\n}\n]\n}')
 			else:
 			
-				fhand.write('\n},\n{')
+				fhand.write('\n},\n{\n')
 		
 		else:
 			continue
