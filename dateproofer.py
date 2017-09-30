@@ -18,7 +18,7 @@ for date in lstnuevafecha:
 		date1=datetime.datetime.strptime(strdate, "%Y,%m,%d")
 		date2=date1.strftime('%A')
 	
-	if jornada == 4:
+	if jornada == 4 or jornada == 7 or jornada == 9:
 	    if date2=="Friday":
 	        diadef.append(date)
 			
