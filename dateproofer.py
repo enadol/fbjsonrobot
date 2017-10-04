@@ -3,7 +3,10 @@ import datetime
 import time
 
 diadef=[]
+
+#for special matchdays with three matches on sunday, beginning season 2017/2018. Replace items each season
 specialMD=frozenset([4, 7, 9])
+
 #print lstnuevafecha
 for date in lstnuevafecha:
 	jornada=len(diadef)/9
