@@ -1,5 +1,5 @@
 # fbjsonrobot
-## A Python robot that transforms bundesliga text files from @geraldb ' s openfootball and emulates its JSON using the required structure.
+## A Python robot that encodes bundesliga .txt files from @geraldb ' s openfootball into JSON with the required structure.
 
 Scripts with dependencies
 
@@ -15,11 +15,11 @@ The currently generated file (in this example, bundesliga.json) is intented to b
 
 TODO:
 
-* JSOn is still to be "pretty printed"
+* JSOn output is still to be "pretty printed" or indented
 
 * A future version in german is intented, to be used with the original JSON and the link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt
 
-* Dynamically find the structure of each MD, due to changes in the Bundesliga MD structure starting season 2017/2018
+* Finds the structure of each MD dinamically, due to changes in the Bundesliga MD structure starting season 2017/2018
 
 ## The scripts rely COMPLETELY AND VERY RIGIDLY on the format of the .txt file. Spaces and ":"s in this file must be adjusted or verified for the scripts to work properly. In this sense, flexibility is another task to achieve on this project.
 
