@@ -6,7 +6,7 @@ diadef=[]
 
 #for special matchdays with three matches on sunday, beginning season 2017/2018.
 #Replace/check items in array every new season
-specialMD=frozenset([4, 7, 9])
+specialMD=frozenset([4, 7, 9, 15])
 
 #print lstnuevafecha
 for date in lstnuevafecha:
