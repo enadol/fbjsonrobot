@@ -25,6 +25,8 @@ for date in lstnuevafecha:
 		date2=date1.strftime('%A')
 		
 	#special matchdays with five matches on saturday, two on sunday, one on monday	
+	#no need to change this every season. just change items in conlunes
+
 	if jornada in conlunes:
 	    if date2=="Friday":
 	        diadef.append(date)			
@@ -41,7 +43,7 @@ for date in lstnuevafecha:
 	#special matchdays with three matches on sunday, five on saturday
 	#no need to change this every season. just change items in specialMD
 	
-	if jornada in specialMD:
+	elif jornada in specialMD:
 	    if date2=="Friday":
 	        diadef.append(date)
 			
