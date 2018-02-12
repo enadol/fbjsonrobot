@@ -7,6 +7,7 @@ diadef=[]
 #for special matchdays with three matches on sunday, beginning season 2017/2018.
 #Replace/check items in array every new season
 specialMD=frozenset([4, 7, 9, 15])
+conlunes=frozenset([23,26])
 
 #print lstnuevafecha
 for date in lstnuevafecha:
@@ -22,8 +23,24 @@ for date in lstnuevafecha:
 	for i in range(0, len(fecha)):
 		date1=datetime.datetime.strptime(strdate, "%Y,%m,%d")
 		date2=date1.strftime('%A')
+		
+	#special matchdays with five matches on saturday, two on sunday, one on monday	
+	if jornada in conlunes:
+	    if date2=="Friday":
+	        diadef.append(date)			
+	    elif date2=="Saturday":
+		for i in range(0,5):
+		    diadef.append(date)
+	    elif date2="Sunday":
+		for i in range(0,2)
+	    else: 
+		for i in range(0, 1):
+		    diadef.append(date)	
+		
+		
 	#special matchdays with three matches on sunday, five on saturday
 	#no need to change this every season. just change items in specialMD
+	
 	if jornada in specialMD:
 	    if date2=="Friday":
 	        diadef.append(date)
