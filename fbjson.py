@@ -3,9 +3,10 @@ import re
 #to open the two files of the season (rounds) use-uncomment merger.py and bundesliga2017.txt
 
 #url=('https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt')
-fh=open('1-bundesliga-i.txt')
-clubcodes={"Eintracht Frankfurt": "FFM","1899 Hoffenheim": "HOF","Bayern Muenchen": "FCB","VfL Wolfsburg": "WOB","Borussia Dortmund": "BVB","Hamburger SV": "HSV","FC Augsburg": "FCA","RB Leipzig": "RBL","SC Freiburg":"SCF","Hertha BSC":"BSC","Werder Bremen": "BRE","Bor. Moenchengladbach":"BMG", "Bayer Leverkusen":"B04","1. FC Koeln":"KOE", "Stuttgart": "VFB", "Hannover 96": "H96","FC Schalke 04":"S04","1. FSV Mainz 05":"M05"}
-clubkeys={"Eintracht Frankfurt":"frankfurt", "1899 Hoffenheim":"hoffenheim","Bayern Muenchen": "bayern","VfL Wolfsburg":"wolfsburg","Borussia Dortmund":"dortmund","Hamburger SV":"hsv","FC Augsburg":"augsburg","RB Leipzig": "leipzig","SC Freiburg":"freiburg","Hertha BSC":"herthabsc","Werder Bremen":"bremen","Bor. Moenchengladbach": "mgladbach","Bayer Leverkusen":"leverkusen","1. FC Koeln":"koeln","Stuttgart": "stuttgart", "Hannover 96": "hannover","FC Schalke 04":"schalke","1. FSV Mainz 05":"mainz"}
+fh=open('bundesliga2017.txt')
+#print fh
+clubcodes={"Eintracht Frankfurt": "FFM","1899 Hoffenheim": "HOF","Bayern Muenchen": "FCB","VfL Wolfsburg": "WOB","Borussia Dortmund": "BVB","Hamburger SV": "HSV","FC Augsburg": "FCA","RB Leipzig": "RBL","SC Freiburg":"SCF","Hertha BSC":"BSC","Werder Bremen": "BRE","Bor. Moenchengladbach":"BMG", "Bayer Leverkusen":"B04","1. FC Koeln":"KOE", "VfB Stuttgart": "VFB", "Hannover 96": "H96","FC Schalke 04":"S04","1. FSV Mainz 05":"M05"}
+clubkeys={"Eintracht Frankfurt":"frankfurt", "1899 Hoffenheim":"hoffenheim","Bayern Muenchen": "bayern","VfL Wolfsburg":"wolfsburg","Borussia Dortmund":"dortmund","Hamburger SV":"hsv","FC Augsburg":"augsburg","RB Leipzig": "leipzig","SC Freiburg":"freiburg","Hertha BSC":"herthabsc","Werder Bremen":"bremen","Bor. Moenchengladbach": "mgladbach","Bayer Leverkusen":"leverkusen","1. FC Koeln":"koeln","VfB Stuttgart": "VFB", "Hannover 96": "H96","FC Schalke 04":"schalke","1. FSV Mainz 05":"mainz"}
 lsthome=[]
 lstaway=[]
 lstgoalshome=[]
@@ -21,7 +22,7 @@ for text in fh:
 		lstdate.append(date)
 		
 	
-	if 'Jornada' in line:
+	if 'Spieltag' in line:
 		jornada=line
 		#print jornada
 		lstjornada.append(jornada)
@@ -30,6 +31,7 @@ for text in fh:
 	thome=re.compile('.:.*')
 	tghome=re.compile(':.*')
 	tgaway=re.compile('.*:')
+	tspaces=re.compile('\s{3}')
 	
 	roh=taway.split(line)
 	roh2=thome.split(line)
@@ -52,14 +54,19 @@ for text in fh:
 
 
 	if len(roh2)>1:
-		item=roh2[0]
+		item = roh2[0]
 		#print item.strip()
-		item2=item.split('  ',2)
+		item2 = item.split('   ',2)
+		#print item2
 		#split para quitar espacios
-		item3=item2[2]
-		teamhome=item3.strip()
+		item3 = item2[1]
+		#print item3
+		teamhome = item3.strip()
+		#print teamhome
 		lsthome.append(teamhome)
+		#print lsthome
 	else:
+		#print "Lista vacia"
 		continue
 
 	if len(roh)>1:
@@ -70,3 +77,6 @@ for text in fh:
 		
 	else:
 		continue
+
+#print lstjornada
+print lstdate

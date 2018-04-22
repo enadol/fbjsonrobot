@@ -4,216 +4,244 @@
 
 Spieltag 1
 [Fr 18.8.]
- 20.30   Bayern München  Bayer Leverkusen
+ 20.30   Bayern Muenchen           3:1  Bayer Leverkusen
 [Sa 19.8.]
- 15.30   1899 Hoffenheim  Werder Bremen
- 15.30   Hertha BSC  VfB Stuttgart
- 15.30   Hamburger SV  FC Augsburg
- 15.30   1. FSV Mainz 05  Hannover 96
- 15.30   VfL Wolfsburg  Borussia Dortmund
- 18.30   FC Schalke 04  RB Leipzig
+ 15.30   1899 Hoffenheim          1:0  Werder Bremen
+ 15.30   Hertha BSC               2:0  VfB Stuttgart
+ 15.30   Hamburger SV             1:0  FC Augsburg
+ 15.30   1. FSV Mainz 05          0:1  Hannover 96
+ 15.30   VfL Wolfsburg            0:3  Borussia Dortmund
+ 18.30   FC Schalke 04            2:0  RB Leipzig
 [So 20.8.]
- 15.30   SC Freiburg  Eintracht Frankfurt
- 18.00   Bor. Mönchengladbach  1. FC Köln
+ 15.30   SC Freiburg              0:0  Eintracht Frankfurt
+ 18.00   Bor. Moenchengladbach     1:0  1. FC Koeln
 
 
 Spieltag 2
 [Fr 25.8.]
- 20.30   1. FC Köln  Hamburger SV
+ 20.30   1. FC Koeln               1:3  Hamburger SV
 [Sa 26.8.]
- 15.30   Werder Bremen  Bayern München
- 15.30   Eintracht Frankfurt  VfL Wolfsburg
- 15.30   Bayer Leverkusen  1899 Hoffenheim
- 15.30   FC Augsburg  Bor. Mönchengladbach
- 15.30   VfB Stuttgart  1. FSV Mainz 05
- 18.30   Borussia Dortmund  Hertha BSC
+ 15.30   Werder Bremen            0:2  Bayern Muenchen
+ 15.30   Eintracht Frankfurt      0:1  VfL Wolfsburg
+ 15.30   Bayer Leverkusen         2:2  1899 Hoffenheim
+ 15.30   FC Augsburg              2:2  Bor. Moenchengladbach
+ 15.30   VfB Stuttgart            1:0  1. FSV Mainz 05
+ 18.30   Borussia Dortmund        2:0  Hertha BSC
 [So 27.8.]
- 15.30   RB Leipzig  SC Freiburg
- 18.00   Hannover 96  FC Schalke 04
+ 15.30   RB Leipzig               4:1  SC Freiburg
+ 18.00   Hannover 96              1:0  FC Schalke 04
 
 Spieltag 3
 [Fr 8.9.]
- 20.30   Hamburger SV  RB Leipzig
+ 20.30   Hamburger SV             0:2  RB Leipzig
 [Sa 9.9.]
- 15.30   SC Freiburg  Borussia Dortmund
- 15.30   Bor. Mönchengladbach  Eintracht Frankfurt
- 15.30   FC Augsburg  1. FC Köln
- 15.30   1. FSV Mainz 05  Bayer Leverkusen
- 15.30   VfL Wolfsburg  Hannover 96
- 18.30   1899 Hoffenheim  Bayern München
+ 15.30   SC Freiburg              0:0  Borussia Dortmund
+ 15.30   Bor. Moenchengladbach     0:1  Eintracht Frankfurt
+ 15.30   FC Augsburg              3:0  1. FC Koeln
+ 15.30   1. FSV Mainz 05          3:1  Bayer Leverkusen
+ 15.30   VfL Wolfsburg            1:1  Hannover 96
+ 18.30   1899 Hoffenheim          2:0  Bayern Muenchen
 [So 10.9.]
- 15.30   Hertha BSC  Werder Bremen
- 18.00   FC Schalke 04  VfB Stuttgart
+ 15.30   Hertha BSC               1:1  Werder Bremen
+ 18.00   FC Schalke 04            3:1  VfB Stuttgart
 
 Spieltag 4
 [Fr 15.9.]
- 20.30   Hannover 96  Hamburger SV
+ 20.30   Hannover 96              2:0  Hamburger SV
 [Sa 16.9.]
- 15.30   Bayern München  1. FSV Mainz 05
- 15.30   Werder Bremen  FC Schalke 04
- 15.30   Eintracht Frankfurt  FC Augsburg
- 15.30   VfB Stuttgart  VfL Wolfsburg
- 18.30   RB Leipzig  Bor. Mönchengladbach
+ 15.30   Bayern Muenchen           4:0  1. FSV Mainz 05
+ 15.30   Werder Bremen            1:2  FC Schalke 04
+ 15.30   Eintracht Frankfurt      1:2  FC Augsburg
+ 15.30   VfB Stuttgart            1:0  VfL Wolfsburg
+ 18.30   RB Leipzig               2:2  Bor. Moenchengladbach
 [So 17.9.]
- 13.30   1899 Hoffenheim  Hertha BSC
- 15.30   Bayer Leverkusen  SC Freiburg
- 18.00   Borussia Dortmund  1. FC Köln
+ 13.30   1899 Hoffenheim          1:1  Hertha BSC
+ 15.30   Bayer Leverkusen         4:0  SC Freiburg
+ 18.00   Borussia Dortmund        5:0  1. FC Koeln
 
 Spieltag 5
 [Di 19.9.]
- 18.30   Bor. Mönchengladbach  VfB Stuttgart
- 20.30   FC Schalke 04  Bayern München
- 20.30   FC Augsburg  RB Leipzig
- 20.30   VfL Wolfsburg  Werder Bremen
+ 18.30   Bor. Moenchengladbach     2:0  VfB Stuttgart
+ 20.30   FC Schalke 04            0:3  Bayern Muenchen
+ 20.30   FC Augsburg              1:0  RB Leipzig
+ 20.30   VfL Wolfsburg            1:1  Werder Bremen
 [Mi 20.9.]
- 18.30   1. FC Köln  Eintracht Frankfurt
- 20.30   Hertha BSC  Bayer Leverkusen
- 20.30   SC Freiburg  Hannover 96
- 20.30   Hamburger SV  Borussia Dortmund
- 20.30   1. FSV Mainz 05  1899 Hoffenheim
+ 18.30   1. FC Koeln               0:1  Eintracht Frankfurt
+ 20.30   Hertha BSC               2:1  Bayer Leverkusen
+ 20.30   SC Freiburg              1:1  Hannover 96
+ 20.30   Hamburger SV             0:3  Borussia Dortmund
+ 20.30   1. FSV Mainz 05          2:3  1899 Hoffenheim
 
 Spieltag 6
 [Fr 22.9.]
- 20.30   Bayern München  VfL Wolfsburg
+ 20.30   Bayern Muenchen           2:2  VfL Wolfsburg
 [Sa 23.9.]
- 15.30   RB Leipzig  Eintracht Frankfurt
- 15.30   1899 Hoffenheim  FC Schalke 04
- 15.30   Werder Bremen  SC Freiburg
- 15.30   1. FSV Mainz 05  Hertha BSC
- 15.30   VfB Stuttgart  FC Augsburg
- 18.30   Borussia Dortmund  Bor. Mönchengladbach
+ 15.30   RB Leipzig               2:1  Eintracht Frankfurt
+ 15.30   1899 Hoffenheim          2:0  FC Schalke 04
+ 15.30   Werder Bremen            0:0  SC Freiburg
+ 15.30   1. FSV Mainz 05          1:0  Hertha BSC
+ 15.30   VfB Stuttgart            0:0  FC Augsburg
+ 18.30   Borussia Dortmund        6:1  Bor. Moenchengladbach
 [So 24.9.]
- 15.30   Hannover 96  1. FC Köln
- 18.00   Bayer Leverkusen  Hamburger SV
+ 15.30   Hannover 96              0:0  1. FC Koeln
+ 18.00   Bayer Leverkusen         3:0  Hamburger SV
 
 Spieltag 7
+[Fr 29.9.]
+ 20.30   FC Schalke 04            1:1  Bayer Leverkusen
 [Sa 30.9.]
-   1. FC Köln  RB Leipzig
-   Hertha BSC  Bayern München
-   SC Freiburg  1899 Hoffenheim
-   Bor. Mönchengladbach  Hannover 96
-   FC Schalke 04  Bayer Leverkusen
-   Eintracht Frankfurt  VfB Stuttgart
-   FC Augsburg  Borussia Dortmund
-   Hamburger SV  Werder Bremen
-   VfL Wolfsburg  1. FSV Mainz 05
+ 15.30   Bor. Moenchengladbach     2:1  Hannover 96
+ 15.30   Eintracht Frankfurt      2:1  VfB Stuttgart
+ 15.30   FC Augsburg              1:2  Borussia Dortmund
+ 15.30   VfL Wolfsburg            1:1  1. FSV Mainz 05
+ 18.30   Hamburger SV             0:0  Werder Bremen
+[So 1.10.]
+ 13.30   SC Freiburg              3:2  1899 Hoffenheim
+ 15.30   Hertha BSC               2:2  Bayern Muenchen
+ 18.00   1. FC Koeln               1:2  RB Leipzig
+
 
 Spieltag 8
+[Fr 13.10.]
+ 20.30   VfB Stuttgart            2:1  1. FC Koeln
 [Sa 14.10.]
-   Bayern München  SC Freiburg
-   Borussia Dortmund  RB Leipzig
-   1899 Hoffenheim  FC Augsburg
-   Hertha BSC  FC Schalke 04
-   Werder Bremen  Bor. Mönchengladbach
-   Bayer Leverkusen  VfL Wolfsburg
-   1. FSV Mainz 05  Hamburger SV
-   Hannover 96  Eintracht Frankfurt
-   VfB Stuttgart  1. FC Köln
-
+ 15.30   Bayern Muenchen           5:0  SC Freiburg
+ 15.30   1899 Hoffenheim          2:2  FC Augsburg
+ 15.30    Hertha BSC              0:2  FC Schalke 04
+ 15.30   1. FSV Mainz 05          3:2  Hamburger SV
+ 15.30   Hannover 96              1:2  Eintracht Frankfurt
+ 18.30   Borussia Dortmund        2:3  RB Leipzig
+[So 15.10.] 
+ 15.30   Bayer Leverkusen         2:2  VfL Wolfsburg
+ 18.00   Werder Bremen            0:2  Bor. Moenchengladbach
+ 
 Spieltag 9
+[Fr 20.10.]
+ 20.30   FC Schalke 04            2:0  1. FSV Mainz 05
 [Sa 21.10.]
-   RB Leipzig  VfB Stuttgart
-   1. FC Köln  Werder Bremen
-   SC Freiburg  Hertha BSC
-   Bor. Mönchengladbach  Bayer Leverkusen
-   FC Schalke 04  1. FSV Mainz 05
-   Eintracht Frankfurt  Borussia Dortmund
-   FC Augsburg  Hannover 96
-   Hamburger SV  Bayern München
-   VfL Wolfsburg  1899 Hoffenheim
+ 15.30   RB Leipzig               1:0  VfB Stuttgart
+ 15.30   Bor. Moenchengladbach     1:5  Bayer Leverkusen
+ 15.30   Eintracht Frankfurt      2:2  Borussia Dortmund
+ 15.30   FC Augsburg              1:2  Hannover 96
+ 18.00   Hamburger SV             0:1  Bayern Muenchen
+[So 22.10.] 
+ 13.30   1. FC Koeln               0:0  Werder Bremen
+ 15.30   SC Freiburg              1:1  Hertha BSC
+ 18.00   VfL Wolfsburg            1:1  1899 Hoffenheim
 
 Spieltag 10
+[Fr 27.10.]
+ 20.30   1. FSV Mainz 05          1:1  Eintracht Frankfurt
 [Sa 28.10.]
-   Bayern München  RB Leipzig
-   1899 Hoffenheim  Bor. Mönchengladbach
-   Hertha BSC  Hamburger SV
-   Werder Bremen  FC Augsburg
-   FC Schalke 04  VfL Wolfsburg
-   Bayer Leverkusen  1. FC Köln
-   1. FSV Mainz 05  Eintracht Frankfurt
-   Hannover 96  Borussia Dortmund
-   VfB Stuttgart  SC Freiburg
+  15.30   1899 Hoffenheim         1:3  Bor. Moenchengladbach
+  15.30   Hertha BSC              2:1  Hamburger SV
+  15.30   FC Schalke 04           1:1  VfL Wolfsburg
+  15.30   Bayer Leverkusen        2:1  1. FC Koeln
+  15.30   Hannover 96             4:2  Borussia Dortmund
+  18.30   Bayern Muenchen          2:0  RB Leipzig
+[So 29.10.]
+  15.30   Werder Bremen           0:3  FC Augsburg
+  18.00   VfB Stuttgart           3:0  SC Freiburg
 
 Spieltag 11
+[Fr 3.11.]
+  20.30   Eintracht Frankfurt     2:1  Werder Bremen
 [Sa 4.11.]
-   Borussia Dortmund  Bayern München
-   RB Leipzig  Hannover 96
-   1. FC Köln  1899 Hoffenheim
-   SC Freiburg  FC Schalke 04
-   Bor. Mönchengladbach  1. FSV Mainz 05
-   Eintracht Frankfurt  Werder Bremen
-   FC Augsburg  Bayer Leverkusen
-   Hamburger SV  VfB Stuttgart
-   VfL Wolfsburg  Hertha BSC
+  15.30   RB Leipzig              2:1  Hannover 96
+  15.30   SC Freiburg             0:1  FC Schalke 04
+  15.30   Bor. Moenchengladbach    1:1  1. FSV Mainz 05
+  15.30   FC Augsburg             1:1  Bayer Leverkusen
+  15.30   Hamburger SV            3:1  VfB Stuttgart
+  18.30   Borussia Dortmund       1:3  Bayern Muenchen
+[So 5.11.]
+ 15.30   1. FC Koeln               0:3  1899 Hoffenheim
+ 18.00   VfL Wolfsburg            3:3  Hertha BSC
 
 Spieltag 12
+[Fr 17.11.]
+ 20.30   VfB Stuttgart            2:1  Borussia Dortmund
 [Sa 18.11.]
-   Bayern München  FC Augsburg
-   1899 Hoffenheim  Eintracht Frankfurt
-   Hertha BSC  Bor. Mönchengladbach
-   Werder Bremen  Hannover 96
-   FC Schalke 04  Hamburger SV
-   Bayer Leverkusen  RB Leipzig
-   1. FSV Mainz 05  1. FC Köln
-   VfL Wolfsburg  SC Freiburg
-   VfB Stuttgart  Borussia Dortmund
-
+ 15.30   Bayern Muenchen           3:0  FC Augsburg
+ 15.30   1899 Hoffenheim          1:1  Eintracht Frankfurt
+ 15.30   Bayer Leverkusen         2:2  RB Leipzig
+ 15.30   1. FSV Mainz 05          1:0  1. FC Koeln
+ 15.30   VfL Wolfsburg            3:1  SC Freiburg
+ 18.30   Hertha BSC               2:4  Bor. Moenchengladbach
+[So 19.11.] 
+ 15.30   FC Schalke 04            2:0  Hamburger SV
+ 18.00   Werder Bremen            4:0  Hannover 96
+   
 Spieltag 13
+[Fr 24.11.]
+ 20.30   Hannover 96              1:1  VfB Stuttgart
 [Sa 25.11.]
-   Borussia Dortmund  FC Schalke 04
-   RB Leipzig  Werder Bremen
-   1. FC Köln  Hertha BSC
-   SC Freiburg  1. FSV Mainz 05
-   Bor. Mönchengladbach  Bayern München
-   Eintracht Frankfurt  Bayer Leverkusen
-   FC Augsburg  VfL Wolfsburg
-   Hamburger SV  1899 Hoffenheim
-   Hannover 96  VfB Stuttgart
+ 15.30   Borussia Dortmund        4:4  FC Schalke 04
+ 15.30   RB Leipzig               2:0  Werder Bremen
+ 15.30   SC Freiburg              2:1  1. FSV Mainz 05
+ 15.30   Eintracht Frankfurt      0:1  Bayer Leverkusen
+ 15.30   FC Augsburg              2:1  VfL Wolfsburg
+ 18.30   Bor. Moenchengladbach     2:1  Bayern Muenchen
+[So 26.11.]
+ 15.30   Hamburger SV             3:0  1899 Hoffenheim
+ 18.00   1. FC Koeln               0:2  Hertha BSC
 
+   
 Spieltag 14
+[Fr 1.12.]
+  20.30   SC Freiburg             0:0  Hamburger SV
 [Sa 2.12.]
-   Bayern München  Hannover 96
-   1899 Hoffenheim  RB Leipzig
-   Hertha BSC  Eintracht Frankfurt
-   SC Freiburg  Hamburger SV
-   Werder Bremen  VfB Stuttgart
-   FC Schalke 04  1. FC Köln
-   Bayer Leverkusen  Borussia Dortmund
-   1. FSV Mainz 05  FC Augsburg
-   VfL Wolfsburg  Bor. Mönchengladbach
+  15.30   Bayern Muenchen          3:1  Hannover 96
+  15.30   1899 Hoffenheim         4:0  RB Leipzig
+  15.30   Werder Bremen           1:0  VfB Stuttgart
+  15.30   Bayer Leverkusen        1:1  Borussia Dortmund
+  15.30   1. FSV Mainz 05         1:3  FC Augsburg
+  18.30   FC Schalke 04           2:2  1. FC Koeln
+
+[So 3.12.]
+  15.30   Hertha BSC              1:2  Eintracht Frankfurt
+  18.00   VfL Wolfsburg           3:0  Bor. Moenchengladbach
 
 Spieltag 15
+[Fr 8.12.]
+  20.30   VfB Stuttgart           0:2  Bayer Leverkusen
 [Sa 9.12.]
-   Borussia Dortmund  Werder Bremen
-   RB Leipzig  1. FSV Mainz 05
-   1. FC Köln  SC Freiburg
-   Bor. Mönchengladbach  FC Schalke 04
-   Eintracht Frankfurt  Bayern München
-   FC Augsburg  Hertha BSC
-   Hamburger SV  VfL Wolfsburg
-   Hannover 96  1899 Hoffenheim
-   VfB Stuttgart  Bayer Leverkusen
+  15.30   Borussia Dortmund       1:2  Werder Bremen
+  15.30   RB Leipzig              2:2  1. FSV Mainz 05
+  15.30   Eintracht Frankfurt     0:1  Bayern Muenchen
+  15.30   Hamburger SV            0:0  VfL Wolfsburg
+  18.30   Bor. Moenchengladbach    1:1  FC Schalke 04
+[So 10.12.]
+  13.30   1. FC Koeln              3:4  SC Freiburg
+  15.30   Hannover 96             2:0  1899 Hoffenheim
+  18.00   FC Augsburg             1:1  Hertha BSC
 
 Spieltag 16
+[Di 12.12.]
+  18.30   VfL Wolfsburg           1:1  RB Leipzig
+  20.30   Hamburger SV            1:2  Eintracht Frankfurt
+  20.30   1. FSV Mainz 05         0:2  Borussia Dortmund
+  20.30   SC Freiburg             1:0  Bor. Moenchengladbach
 [Mi 13.12.]
-   Bayern München  1. FC Köln
-   1899 Hoffenheim  VfB Stuttgart
-   Hertha BSC  Hannover 96
-   SC Freiburg  Bor. Mönchengladbach
-   FC Schalke 04  FC Augsburg
-   Bayer Leverkusen  Werder Bremen
-   Hamburger SV  Eintracht Frankfurt
-   1. FSV Mainz 05  Borussia Dortmund
-   VfL Wolfsburg  RB Leipzig
+  20.30   Bayern Muenchen          1:0  1. FC Koeln
+  20.30   1899 Hoffenheim         1:0  VfB Stuttgart
+  20.30   Hertha BSC              3:1  Hannover 96
+  20.30   FC Schalke 04           3:2  FC Augsburg
+  20.30   Bayer Leverkusen        1:0  Werder Bremen
+   
 
 Spieltag 17
+[Fr 15.12.]
+  20.30   Bor. Moenchengladbach    3:1  Hamburger SV
 [Sa 16.12.]
-   Borussia Dortmund  1899 Hoffenheim
-   RB Leipzig  Hertha BSC
-   1. FC Köln  VfL Wolfsburg
-   Werder Bremen  1. FSV Mainz 05
-   Bor. Mönchengladbach  Hamburger SV
-   Eintracht Frankfurt  FC Schalke 04
-   FC Augsburg  SC Freiburg
-   Hannover 96  Bayer Leverkusen
-   VfB Stuttgart  Bayern München
+  18.30   Borussia Dortmund       2:1  1899 Hoffenheim
+  15.30   1. FC Koeln              1:0  VfL Wolfsburg
+  15.30   Werder Bremen           2:2  1. FSV Mainz 05
+  15.30   Eintracht Frankfurt     2:2  FC Schalke 04
+  15.30   FC Augsburg             3:3  SC Freiburg
+  15.30   VfB Stuttgart           0:1  Bayern Muenchen
+[So 17.12.]
+  15.30   Hannover 96             4:4  Bayer Leverkusen
+  18.00   RB Leipzig              2:3  Hertha BSC
+   
+Winterpause bis 12.1.18
+   

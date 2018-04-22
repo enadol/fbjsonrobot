@@ -10,7 +10,8 @@ from fbjson import clubkeys
 from fbjson import clubcodes
 
 
-#print diadef
+#print clubkeys
+#print clubcodes
 lstpartidos=[]
 matches=[]
 lstteam1=[]
@@ -28,6 +29,7 @@ for e in range(0,len(lsthome)):
 	name1=lsthome[e]
 	#print name1
 	key1=clubkeys[name1]
+	#print key1
 	code1=clubcodes[name1]
 	name2=lstaway[e]
 	key2=clubkeys[name2]
