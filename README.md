@@ -5,7 +5,9 @@ Scripts with dependencies
 
 Launch file is launch.py
 
-In Windows console python launch.py and the JSON file is generated
+Result file is bundesliga.json
+
+In Windows shell just give python launch.py and ENTER for the JSON result file to be generated
 
 ## But first, check and/or adapt the code according to your needs (league, file names, paths, etc)
 
