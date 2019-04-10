@@ -11,13 +11,13 @@ countjornada=0
 pp=pprint.PrettyPrinter(indent=4)
 #print score1, score2
 fhand=open('bundesliga.json', 'w')
-fhand.write('{\n"name": "Deutsche Bundesliga 2017/18",\n"rounds": [\n{\n"name": "1. Jornada",\n"matches": [\n{\n')
+fhand.write('{\n"name": "Deutsche Bundesliga 2018/19",\n"rounds": [\n{\n"name": "1. Jornada",\n"matches": [\n{\n')
 #print match[501]
 
 for item in match:
 	count =count+1
-	llaves=item.keys()
-	valores=item.values()
+	llaves=list(item.keys())
+	valores=list(item.values())
 	llaves1=llaves[0]
 	valores1=valores[0]
 
@@ -69,7 +69,7 @@ for item in match:
 
 		if countjornada<int(howmany)*10:
 
-			fhand.write('\n "name": "'+str(jornada+1)+'. Jornada",\n')
+			fhand.write('\n "name": "'+str(int(jornada+1))+'. Jornada",\n')
 			fhand.write('\n"matches": [\n{\n')
 
 		else:

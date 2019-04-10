@@ -1,11 +1,11 @@
 {
-"name": "Deutsche Bundesliga 2017/18",
+"name": "Deutsche Bundesliga 2018/19",
 "rounds": [
 {
 "name": "1. Jornada",
 "matches": [
 {
-"date" : "2017-08-18",
+"date" : "2018-08-24",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -13,31 +13,15 @@
 },
 "team2": 
 {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
 },
 "score1" : 3,
 "score2" : 1
 },
 {
-"date" : "2017-08-19",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2017-08-19",
+"date" : "2018-08-25",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -45,35 +29,19 @@
 },
 "team2": 
 {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-08-19",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "score1" : 1,
 "score2" : 0
 },
 {
-"date" : "2017-08-19",
+"date" : "2018-08-25",
 "team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
 },
 "team2": 
 {
@@ -81,43 +49,11 @@
 "name" : "Hannover 96",
 "code" : "H96"
 },
-"score1" : 0,
+"score1" : 1,
 "score2" : 1
 },
 {
-"date" : "2017-08-19",
-"team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 0,
-"score2" : 3
-},
-{
-"date" : "2017-08-19",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-08-20",
+"date" : "2018-08-25",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -130,10 +66,42 @@
 "code" : "FFM"
 },
 "score1" : 0,
-"score2" : 0
+"score2" : 2
 },
 {
-"date" : "2017-08-20",
+"date" : "2018-08-25",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2018-08-25",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 1,
+"score2" : 2
+},
+{
+"date" : "2018-08-25",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -141,12 +109,44 @@
 },
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2018-08-26",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "score1" : 1,
 "score2" : 0
+},
+{
+"date" : "2018-08-26",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : 4,
+"score2" : 1
 }
 ]
 },
@@ -155,55 +155,39 @@
 
 "matches": [
 {
-"date" : "2017-08-25",
+"date" : "2018-08-31",
 "team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
 "team2": 
 {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 1,
-"score2" : 3
-},
-{
-"date" : "2017-08-26",
-"team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"team2": 
-{
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
 },
 "score1" : 0,
-"score2" : 2
+"score2" : 0
 },
 {
-"date" : "2017-08-26",
+"date" : "2018-09-1",
 "team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
 },
 "team2": 
 {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
 },
-"score1" : 0,
+"score1" : 3,
 "score2" : 1
 },
 {
-"date" : "2017-08-26",
+"date" : "2018-09-1",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -211,15 +195,31 @@
 },
 "team2": 
 {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
 },
-"score1" : 2,
+"score1" : 1,
+"score2" : 3
+},
+{
+"date" : "2018-09-1",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : 1,
 "score2" : 2
 },
 {
-"date" : "2017-08-26",
+"date" : "2018-09-1",
 "team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
@@ -231,15 +231,15 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : 2,
-"score2" : 2
+"score1" : 1,
+"score2" : 1
 },
 {
-"date" : "2017-08-26",
+"date" : "2018-09-1",
 "team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "team2": 
 {
@@ -248,26 +248,26 @@
 "code" : "M05"
 },
 "score1" : 1,
-"score2" : 0
+"score2" : 1
 },
 {
-"date" : "2017-08-26",
+"date" : "2018-09-1",
 "team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "team2": 
 {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
 },
-"score1" : 2,
-"score2" : 0
+"score1" : 0,
+"score2" : 3
 },
 {
-"date" : "2017-08-27",
+"date" : "2018-09-2",
 "team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
@@ -275,28 +275,28 @@
 },
 "team2": 
 {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
-"score1" : 4,
+"score1" : 1,
 "score2" : 1
 },
 {
-"date" : "2017-08-27",
+"date" : "2018-09-2",
 "team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
 "key" : "schalke",
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : 1,
-"score2" : 0
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : 0,
+"score2" : 2
 }
 ]
 },
@@ -305,43 +305,11 @@
 
 "matches": [
 {
-"date" : "2017-09-8",
+"date" : "2018-09-14",
 "team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"score1" : 0,
-"score2" : 2
-},
-{
-"date" : "2017-09-9",
-"team1": {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"team2": 
-{
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
 "code" : "BVB"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2017-09-9",
-"team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
 },
 "team2": 
 {
@@ -349,31 +317,79 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : 0,
+"score1" : 3,
 "score2" : 1
 },
 {
-"date" : "2017-09-9",
+"date" : "2018-09-15",
 "team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
 },
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
 "score1" : 3,
-"score2" : 0
+"score2" : 2
 },
 {
-"date" : "2017-09-9",
+"date" : "2018-09-15",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2018-09-15",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : 2,
+"score2" : 2
+},
+{
+"date" : "2018-09-15",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2018-09-15",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
 },
 "team2": 
 {
@@ -385,59 +401,43 @@
 "score2" : 1
 },
 {
-"date" : "2017-09-9",
+"date" : "2018-09-15",
 "team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
 },
 "team2": 
 {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
 },
-"score1" : 1,
+"score1" : 2,
 "score2" : 1
 },
 {
-"date" : "2017-09-9",
+"date" : "2018-09-16",
 "team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-09-10",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"team2": 
-{
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
 "score1" : 1,
 "score2" : 1
 },
 {
-"date" : "2017-09-10",
+"date" : "2018-09-16",
 "team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
 },
 "team2": 
 {
@@ -446,7 +446,7 @@
 "code" : "VFB"
 },
 "score1" : 3,
-"score2" : 1
+"score2" : 3
 }
 ]
 },
@@ -455,71 +455,7 @@
 
 "matches": [
 {
-"date" : "2017-09-15",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-09-16",
-"team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"score1" : 4,
-"score2" : 0
-},
-{
-"date" : "2017-09-16",
-"team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"team2": 
-{
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2017-09-16",
-"team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"team2": 
-{
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2017-09-16",
+"date" : "2018-09-21",
 "team1": {
 "key" : "VFB",
 "name" : "VfB Stuttgart",
@@ -527,31 +463,15 @@
 },
 "team2": 
 {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
-"score1" : 1,
+"score1" : 0,
 "score2" : 0
 },
 {
-"date" : "2017-09-16",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2017-09-17",
+"date" : "2018-09-22",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -559,19 +479,51 @@
 },
 "team2": 
 {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
 },
 "score1" : 1,
 "score2" : 1
 },
 {
-"date" : "2017-09-17",
+"date" : "2018-09-22",
 "team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : 4,
+"score2" : 2
+},
+{
+"date" : "2018-09-22",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : 2,
+"score2" : 3
+},
+{
+"date" : "2018-09-22",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
 },
 "team2": 
 {
@@ -579,24 +531,72 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : 4,
-"score2" : 0
+"score1" : 1,
+"score2" : 3
 },
 {
-"date" : "2017-09-17",
+"date" : "2018-09-22",
 "team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
-"score1" : 5,
+"score1" : 2,
 "score2" : 0
+},
+{
+"date" : "2018-09-22",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : 0,
+"score2" : 2
+},
+{
+"date" : "2018-09-23",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : 1,
+"score2" : 0
+},
+{
+"date" : "2018-09-23",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : 1,
+"score2" : 1
 }
 ]
 },
@@ -605,11 +605,107 @@
 
 "matches": [
 {
-"date" : "2017-09-19",
+"date" : "2018-09-25",
 "team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : 3,
+"score2" : 1
+},
+{
+"date" : "2018-09-25",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2018-09-25",
+"team1": {
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : 1,
+"score2" : 3
+},
+{
+"date" : "2018-09-25",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : 1,
+"score2" : 0
+},
+{
+"date" : "2018-09-26",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 1,
+"score2" : 2
+},
+{
+"date" : "2018-09-26",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 7,
+"score2" : 0
+},
+{
+"date" : "2018-09-26",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
 },
 "team2": 
 {
@@ -621,59 +717,11 @@
 "score2" : 0
 },
 {
-"date" : "2017-09-19",
+"date" : "2018-09-26",
 "team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"score1" : 0,
-"score2" : 3
-},
-{
-"date" : "2017-09-19",
-"team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2017-09-19",
-"team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"team2": 
-{
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2017-09-20",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
 },
 "team2": 
 {
@@ -681,59 +729,11 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : 0,
+"score1" : 3,
 "score2" : 1
 },
 {
-"date" : "2017-09-20",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2017-09-20",
-"team1": {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"team2": 
-{
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2017-09-20",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 0,
-"score2" : 3
-},
-{
-"date" : "2017-09-20",
+"date" : "2018-09-26",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -741,12 +741,12 @@
 },
 "team2": 
 {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
 },
-"score1" : 2,
-"score2" : 3
+"score1" : 0,
+"score2" : 0
 }
 ]
 },
@@ -755,39 +755,39 @@
 
 "matches": [
 {
-"date" : "2017-09-22",
+"date" : "2018-09-28",
 "team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
 "key" : "bayern",
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"team2": 
-{
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
 "score1" : 2,
-"score2" : 2
+"score2" : 0
 },
 {
-"date" : "2017-09-23",
+"date" : "2018-09-29",
 "team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
 },
 "team2": 
 {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
 },
-"score1" : 2,
-"score2" : 1
+"score1" : 1,
+"score2" : 0
 },
 {
-"date" : "2017-09-23",
+"date" : "2018-09-29",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -795,47 +795,15 @@
 },
 "team2": 
 {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-09-23",
-"team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"team2": 
-{
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2017-09-23",
-"team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"team2": 
-{
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
 },
 "score1" : 1,
-"score2" : 0
+"score2" : 2
 },
 {
-"date" : "2017-09-23",
+"date" : "2018-09-29",
 "team1": {
 "key" : "VFB",
 "name" : "VfB Stuttgart",
@@ -843,19 +811,19 @@
 },
 "team2": 
 {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
 },
-"score1" : 0,
-"score2" : 0
+"score1" : 2,
+"score2" : 1
 },
 {
-"date" : "2017-09-23",
+"date" : "2018-09-29",
 "team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
 },
 "team2": 
 {
@@ -863,27 +831,27 @@
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : 6,
-"score2" : 1
+"score1" : 2,
+"score2" : 2
 },
 {
-"date" : "2017-09-24",
+"date" : "2018-09-29",
 "team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
-"score1" : 0,
+"score1" : 3,
 "score2" : 0
 },
 {
-"date" : "2017-09-24",
+"date" : "2018-09-29",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -891,12 +859,44 @@
 },
 "team2": 
 {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
 },
-"score1" : 3,
-"score2" : 0
+"score1" : 2,
+"score2" : 4
+},
+{
+"date" : "2018-09-30",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"score1" : 4,
+"score2" : 1
+},
+{
+"date" : "2018-09-30",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : 4,
+"score2" : 1
 }
 ]
 },
@@ -905,43 +905,59 @@
 
 "matches": [
 {
-"date" : "2017-09-29",
+"date" : "2018-10-5",
 "team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
 },
 "team2": 
 {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
 },
-"score1" : 1,
-"score2" : 1
+"score1" : 2,
+"score2" : 0
 },
 {
-"date" : "2017-09-30",
+"date" : "2018-10-6",
 "team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
+"score1" : 0,
+"score2" : 3
+},
+{
+"date" : "2018-10-6",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
 "team2": 
 {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 4,
+"score2" : 3
+},
+{
+"date" : "2018-10-6",
+"team1": {
 "key" : "H96",
 "name" : "Hannover 96",
 "code" : "H96"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2017-09-30",
-"team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
 },
 "team2": 
 {
@@ -949,59 +965,43 @@
 "name" : "VfB Stuttgart",
 "code" : "VFB"
 },
-"score1" : 2,
+"score1" : 3,
 "score2" : 1
 },
 {
-"date" : "2017-09-30",
+"date" : "2018-10-6",
 "team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2017-09-30",
-"team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"team2": 
-{
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2017-09-30",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
 "team2": 
 {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
 },
 "score1" : 0,
 "score2" : 0
 },
 {
-"date" : "2017-10-1",
+"date" : "2018-10-6",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : 0,
+"score2" : 2
+},
+{
+"date" : "2018-10-7",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -1009,41 +1009,41 @@
 },
 "team2": 
 {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 0,
+"score2" : 0
+},
+{
+"date" : "2018-10-7",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 6,
+"score2" : 0
+},
+{
+"date" : "2018-10-7",
+"team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : 3,
-"score2" : 2
-},
-{
-"date" : "2017-10-1",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
 "team2": 
 {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2017-10-1",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
 },
 "score1" : 1,
 "score2" : 2
@@ -1055,119 +1055,39 @@
 
 "matches": [
 {
-"date" : "2017-10-13",
+"date" : "2018-10-19",
 "team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
 },
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
-"score1" : 2,
+"score1" : 7,
 "score2" : 1
 },
 {
-"date" : "2017-10-14",
+"date" : "2018-10-20",
 "team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"score1" : 5,
-"score2" : 0
-},
-{
-"date" : "2017-10-14",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2017-10-14",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"team2": 
-{
 "key" : "schalke",
 "name" : "FC Schalke 04",
 "code" : "S04"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
 },
 "score1" : 0,
 "score2" : 2
 },
 {
-"date" : "2017-10-14",
-"team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 3,
-"score2" : 2
-},
-{
-"date" : "2017-10-14",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2017-10-14",
-"team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"score1" : 2,
-"score2" : 3
-},
-{
-"date" : "2017-10-15",
+"date" : "2018-10-20",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -1175,28 +1095,108 @@
 },
 "team2": 
 {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
 "score1" : 2,
 "score2" : 2
 },
 {
-"date" : "2017-10-15",
+"date" : "2018-10-20",
 "team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "team2": 
 {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : 0,
+"score2" : 4
+},
+{
+"date" : "2018-10-20",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : 0,
+"score2" : 0
+},
+{
+"date" : "2018-10-20",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : 1,
+"score2" : 3
+},
+{
+"date" : "2018-10-20",
+"team1": {
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : 1,
+"score2" : 3
+},
+{
+"date" : "2018-10-21",
+"team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : 0,
-"score2" : 2
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : 4,
+"score2" : 0
+},
+{
+"date" : "2018-10-21",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : 1,
+"score2" : 1
 }
 ]
 },
@@ -1205,119 +1205,7 @@
 
 "matches": [
 {
-"date" : "2017-10-20",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-10-21",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2017-10-21",
-"team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"score1" : 1,
-"score2" : 5
-},
-{
-"date" : "2017-10-21",
-"team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2017-10-21",
-"team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"team2": 
-{
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2017-10-21",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"score1" : 0,
-"score2" : 1
-},
-{
-"date" : "2017-10-22",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2017-10-22",
+"date" : "2018-10-26",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -1325,25 +1213,137 @@
 },
 "team2": 
 {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : 3,
+"score2" : 1
+},
+{
+"date" : "2018-10-27",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
+},
+"score1" : 4,
+"score2" : 0
+},
+{
+"date" : "2018-10-27",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
 "key" : "herthabsc",
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : 1,
-"score2" : 1
+"score1" : 2,
+"score2" : 2
 },
 {
-"date" : "2017-10-22",
+"date" : "2018-10-27",
 "team1": {
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 1,
+"score2" : 2
+},
+{
+"date" : "2018-10-27",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : 1,
+"score2" : 2
+},
+{
+"date" : "2018-10-27",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
+"score1" : 0,
+"score2" : 3
+},
+{
+"date" : "2018-10-28",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
 "team2": 
 {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : 0,
+"score2" : 0
+},
+{
+"date" : "2018-10-28",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 2,
+"score2" : 6
+},
+{
+"date" : "2018-10-28",
+"team1": {
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
 },
 "score1" : 1,
 "score2" : 1
@@ -1355,135 +1355,7 @@
 
 "matches": [
 {
-"date" : "2017-10-27",
-"team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"team2": 
-{
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2017-10-28",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"score1" : 1,
-"score2" : 3
-},
-{
-"date" : "2017-10-28",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2017-10-28",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2017-10-28",
-"team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"team2": 
-{
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2017-10-28",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 4,
-"score2" : 2
-},
-{
-"date" : "2017-10-28",
-"team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-10-29",
-"team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"team2": 
-{
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"score1" : 0,
-"score2" : 3
-},
-{
-"date" : "2017-10-29",
+"date" : "2018-11-2",
 "team1": {
 "key" : "VFB",
 "name" : "VfB Stuttgart",
@@ -1491,12 +1363,140 @@
 },
 "team2": 
 {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : 0,
+"score2" : 3
+},
+{
+"date" : "2018-11-3",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
 "key" : "freiburg",
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2018-11-3",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"score1" : 3,
+"score2" : 1
+},
+{
+"date" : "2018-11-3",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : 1,
+"score2" : 4
+},
+{
+"date" : "2018-11-3",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : 0,
+"score2" : 3
+},
+{
+"date" : "2018-11-3",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 2,
+"score2" : 2
+},
+{
+"date" : "2018-11-3",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : 0,
+"score2" : 1
+},
+{
+"date" : "2018-11-4",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
 "score1" : 3,
 "score2" : 0
+},
+{
+"date" : "2018-11-4",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : 2,
+"score2" : 1
 }
 ]
 },
@@ -1505,103 +1505,39 @@
 
 "matches": [
 {
-"date" : "2017-11-3",
+"date" : "2018-11-9",
 "team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"team2": 
-{
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2017-11-4",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
 "key" : "H96",
 "name" : "Hannover 96",
 "code" : "H96"
 },
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
 "score1" : 2,
 "score2" : 1
 },
 {
-"date" : "2017-11-4",
+"date" : "2018-11-10",
 "team1": {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
 },
 "team2": 
 {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"score1" : 0,
-"score2" : 1
-},
-{
-"date" : "2017-11-4",
-"team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"team2": 
-{
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2017-11-4",
-"team1": {
 "key" : "augsburg",
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"score1" : 1,
+"score1" : 2,
 "score2" : 1
 },
 {
-"date" : "2017-11-4",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"score1" : 3,
-"score2" : 1
-},
-{
-"date" : "2017-11-4",
+"date" : "2018-11-10",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -1613,31 +1549,47 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
+"score1" : 3,
+"score2" : 2
+},
+{
+"date" : "2018-11-10",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
 "score1" : 1,
 "score2" : 3
 },
 {
-"date" : "2017-11-5",
+"date" : "2018-11-10",
 "team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
 },
 "team2": 
 {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
 },
-"score1" : 0,
+"score1" : 1,
 "score2" : 3
 },
 {
-"date" : "2017-11-5",
+"date" : "2018-11-10",
 "team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
 "team2": 
 {
@@ -1645,8 +1597,56 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
+"score1" : 4,
+"score2" : 1
+},
+{
+"date" : "2018-11-10",
+"team1": {
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"team2": 
+{
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
+},
+"score1" : 0,
+"score2" : 2
+},
+{
+"date" : "2018-11-11",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
 "score1" : 3,
-"score2" : 3
+"score2" : 0
+},
+{
+"date" : "2018-11-11",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : 3,
+"score2" : 0
 }
 ]
 },
@@ -1655,23 +1655,23 @@
 
 "matches": [
 {
-"date" : "2017-11-17",
+"date" : "2018-11-23",
 "team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
 "key" : "VFB",
 "name" : "VfB Stuttgart",
 "code" : "VFB"
 },
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
 "score1" : 2,
-"score2" : 1
+"score2" : 0
 },
 {
-"date" : "2017-11-18",
+"date" : "2018-11-24",
 "team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
@@ -1679,19 +1679,51 @@
 },
 "team2": 
 {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
 "score1" : 3,
-"score2" : 0
+"score2" : 3
 },
 {
-"date" : "2017-11-18",
+"date" : "2018-11-24",
 "team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 5,
+"score2" : 2
+},
+{
+"date" : "2018-11-24",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
+},
+"score1" : 3,
+"score2" : 3
+},
+{
+"date" : "2018-11-24",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
 },
 "team2": 
 {
@@ -1700,26 +1732,10 @@
 "code" : "FFM"
 },
 "score1" : 1,
-"score2" : 1
+"score2" : 3
 },
 {
-"date" : "2017-11-18",
-"team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2017-11-18",
+"date" : "2018-11-24",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -1727,15 +1743,15 @@
 },
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
 },
 "score1" : 1,
-"score2" : 0
+"score2" : 2
 },
 {
-"date" : "2017-11-18",
+"date" : "2018-11-24",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -1743,51 +1759,35 @@
 },
 "team2": 
 {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : 1,
+"score2" : 0
+},
+{
+"date" : "2018-11-25",
+"team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : 3,
-"score2" : 1
-},
-{
-"date" : "2017-11-18",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
 "team2": 
 {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"score1" : 2,
-"score2" : 4
-},
-{
-"date" : "2017-11-19",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-11-19",
-"team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
+},
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2018-11-25",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
 },
 "team2": 
 {
@@ -1796,7 +1796,7 @@
 "code" : "H96"
 },
 "score1" : 4,
-"score2" : 0
+"score2" : 1
 }
 ]
 },
@@ -1805,59 +1805,11 @@
 
 "matches": [
 {
-"date" : "2017-11-24",
+"date" : "2018-11-30",
 "team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2017-11-25",
-"team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"team2": 
-{
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"score1" : 4,
-"score2" : 4
-},
-{
-"date" : "2017-11-25",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2017-11-25",
-"team1": {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
 "team2": 
 {
@@ -1865,47 +1817,63 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2017-11-25",
-"team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
 "score1" : 0,
 "score2" : 1
 },
 {
-"date" : "2017-11-25",
+"date" : "2018-12-1",
 "team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2018-12-1",
+"team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2018-12-1",
+"team1": {
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
+},
+"team2": 
+{
 "key" : "augsburg",
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"team2": 
-{
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"score1" : 2,
-"score2" : 1
+"score1" : 1,
+"score2" : 0
 },
 {
-"date" : "2017-11-25",
+"date" : "2018-12-1",
 "team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
 },
 "team2": 
 {
@@ -1913,31 +1881,15 @@
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : 2,
-"score2" : 1
+"score1" : 1,
+"score2" : 2
 },
 {
-"date" : "2017-11-26",
+"date" : "2018-12-1",
 "team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"score1" : 3,
-"score2" : 0
-},
-{
-"date" : "2017-11-26",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
 "team2": 
 {
@@ -1947,6 +1899,54 @@
 },
 "score1" : 0,
 "score2" : 2
+},
+{
+"date" : "2018-12-2",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2018-12-2",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : 1,
+"score2" : 2
+},
+{
+"date" : "2018-12-3",
+"team1": {
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 1,
+"score2" : 1
 }
 ]
 },
@@ -1955,55 +1955,7 @@
 
 "matches": [
 {
-"date" : "2017-12-1",
-"team1": {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2017-12-2",
-"team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"score1" : 3,
-"score2" : 1
-},
-{
-"date" : "2017-12-2",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"score1" : 4,
-"score2" : 0
-},
-{
-"date" : "2017-12-2",
+"date" : "2018-12-7",
 "team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
@@ -2011,19 +1963,35 @@
 },
 "team2": 
 {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
-"score1" : 1,
+"score1" : 3,
+"score2" : 1
+},
+{
+"date" : "2018-12-8",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 3,
 "score2" : 0
 },
 {
-"date" : "2017-12-2",
+"date" : "2018-12-8",
 "team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
 },
 "team2": 
 {
@@ -2032,14 +2000,14 @@
 "code" : "BVB"
 },
 "score1" : 1,
-"score2" : 1
+"score2" : 2
 },
 {
-"date" : "2017-12-2",
+"date" : "2018-12-8",
 "team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
 },
 "team2": 
 {
@@ -2048,26 +2016,10 @@
 "code" : "FCA"
 },
 "score1" : 1,
-"score2" : 3
+"score2" : 0
 },
 {
-"date" : "2017-12-2",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2017-12-3",
+"date" : "2018-12-8",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -2080,10 +2032,26 @@
 "code" : "FFM"
 },
 "score1" : 1,
-"score2" : 2
+"score2" : 0
 },
 {
-"date" : "2017-12-3",
+"date" : "2018-12-8",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : 3,
+"score2" : 0
+},
+{
+"date" : "2018-12-8",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -2091,12 +2059,44 @@
 },
 "team2": 
 {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : 2,
+"score2" : 2
+},
+{
+"date" : "2018-12-9",
+"team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
+"team2": 
+{
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
+},
 "score1" : 3,
 "score2" : 0
+},
+{
+"date" : "2018-12-9",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"score1" : 1,
+"score2" : 1
 }
 ]
 },
@@ -2105,23 +2105,39 @@
 
 "matches": [
 {
-"date" : "2017-12-8",
+"date" : "2018-12-14",
 "team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "team2": 
 {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
 },
 "score1" : 0,
 "score2" : 2
 },
 {
-"date" : "2017-12-9",
+"date" : "2018-12-15",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : 0,
+"score2" : 0
+},
+{
+"date" : "2018-12-15",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -2133,63 +2149,31 @@
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2017-12-9",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
 "score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2017-12-9",
-"team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"team2": 
-{
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"score1" : 0,
 "score2" : 1
 },
 {
-"date" : "2017-12-9",
+"date" : "2018-12-15",
 "team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "team2": 
 {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
 },
-"score1" : 0,
-"score2" : 0
+"score1" : 2,
+"score2" : 1
 },
 {
-"date" : "2017-12-9",
+"date" : "2018-12-15",
 "team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
 },
 "team2": 
 {
@@ -2201,23 +2185,7 @@
 "score2" : 1
 },
 {
-"date" : "2017-12-10",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"score1" : 3,
-"score2" : 4
-},
-{
-"date" : "2017-12-10",
+"date" : "2018-12-15",
 "team1": {
 "key" : "H96",
 "name" : "Hannover 96",
@@ -2225,27 +2193,59 @@
 },
 "team2": 
 {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : 0,
+"score2" : 4
+},
+{
+"date" : "2018-12-15",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
 },
 "score1" : 2,
 "score2" : 0
 },
 {
-"date" : "2017-12-10",
+"date" : "2018-12-16",
 "team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
 },
 "team2": 
 {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
 },
-"score1" : 1,
+"score1" : 4,
+"score2" : 1
+},
+{
+"date" : "2018-12-16",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 2,
 "score2" : 1
 }
 ]
@@ -2255,11 +2255,75 @@
 
 "matches": [
 {
-"date" : "2017-12-12",
+"date" : "2018-12-18",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2018-12-18",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 2,
+"score2" : 2
+},
+{
+"date" : "2018-12-18",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
+},
+"team2": 
+{
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
+},
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2018-12-18",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2018-12-19",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
 },
 "team2": 
 {
@@ -2268,106 +2332,10 @@
 "code" : "RBL"
 },
 "score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2017-12-12",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2017-12-12",
-"team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 0,
-"score2" : 2
-},
-{
-"date" : "2017-12-12",
-"team1": {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"team2": 
-{
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"score1" : 1,
 "score2" : 0
 },
 {
-"date" : "2017-12-13",
-"team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2017-12-13",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2017-12-13",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"team2": 
-{
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"score1" : 3,
-"score2" : 1
-},
-{
-"date" : "2017-12-13",
+"date" : "2018-12-19",
 "team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
@@ -2375,28 +2343,60 @@
 },
 "team2": 
 {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"score1" : 3,
-"score2" : 2
-},
-{
-"date" : "2017-12-13",
-"team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"team2": 
+"score1" : 1,
+"score2" : 2
+},
 {
+"date" : "2018-12-19",
+"team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
 "score1" : 1,
-"score2" : 0
+"score2" : 1
+},
+{
+"date" : "2018-12-19",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2018-12-19",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : 2,
+"score2" : 2
 }
 ]
 },
@@ -2405,23 +2405,7 @@
 
 "matches": [
 {
-"date" : "2017-12-15",
-"team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 3,
-"score2" : 1
-},
-{
-"date" : "2017-12-16",
+"date" : "2018-12-21",
 "team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
@@ -2429,51 +2413,51 @@
 },
 "team2": 
 {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
 },
 "score1" : 2,
 "score2" : 1
 },
 {
-"date" : "2017-12-16",
+"date" : "2018-12-22",
 "team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
 },
 "team2": 
 {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
 },
-"score1" : 1,
-"score2" : 0
+"score1" : 3,
+"score2" : 1
 },
 {
-"date" : "2017-12-16",
+"date" : "2018-12-22",
 "team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"team2": 
-{
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"score1" : 2,
+"score1" : 3,
 "score2" : 2
 },
 {
-"date" : "2017-12-16",
+"date" : "2018-12-22",
 "team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "team2": 
 {
@@ -2481,31 +2465,15 @@
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2017-12-16",
-"team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"team2": 
-{
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"score1" : 3,
+"score1" : 1,
 "score2" : 3
 },
 {
-"date" : "2017-12-16",
+"date" : "2018-12-22",
 "team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
 },
 "team2": 
 {
@@ -2514,10 +2482,10 @@
 "code" : "FCB"
 },
 "score1" : 0,
-"score2" : 1
+"score2" : 3
 },
 {
-"date" : "2017-12-17",
+"date" : "2018-12-22",
 "team1": {
 "key" : "H96",
 "name" : "Hannover 96",
@@ -2525,25 +2493,57 @@
 },
 "team2": 
 {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
-"score1" : 4,
-"score2" : 4
+"score1" : 0,
+"score2" : 1
 },
 {
-"date" : "2017-12-17",
+"date" : "2018-12-22",
 "team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "team2": 
 {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : 0,
+"score2" : 1
+},
+{
+"date" : "2018-12-23",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2018-12-23",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
 },
 "score1" : 2,
 "score2" : 3
@@ -2555,11 +2555,11 @@
 
 "matches": [
 {
-"date" : "2018-01-12",
+"date" : "2019-01-18",
 "team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
 },
 "team2": 
 {
@@ -2571,39 +2571,55 @@
 "score2" : 3
 },
 {
-"date" : "2018-01-13",
+"date" : "2019-01-19",
 "team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : 0,
+"score2" : 1
+},
+{
+"date" : "2019-01-19",
+"team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : 0,
+"score2" : 1
+},
+{
+"date" : "2019-01-19",
+"team1": {
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"team2": 
+{
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"team2": 
-{
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"score1" : 1,
+"score1" : 0,
 "score2" : 1
 },
 {
-"date" : "2018-01-13",
-"team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"team2": 
-{
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2018-01-13",
+"date" : "2019-01-19",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -2615,31 +2631,15 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : 1,
+"score1" : 3,
 "score2" : 1
 },
 {
-"date" : "2018-01-13",
+"date" : "2019-01-19",
 "team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2018-01-13",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "team2": 
 {
@@ -2647,47 +2647,47 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : 3,
+"score1" : 2,
+"score2" : 3
+},
+{
+"date" : "2019-01-19",
+"team1": {
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"team2": 
+{
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"score1" : 1,
 "score2" : 2
 },
 {
-"date" : "2018-01-13",
+"date" : "2019-01-20",
 "team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "team2": 
 {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : 1,
+"score2" : 3
+},
+{
+"date" : "2019-01-20",
+"team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
 "code" : "S04"
-},
-"score1" : 3,
-"score2" : 1
-},
-{
-"date" : "2018-01-14",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2018-01-14",
-"team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
 },
 "team2": 
 {
@@ -2695,8 +2695,8 @@
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
 },
-"score1" : 0,
-"score2" : 0
+"score1" : 2,
+"score2" : 1
 }
 ]
 },
@@ -2705,7 +2705,7 @@
 
 "matches": [
 {
-"date" : "2018-01-19",
+"date" : "2019-01-25",
 "team1": {
 "key" : "herthabsc",
 "name" : "Hertha BSC",
@@ -2713,15 +2713,15 @@
 },
 "team2": 
 {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
 },
-"score1" : 1,
-"score2" : 1
+"score1" : 2,
+"score2" : 2
 },
 {
-"date" : "2018-01-20",
+"date" : "2019-01-26",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -2729,15 +2729,15 @@
 },
 "team2": 
 {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
 },
 "score1" : 2,
-"score2" : 1
+"score2" : 4
 },
 {
-"date" : "2018-01-20",
+"date" : "2019-01-26",
 "team1": {
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
@@ -2745,31 +2745,31 @@
 },
 "team2": 
 {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"score1" : 1,
-"score2" : 3
-},
-{
-"date" : "2018-01-20",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
 "code" : "B04"
 },
-"score1" : 1,
-"score2" : 4
+"score1" : 0,
+"score2" : 3
 },
 {
-"date" : "2018-01-20",
+"date" : "2019-01-26",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : 2,
+"score2" : 2
+},
+{
+"date" : "2019-01-26",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -2785,59 +2785,11 @@
 "score2" : 0
 },
 {
-"date" : "2018-01-20",
+"date" : "2019-01-26",
 "team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"team2": 
-{
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"score1" : 3,
-"score2" : 2
-},
-{
-"date" : "2018-01-20",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"score1" : 0,
-"score2" : 2
-},
-{
-"date" : "2018-01-21",
-"team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"score1" : 4,
-"score2" : 2
-},
-{
-"date" : "2018-01-21",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
 },
 "team2": 
 {
@@ -2845,7 +2797,55 @@
 "name" : "Hannover 96",
 "code" : "H96"
 },
-"score1" : 1,
+"score1" : 5,
+"score2" : 1
+},
+{
+"date" : "2019-01-26",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2019-01-27",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : 0,
+"score2" : 4
+},
+{
+"date" : "2019-01-27",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
+},
+"score1" : 4,
 "score2" : 1
 }
 ]
@@ -2855,7 +2855,23 @@
 
 "matches": [
 {
-"date" : "2018-01-26",
+"date" : "2019-02-1",
+"team1": {
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"team2": 
+{
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"score1" : 0,
+"score2" : 3
+},
+{
+"date" : "2019-02-2",
 "team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
@@ -2863,35 +2879,99 @@
 },
 "team2": 
 {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2019-02-2",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : 2,
-"score2" : 0
+"score1" : 0,
+"score2" : 2
 },
 {
-"date" : "2018-01-27",
+"date" : "2019-02-2",
 "team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "team2": 
 {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2019-02-2",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : 0,
+"score2" : 1
+},
+{
+"date" : "2019-02-2",
+"team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : 5,
-"score2" : 2
+"team2": 
+{
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"score1" : 1,
+"score2" : 1
 },
 {
-"date" : "2018-01-27",
+"date" : "2019-02-2",
 "team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : 3,
+"score2" : 1
+},
+{
+"date" : "2019-02-3",
+"team1": {
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "team2": 
 {
@@ -2903,75 +2983,11 @@
 "score2" : 2
 },
 {
-"date" : "2018-01-27",
+"date" : "2019-02-3",
 "team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"team2": 
-{
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"score1" : 0,
-"score2" : 2
-},
-{
-"date" : "2018-01-27",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
 "key" : "augsburg",
 "name" : "FC Augsburg",
 "code" : "FCA"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-01-27",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-01-27",
-"team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"team2": 
-{
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2018-01-28",
-"team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
 },
 "team2": 
 {
@@ -2979,24 +2995,8 @@
 "name" : "1. FSV Mainz 05",
 "code" : "M05"
 },
-"score1" : 2,
+"score1" : 3,
 "score2" : 0
-},
-{
-"date" : "2018-01-28",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"score1" : 0,
-"score2" : 1
 }
 ]
 },
@@ -3005,23 +3005,7 @@
 
 "matches": [
 {
-"date" : "2018-02-2",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 2,
-"score2" : 3
-},
-{
-"date" : "2018-02-3",
+"date" : "2019-02-8",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -3029,19 +3013,35 @@
 },
 "team2": 
 {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 1,
+"score2" : 5
+},
+{
+"date" : "2019-02-9",
+"team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
-"score1" : 0,
-"score2" : 2
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : 3,
+"score2" : 1
 },
 {
-"date" : "2018-02-3",
+"date" : "2019-02-9",
 "team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
 },
 "team2": 
 {
@@ -3049,79 +3049,15 @@
 "name" : "1899 Hoffenheim",
 "code" : "HOF"
 },
-"score1" : 1,
-"score2" : 1
+"score1" : 3,
+"score2" : 3
 },
 {
-"date" : "2018-02-3",
+"date" : "2019-02-9",
 "team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2018-02-3",
-"team1": {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2018-02-3",
-"team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"team2": 
-{
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-02-3",
-"team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"team2": 
-{
 "key" : "leipzig",
 "name" : "RB Leipzig",
 "code" : "RBL"
-},
-"score1" : 0,
-"score2" : 1
-},
-{
-"date" : "2018-02-4",
-"team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
 },
 "team2": 
 {
@@ -3129,24 +3065,88 @@
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : 3,
+"score1" : 0,
 "score2" : 0
 },
 {
-"date" : "2018-02-4",
+"date" : "2019-02-9",
 "team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
 },
 "team2": 
 {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : 0,
+"score2" : 3
+},
+{
+"date" : "2019-02-9",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : 3,
+"score2" : 3
+},
+{
+"date" : "2019-02-9",
+"team1": {
 "key" : "H96",
 "name" : "Hannover 96",
 "code" : "H96"
 },
-"score1" : 1,
-"score2" : 1
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2019-02-10",
+"team1": {
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 4,
+"score2" : 0
+},
+{
+"date" : "2019-02-10",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
+},
+"score1" : 3,
+"score2" : 0
 }
 ]
 },
@@ -3155,87 +3155,55 @@
 
 "matches": [
 {
-"date" : "2018-02-9",
+"date" : "2019-02-15",
 "team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
 "key" : "augsburg",
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
+"team2": 
+{
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
 "score1" : 2,
-"score2" : 0
+"score2" : 3
 },
 {
-"date" : "2018-02-10",
+"date" : "2019-02-16",
 "team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
 },
-"score1" : 4,
-"score2" : 2
+"score1" : 1,
+"score2" : 3
 },
 {
-"date" : "2018-02-10",
+"date" : "2019-02-16",
 "team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"team2": 
-{
 "key" : "herthabsc",
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : 0,
-"score2" : 2
-},
-{
-"date" : "2018-02-10",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
 "team2": 
 {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
 },
-"score1" : 2,
+"score1" : 1,
 "score2" : 1
 },
 {
-"date" : "2018-02-10",
-"team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2018-02-10",
+"date" : "2019-02-16",
 "team1": {
 "key" : "hoffenheim",
 "name" : "1899 Hoffenheim",
@@ -3243,35 +3211,51 @@
 },
 "team2": 
 {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
-"score1" : 4,
-"score2" : 2
+"score1" : 3,
+"score2" : 0
 },
 {
-"date" : "2018-02-10",
+"date" : "2019-02-16",
 "team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
 "key" : "schalke",
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"score1" : 2,
-"score2" : 1
+"team2": 
+{
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : 0,
+"score2" : 0
 },
 {
-"date" : "2018-02-11",
+"date" : "2019-02-16",
 "team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : 3,
+"score2" : 0
+},
+{
+"date" : "2019-02-17",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
 },
 "team2": 
 {
@@ -3280,23 +3264,39 @@
 "code" : "BMG"
 },
 "score1" : 1,
-"score2" : 0
+"score2" : 1
 },
 {
-"date" : "2018-02-11",
+"date" : "2019-02-17",
 "team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
 },
 "team2": 
 {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
 },
-"score1" : 3,
-"score2" : 1
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2019-02-18",
+"team1": {
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : 0,
+"score2" : 0
 }
 ]
 },
@@ -3305,107 +3305,11 @@
 
 "matches": [
 {
-"date" : "2018-02-16",
+"date" : "2019-02-22",
 "team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"team2": 
-{
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"score1" : 0,
-"score2" : 2
-},
-{
-"date" : "2018-02-17",
-"team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"team2": 
-{
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2018-02-17",
-"team1": {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"team2": 
-{
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2018-02-17",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2018-02-17",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-02-17",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2018-02-18",
-"team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
 },
 "team2": 
 {
@@ -3413,11 +3317,59 @@
 "name" : "VfB Stuttgart",
 "code" : "VFB"
 },
-"score1" : 0,
+"score1" : 1,
 "score2" : 1
 },
 {
-"date" : "2018-02-18",
+"date" : "2019-02-23",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"score1" : 3,
+"score2" : 0
+},
+{
+"date" : "2019-02-23",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : 1,
+"score2" : 0
+},
+{
+"date" : "2019-02-23",
+"team1": {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 5,
+"score2" : 1
+},
+{
+"date" : "2019-02-23",
 "team1": {
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
@@ -3425,27 +3377,75 @@
 },
 "team2": 
 {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : 0,
+"score2" : 3
+},
+{
+"date" : "2019-02-23",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2019-02-24",
+"team1": {
 "key" : "dortmund",
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : 0,
-"score2" : 1
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 3,
+"score2" : 2
 },
 {
-"date" : "2018-02-19",
+"date" : "2019-02-24",
 "team1": {
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"team2": 
+{
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"team2": 
+"score1" : 0,
+"score2" : 3
+},
 {
+"date" : "2019-02-25",
+"team1": {
 "key" : "leipzig",
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
-"score1" : 2,
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : 1,
 "score2" : 1
 }
 ]
@@ -3455,103 +3455,71 @@
 
 "matches": [
 {
-"date" : "2018-02-23",
+"date" : "2019-03-1",
 "team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
 },
 "team2": 
 {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
 },
-"score1" : 1,
+"score1" : 2,
 "score2" : 1
 },
 {
-"date" : "2018-02-24",
+"date" : "2019-03-2",
 "team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2018-02-24",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-02-24",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"score1" : 0,
-"score2" : 1
-},
-{
-"date" : "2018-02-24",
-"team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
 "team2": 
 {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"score1" : 1,
+"score2" : 5
+},
+{
+"date" : "2019-03-2",
+"team1": {
 "key" : "frankfurt",
 "name" : "Eintracht Frankfurt",
 "code" : "FFM"
 },
-"score1" : 1,
-"score2" : 0
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : 3,
+"score2" : 2
 },
 {
-"date" : "2018-02-24",
+"date" : "2019-03-2",
 "team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
 "team2": 
 {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
 },
-"score1" : 1,
-"score2" : 0
+"score1" : 0,
+"score2" : 1
 },
 {
-"date" : "2018-02-25",
+"date" : "2019-03-2",
 "team1": {
 "key" : "leverkusen",
 "name" : "Bayer Leverkusen",
@@ -3559,43 +3527,75 @@
 },
 "team2": 
 {
+"key" : "freiburg",
+"name" : "SC Freiburg",
+"code" : "SCF"
+},
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2019-03-2",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2019-03-2",
+"team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
+"team2": 
+{
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
 "score1" : 0,
-"score2" : 2
+"score2" : 4
 },
 {
-"date" : "2018-02-25",
+"date" : "2019-03-3",
 "team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
 },
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
 },
 "score1" : 1,
-"score2" : 2
+"score2" : 1
 },
 {
-"date" : "2018-02-26",
+"date" : "2019-03-3",
 "team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
 "team2": 
 {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
-"score1" : 1,
+"score1" : 5,
 "score2" : 1
 }
 ]
@@ -3605,123 +3605,27 @@
 
 "matches": [
 {
-"date" : "2018-03-2",
+"date" : "2019-03-8",
 "team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"team2": 
-{
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
-"score1" : 2,
-"score2" : 2
-},
-{
-"date" : "2018-03-3",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
 "team2": 
 {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-03-3",
-"team1": {
 "key" : "schalke",
 "name" : "FC Schalke 04",
 "code" : "S04"
 },
-"team2": 
-{
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2018-03-3",
-"team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"team2": 
-{
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"score1" : 1,
-"score2" : 0
-},
-{
-"date" : "2018-03-3",
-"team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"team2": 
-{
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"score1" : 0,
+"score1" : 4,
 "score2" : 2
 },
 {
-"date" : "2018-03-3",
+"date" : "2019-03-9",
 "team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2018-03-3",
-"team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"score1" : 1,
-"score2" : 2
-},
-{
-"date" : "2018-03-4",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
 },
 "team2": 
 {
@@ -3729,11 +3633,27 @@
 "name" : "VfB Stuttgart",
 "code" : "VFB"
 },
-"score1" : 2,
-"score2" : 3
+"score1" : 3,
+"score2" : 1
 },
 {
-"date" : "2018-03-4",
+"date" : "2019-03-9",
+"team1": {
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"team2": 
+{
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"score1" : 0,
+"score2" : 1
+},
+{
+"date" : "2019-03-9",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -3741,12 +3661,92 @@
 },
 "team2": 
 {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2019-03-9",
+"team1": {
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
+},
+"team2": 
+{
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
+},
+"score1" : 0,
+"score2" : 0
+},
+{
+"date" : "2019-03-9",
+"team1": {
 "key" : "bayern",
 "name" : "Bayern Muenchen",
 "code" : "FCB"
 },
+"team2": 
+{
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"score1" : 6,
+"score2" : 0
+},
+{
+"date" : "2019-03-10",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"score1" : 2,
+"score2" : 1
+},
+{
+"date" : "2019-03-10",
+"team1": {
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 2,
+"score2" : 3
+},
+{
+"date" : "2019-03-11",
+"team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
 "score1" : 0,
-"score2" : 4
+"score2" : 3
 }
 ]
 },
@@ -3755,27 +3755,11 @@
 
 "matches": [
 {
-"date" : "2018-03-9",
+"date" : "2019-03-15",
 "team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"team2": 
-{
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"score1" : 0,
-"score2" : 1
-},
-{
-"date" : "2018-03-10",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
 },
 "team2": 
 {
@@ -3783,79 +3767,47 @@
 "name" : "SC Freiburg",
 "code" : "SCF"
 },
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2018-03-10",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
 "score1" : 1,
-"score2" : 3
+"score2" : 1
 },
 {
-"date" : "2018-03-10",
-"team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 6,
-"score2" : 0
-},
-{
-"date" : "2018-03-10",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"score1" : 3,
-"score2" : 0
-},
-{
-"date" : "2018-03-10",
-"team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"team2": 
-{
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2018-03-11",
+"date" : "2019-03-16",
 "team1": {
 "key" : "VFB",
 "name" : "VfB Stuttgart",
 "code" : "VFB"
+},
+"team2": 
+{
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"score1" : 1,
+"score2" : 1
+},
+{
+"date" : "2019-03-16",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"score1" : 2,
+"score2" : 3
+},
+{
+"date" : "2019-03-16",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
 },
 "team2": 
 {
@@ -3864,39 +3816,87 @@
 "code" : "RBL"
 },
 "score1" : 0,
-"score2" : 0
+"score2" : 1
 },
 {
-"date" : "2018-03-11",
+"date" : "2019-03-16",
 "team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
 },
 "team2": 
 {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
 "score1" : 3,
+"score2" : 1
+},
+{
+"date" : "2019-03-16",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"score1" : 5,
 "score2" : 2
 },
 {
-"date" : "2018-03-12",
+"date" : "2019-03-16",
 "team1": {
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"team2": 
+{
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
 },
+"score1" : 1,
+"score2" : 3
+},
+{
+"date" : "2019-03-17",
+"team1": {
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
 "team2": 
 {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
 },
-"score1" : 3,
-"score2" : 1
+"score1" : 1,
+"score2" : 0
+},
+{
+"date" : "2019-03-17",
+"team1": {
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
+},
+"team2": 
+{
+"key" : "mainz",
+"name" : "1. FSV Mainz 05",
+"code" : "M05"
+},
+"score1" : 6,
+"score2" : 0
 }
 ]
 },
@@ -3905,7 +3905,23 @@
 
 "matches": [
 {
-"date" : "2018-03-16",
+"date" : "2019-03-29",
+"team1": {
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
+},
+"team2": 
+{
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
+},
+"score1" : 4,
+"score2" : 1
+},
+{
+"date" : "2019-03-30",
 "team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
@@ -3913,35 +3929,35 @@
 },
 "team2": 
 {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
 },
 "score1" : 1,
-"score2" : 2
+"score2" : 1
 },
 {
-"date" : "2018-03-17",
+"date" : "2019-03-30",
 "team1": {
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"team2": 
+{
 "key" : "mgladbach",
 "name" : "Bor. Moenchengladbach",
 "code" : "BMG"
 },
-"team2": 
-{
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
 "score1" : 3,
-"score2" : 3
+"score2" : 1
 },
 {
-"date" : "2018-03-17",
+"date" : "2019-03-30",
 "team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
+"key" : "leipzig",
+"name" : "RB Leipzig",
+"code" : "RBL"
 },
 "team2": 
 {
@@ -3949,31 +3965,31 @@
 "name" : "Hertha BSC",
 "code" : "BSC"
 },
-"score1" : 1,
-"score2" : 2
+"score1" : 5,
+"score2" : 0
 },
 {
-"date" : "2018-03-17",
+"date" : "2019-03-30",
 "team1": {
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
+"team2": 
+{
 "key" : "augsburg",
 "name" : "FC Augsburg",
 "code" : "FCA"
 },
-"team2": 
+"score1" : 3,
+"score2" : 0
+},
 {
+"date" : "2019-03-30",
+"team1": {
 "key" : "bremen",
 "name" : "Werder Bremen",
 "code" : "BRE"
-},
-"score1" : 1,
-"score2" : 3
-},
-{
-"date" : "2018-03-17",
-"team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
 },
 "team2": 
 {
@@ -3982,14 +3998,30 @@
 "code" : "M05"
 },
 "score1" : 3,
-"score2" : 0
+"score2" : 1
 },
 {
-"date" : "2018-03-17",
+"date" : "2019-03-30",
 "team1": {
+"key" : "dortmund",
+"name" : "Borussia Dortmund",
+"code" : "BVB"
+},
+"team2": 
+{
 "key" : "wolfsburg",
 "name" : "VfL Wolfsburg",
 "code" : "WOB"
+},
+"score1" : 2,
+"score2" : 0
+},
+{
+"date" : "2019-03-31",
+"team1": {
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
 },
 "team2": 
 {
@@ -4001,52 +4033,20 @@
 "score2" : 1
 },
 {
-"date" : "2018-03-18",
+"date" : "2019-03-31",
 "team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
 },
 "team2": 
 {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
 },
-"score1" : 1,
+"score1" : 3,
 "score2" : 0
-},
-{
-"date" : "2018-03-18",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2018-03-18",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"score1" : 2,
-"score2" : 1
 }
 ]
 },
@@ -4055,135 +4055,7 @@
 
 "matches": [
 {
-"date" : "2018-03-31",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"score1" : 2,
-"score2" : 3
-},
-{
-"date" : "2018-03-31",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"score1" : 6,
-"score2" : 0
-},
-{
-"date" : "2018-03-31",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"team2": 
-{
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
-},
-"score1" : 2,
-"score2" : 0
-},
-{
-"date" : "2018-03-31",
-"team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"team2": 
-{
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2018-03-31",
-"team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-03-31",
-"team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"score1" : 6,
-"score2" : 0
-},
-{
-"date" : "2018-03-31",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"team2": 
-{
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2018-04-1",
-"team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"team2": 
-{
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2018-04-1",
+"date" : "2019-04-5",
 "team1": {
 "key" : "mainz",
 "name" : "1. FSV Mainz 05",
@@ -4191,271 +4063,19 @@
 },
 "team2": 
 {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"score1" : 0,
-"score2" : 0
-}
-]
-},
-{
- "name": "29. Jornada",
-
-"matches": [
-{
-"date" : "2018-04-6",
-"team1": {
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"team2": 
-{
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2018-04-7",
-"team1": {
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"team2": 
-{
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"score1" : 1,
-"score2" : 4
-},
-{
-"date" : "2018-04-7",
-"team1": {
 "key" : "freiburg",
 "name" : "SC Freiburg",
 "code" : "SCF"
-},
-"team2": 
-{
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"score1" : 0,
-"score2" : 2
-},
-{
-"date" : "2018-04-7",
-"team1": {
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
-},
-"team2": 
-{
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2018-04-7",
-"team1": {
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"team2": 
-{
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
-},
-"score1" : 3,
-"score2" : 2
-},
-{
-"date" : "2018-04-7",
-"team1": {
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"team2": 
-{
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-04-8",
-"team1": {
-"key" : "dortmund",
-"name" : "Borussia Dortmund",
-"code" : "BVB"
-},
-"team2": 
-{
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"score1" : 3,
-"score2" : 0
-},
-{
-"date" : "2018-04-8",
-"team1": {
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"team2": 
-{
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-04-9",
-"team1": {
-"key" : "leipzig",
-"name" : "RB Leipzig",
-"code" : "RBL"
-},
-"team2": 
-{
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"score1" : 1,
-"score2" : 4
-}
-]
-},
-{
- "name": "30. Jornada",
-
-"matches": [
-{
-"date" : "2018-04-13",
-"team1": {
-"key" : "wolfsburg",
-"name" : "VfL Wolfsburg",
-"code" : "WOB"
-},
-"team2": 
-{
-"key" : "augsburg",
-"name" : "FC Augsburg",
-"code" : "FCA"
-},
-"score1" : 0,
-"score2" : 0
-},
-{
-"date" : "2018-04-14",
-"team1": {
-"key" : "herthabsc",
-"name" : "Hertha BSC",
-"code" : "BSC"
-},
-"team2": 
-{
-"key" : "koeln",
-"name" : "1. FC Koeln",
-"code" : "KOE"
-},
-"score1" : 2,
-"score2" : 1
-},
-{
-"date" : "2018-04-14",
-"team1": {
-"key" : "bayern",
-"name" : "Bayern Muenchen",
-"code" : "FCB"
-},
-"team2": 
-{
-"key" : "mgladbach",
-"name" : "Bor. Moenchengladbach",
-"code" : "BMG"
 },
 "score1" : 5,
-"score2" : 1
-},
-{
-"date" : "2018-04-14",
-"team1": {
-"key" : "leverkusen",
-"name" : "Bayer Leverkusen",
-"code" : "B04"
-},
-"team2": 
-{
-"key" : "frankfurt",
-"name" : "Eintracht Frankfurt",
-"code" : "FFM"
-},
-"score1" : 4,
-"score2" : 1
-},
-{
-"date" : "2018-04-14",
-"team1": {
-"key" : "hoffenheim",
-"name" : "1899 Hoffenheim",
-"code" : "HOF"
-},
-"team2": 
-{
-"key" : "hsv",
-"name" : "Hamburger SV",
-"code" : "HSV"
-},
-"score1" : 2,
 "score2" : 0
 },
 {
-"date" : "2018-04-14",
+"date" : "2019-04-6",
 "team1": {
-"key" : "VFB",
-"name" : "VfB Stuttgart",
-"code" : "VFB"
-},
-"team2": 
-{
-"key" : "H96",
-"name" : "Hannover 96",
-"code" : "H96"
-},
-"score1" : 1,
-"score2" : 1
-},
-{
-"date" : "2018-04-15",
-"team1": {
-"key" : "schalke",
-"name" : "FC Schalke 04",
-"code" : "S04"
+"key" : "bayern",
+"name" : "Bayern Muenchen",
+"code" : "FCB"
 },
 "team2": 
 {
@@ -4463,15 +4083,15 @@
 "name" : "Borussia Dortmund",
 "code" : "BVB"
 },
-"score1" : 2,
+"score1" : 5,
 "score2" : 0
 },
 {
-"date" : "2018-04-15",
+"date" : "2019-04-6",
 "team1": {
-"key" : "bremen",
-"name" : "Werder Bremen",
-"code" : "BRE"
+"key" : "leverkusen",
+"name" : "Bayer Leverkusen",
+"code" : "B04"
 },
 "team2": 
 {
@@ -4479,24 +4099,104 @@
 "name" : "RB Leipzig",
 "code" : "RBL"
 },
+"score1" : 2,
+"score2" : 4
+},
+{
+"date" : "2019-04-6",
+"team1": {
+"key" : "schalke",
+"name" : "FC Schalke 04",
+"code" : "S04"
+},
+"team2": 
+{
+"key" : "frankfurt",
+"name" : "Eintracht Frankfurt",
+"code" : "FFM"
+},
+"score1" : 1,
+"score2" : 2
+},
+{
+"date" : "2019-04-6",
+"team1": {
+"key" : "wolfsburg",
+"name" : "VfL Wolfsburg",
+"code" : "WOB"
+},
+"team2": 
+{
+"key" : "H96",
+"name" : "Hannover 96",
+"code" : "H96"
+},
+"score1" : 3,
+"score2" : 1
+},
+{
+"date" : "2019-04-6",
+"team1": {
+"key" : "herthabsc",
+"name" : "Hertha BSC",
+"code" : "BSC"
+},
+"team2": 
+{
+"key" : "duesseldorf",
+"name" : "Fortuna Duesseldorf",
+"code" : "F95"
+},
+"score1" : 1,
+"score2" : 2
+},
+{
+"date" : "2019-04-6",
+"team1": {
+"key" : "VFB",
+"name" : "VfB Stuttgart",
+"code" : "VFB"
+},
+"team2": 
+{
+"key" : "nuernberg",
+"name" : "1. FC Nuernberg",
+"code" : "FCN"
+},
 "score1" : 1,
 "score2" : 1
 },
 {
-"date" : "2018-04-16",
+"date" : "2019-04-7",
 "team1": {
-"key" : "mainz",
-"name" : "1. FSV Mainz 05",
-"code" : "M05"
+"key" : "augsburg",
+"name" : "FC Augsburg",
+"code" : "FCA"
 },
 "team2": 
 {
-"key" : "freiburg",
-"name" : "SC Freiburg",
-"code" : "SCF"
+"key" : "hoffenheim",
+"name" : "1899 Hoffenheim",
+"code" : "HOF"
 },
-"score1" : 2,
-"score2" : 0
+"score1" : 0,
+"score2" : 4
+},
+{
+"date" : "2019-04-7",
+"team1": {
+"key" : "mgladbach",
+"name" : "Bor. Moenchengladbach",
+"code" : "BMG"
+},
+"team2": 
+{
+"key" : "bremen",
+"name" : "Werder Bremen",
+"code" : "BRE"
+},
+"score1" : 1,
+"score2" : 1
 }
 ]
 }
