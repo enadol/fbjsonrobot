@@ -1,12 +1,13 @@
+#!python3
 from input import jornada
 # just from the second round on
-import merger
+#import merger
 # only necessary if club names are to be changed from the original
 import cleanerteams
 import fbjson
 import jsonbuilder
-# import daterobot ???
+import daterobot
 import dateproofer
 import jsonrobot
 
-print "Launching robot..."
+print("Launching robot...")
