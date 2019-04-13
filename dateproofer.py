@@ -8,7 +8,7 @@ diadef=[]
 
 #for special matchdays with three matches on sunday, beginning season 2017/2018.
 #Replace/check items in array every new season
-specialMD = [7,9]
+specialMD = [7,9,29]
 conlunes = [13,22,23,25]
 english = [5,16]
 sevenplustwo = [0]
