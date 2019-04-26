@@ -7,13 +7,14 @@ import datetime
 diadef = []
 
 # special matchday formats
-# choose format array and append matchdays as items accordingly
+# choose format array and append matchday numbers as items accordingly
 # array items change every season
 specialMD = [7, 9, 29, 32]
 conlunes = [13, 22, 23, 25]
 english = [5, 16]
 sevenplustwo = [0]
 sinviernes = [30]
+eightplusone = [33]
 
 # print lstnuevafecha
 # print lunes
@@ -37,8 +38,9 @@ for date in lstnuevafecha:
 # proof if machday is of special format
 
 # matchdays with five matches on saturday, two on sunday, one on monday
-# no need to change this every season. just change items in conlunes
-# matchday with one match on monday
+# no need to change this block. just change items in arrays
+
+	# matchday with one match on monday
 	if jornada in conlunes:
 		if date2 == 'Friday':
 			diadef.append(date)
@@ -72,7 +74,7 @@ for date in lstnuevafecha:
 				diadef.append(date)
 
 		
-# three matches on sunday, five on saturday, one friday
+	# three matches on sunday, five on saturday, one friday
 	elif jornada in specialMD:
 		if date2 == "Friday":
 			diadef.append(date)
@@ -85,7 +87,7 @@ for date in lstnuevafecha:
 			for i in range(0, 3):
 				diadef.append(date)
 
-# six matches on saturday, two sunday, one monday
+	# six matches on saturday, two sunday, one monday
 	elif jornada in sinviernes:
 		if date2 == "Saturday":
 			for i in range(0,6):
@@ -104,13 +106,24 @@ for date in lstnuevafecha:
 			# diadef.append(date)
 				
 # for the last two matchdays of each tournament,
-# all matches in one day
+# all matches in one day, but...
+
 	elif jornada > 32:
-		for i in range(0, 9):
-			diadef.append(date)
+# ...exception if one Bundesliga team reaches european
+# semifinals or finals (2019: Frankfurt Europe League)
+		if jornada in eightplusone:
+			if date2 == "Saturday":
+				for i in range(0, 8):
+					diadef.append(date)
+			else:
+				diadef.append(date)
+# else (normal) all matches in one day
+		else:
+			for i in range(0, 9):
+				diadef.append(date)
 
 # if matchday is not special format, then traditional
-# traditional matchdays: one friday, six saturday, two sunday
+# matchdays: one friday, six saturday, two sunday
 	else:
 		if date2 == "Friday":
 			diadef.append(date)
