@@ -12,12 +12,16 @@ fh = open(fname)
 stringdata = fh.read()
 
 fh = open(fname, "w")
+news = stringdata.replace("ö", "oe")
+stringdata = news
+news = stringdata.replace("ü", "ue")
+stringdata = news
 news = stringdata.replace("Ã¶", "oe")
 stringdata = news
 news = stringdata.replace("Ã¼", "ue")
 stringdata = news
 
 fh.write(news)
-#print news
+# print news
 
 fh.close()
