@@ -479,3 +479,15 @@ Spieltag 31
   Borussia Dortmund       3-2 Fortuna Duesseldorf
 [So 12.5.]
   Eintracht Frankfurt     0-2 1. FSV Mainz 05
+
+  Spieltag 34
+[Sa 18.5.]
+  1. FSV Mainz 05         4-2 1899 Hoffenheim
+  Bor. Moenchengladbach    0-2 Borussia Dortmund
+  Hertha BSC              1-5 Bayer Leverkusen
+  Werder Bremen           2-1 RB Leipzig
+  FC Schalke 04           0-0 VfB Stuttgart
+  Bayern Muenchen          5-1 Eintracht Frankfurt
+  VfL Wolfsburg           8-1 FC Augsburg
+  Fortuna Duesseldorf      2-1 Hannover 96
+  SC Freiburg             5-1 1. FC Nuernberg
