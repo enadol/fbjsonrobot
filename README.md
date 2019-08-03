@@ -17,6 +17,6 @@ NEW (08.2019): Access through url to the raw .txt file (https://raw.githubuserco
 
 ## ADDED: Dynamically finds ALL the different structures of MDs, due to changes in the Bundesliga starting season 2017/2018
 
-## The scripts rely COMPLETELY AND VERY RIGIDLY on the format of the .txt file. Spaces and ":"s or "-"s in this file must be adjusted or verified for the scripts to work properly. In this sense, flexibility is another task to achieve on this project.
+## The scripts rely COMPLETELY AND VERY RIGIDLY on the format of the .txt file. Number of spaces and ":"s or "-"s declared on fbjson.py must be monitored and, if necessary, adjusted, for the regexes to work properly (currently they are OK). In this sense, flexibility is another task to achieve on this project.
 
 ## Scripts now in Python 3.x
