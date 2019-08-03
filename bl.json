@@ -4620,6 +4620,146 @@
                     "score2": 2
                 }
             ]
+        },
+        {
+            "name": "34. Jornada",
+            "matches": [
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "mainz",
+                        "name": "1. FSV Mainz 05",
+                        "code": "M05"
+                    },
+                    "team2": {
+                        "key": "hoffenheim",
+                        "name": "1899 Hoffenheim",
+                        "code": "HOF"
+                    },
+                    "score1": 4,
+                    "score2": 2
+                },
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "mgladbach",
+                        "name": "Bor. Moenchengladbach",
+                        "code": "BMG"
+                    },
+                    "team2": {
+                        "key": "dortmund",
+                        "name": "Borussia Dortmund",
+                        "code": "BVB"
+                    },
+                    "score1": 0,
+                    "score2": 2
+                },
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "herthabsc",
+                        "name": "Hertha BSC",
+                        "code": "BSC"
+                    },
+                    "team2": {
+                        "key": "leverkusen",
+                        "name": "Bayer Leverkusen",
+                        "code": "B04"
+                    },
+                    "score1": 1,
+                    "score2": 5
+                },
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "bremen",
+                        "name": "Werder Bremen",
+                        "code": "BRE"
+                    },
+                    "team2": {
+                        "key": "leipzig",
+                        "name": "RB Leipzig",
+                        "code": "RBL"
+                    },
+                    "score1": 2,
+                    "score2": 1
+                },
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "schalke",
+                        "name": "FC Schalke 04",
+                        "code": "S04"
+                    },
+                    "team2": {
+                        "key": "VFB",
+                        "name": "VfB Stuttgart",
+                        "code": "VFB"
+                    },
+                    "score1": 0,
+                    "score2": 0
+                },
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "bayern",
+                        "name": "Bayern Muenchen",
+                        "code": "FCB"
+                    },
+                    "team2": {
+                        "key": "frankfurt",
+                        "name": "Eintracht Frankfurt",
+                        "code": "FFM"
+                    },
+                    "score1": 5,
+                    "score2": 1
+                },
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "wolfsburg",
+                        "name": "VfL Wolfsburg",
+                        "code": "WOB"
+                    },
+                    "team2": {
+                        "key": "augsburg",
+                        "name": "FC Augsburg",
+                        "code": "FCA"
+                    },
+                    "score1": 8,
+                    "score2": 1
+                },
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "duesseldorf",
+                        "name": "Fortuna Duesseldorf",
+                        "code": "F95"
+                    },
+                    "team2": {
+                        "key": "H96",
+                        "name": "Hannover 96",
+                        "code": "H96"
+                    },
+                    "score1": 2,
+                    "score2": 1
+                },
+                {
+                    "date": "2019-05-18",
+                    "team1": {
+                        "key": "freiburg",
+                        "name": "SC Freiburg",
+                        "code": "SCF"
+                    },
+                    "team2": {
+                        "key": "nuernberg",
+                        "name": "1. FC Nuernberg",
+                        "code": "FCN"
+                    },
+                    "score1": 5,
+                    "score2": 1
+                }
+            ]
         }
     ]
 }

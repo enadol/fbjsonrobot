@@ -6,7 +6,7 @@
 fname = input("Enter a file name: ")
 # do it also with 1-bundesliga-ii.txt
 if (len(fname) < 1):
-    fname = '1-bundesliga.txt'
+    fname = 'https://raw.githubusercontent.com/openfootball/de-deutschland/master/2019-20/1-bundesliga.txt'
 
 fh = open(fname)
 stringdata = fh.read()
@@ -19,6 +19,10 @@ stringdata = news
 news = stringdata.replace("Ã¶", "oe")
 stringdata = news
 news = stringdata.replace("Ã¼", "ue")
+stringdata = news
+news = stringdata.replace("\\xc3\\xb6", "oe")
+stringdata = news
+news = stringdata.replace("\\xc3\\xbc", "ue")
 stringdata = news
 
 fh.write(news)

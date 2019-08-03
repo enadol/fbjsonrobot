@@ -9,12 +9,12 @@ diadef = []
 # special matchday formats
 # choose format array and append matchday numbers as items accordingly
 # array items change every season
-specialMD = [7, 9, 29, 32]
-conlunes = [13, 22, 23, 25]
-english = [5, 16]
+specialMD = []
+conlunes = []
+english = []
 sevenplustwo = [0]
-sinviernes = [30]
-eightplusone = [33]
+sinviernes = []
+eightplusone = []
 
 # print lstnuevafecha
 # print lunes

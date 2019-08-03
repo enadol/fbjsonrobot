@@ -23,8 +23,8 @@ ronda2 = []
 rondas = [ronda1, ronda2]
 match = []
 count = 0
-# print lsthome
-# print len(lsthome) = 153
+print(lsthome)
+print(len(lsthome))
 for e in range(0,len(lsthome)):
 	# dinamically generated date from dateproofer.py
 	date = diadef[e]

@@ -1,9 +1,10 @@
 #!python3
-from input import jornada
+#from input import jornada
 # just from the second round on
 # import merger
 # only necessary if club names are to be changed from the original
-import cleanerteams
+# import cleanerteams
+import createtext #trialrun en vez de cleanerteams.py
 import fbjson
 import jsonbuilder
 import daterobot

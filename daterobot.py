@@ -17,11 +17,11 @@ for item in lstdate:
 	#print int(fecha[1])
 	
 	if int(mes) >= 8:
-		fecha[2] = "2018"
+		fecha[2] = "2019"
 		
 		#print mes
 	else:
-		fecha[2] = "2019"
+		fecha[2] = "2020"
 	#print mes, fecha[2]
 	nuevafecha1 = dia, mes, fecha[2]
 	#print nuevafecha1
