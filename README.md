@@ -5,21 +5,15 @@ Scripts with dependencies
 
 Launch file is launch.py
 
-Result file is bundesliga.json
+Result file is bl.json
 
-Requieres Python 3.x. In Windows shell just enter "py launch.py", matchday and file name, plus RETURN, for the JSON result file to be generated
+Requires Python 3.x. In Windows shell just enter "py launch.py", matchday and file name
 
 ## But first, check and/or adapt the code according to your needs (league, file names, paths, etc)
 
-This example uses 1-bundesliga-i.txt as origin file but can be adapted to use the raw github Link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt to it
+NEW (08.2019): Access through url to the raw .txt file. Script createtext.py generates a new .txt file (core.txt) with cumulative input depending on the MD's advace. core.txt is the used to generate de json, and...
 
-The currently generated file (in this example, bundesliga.json) is intented to be used in spanish with UTF-8
-
-TODO:
-
-* JSOn output is still to be "pretty printed" or indented
-
-* A future version in german is intented, to be used with the original JSON and the link https://raw.githubusercontent.com/openfootball/de-deutschland/master/2016-17/1-bundesliga-i.txt
+* JSOn output is now "pretty printed"
 
 ## ADDED: Dynamically finds ALL the different structures of MDs, due to changes in the Bundesliga starting season 2017/2018
 
