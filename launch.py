@@ -4,6 +4,7 @@
 # import merger
 # only necessary if club names are to be changed from the original
 # import cleanerteams
+import subprocess
 import createtext #trialrun en vez de cleanerteams.py
 import fbjson
 import jsonbuilder
@@ -13,3 +14,5 @@ import jsonrobot
 import jsonformat
 
 print("Launching robot...")
+
+subprocess.call([r'C:\\Python33\\fbjsonrobot\\redir.bat'])
