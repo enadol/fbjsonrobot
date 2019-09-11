@@ -9,8 +9,8 @@ diadef = []
 # special matchday formats
 # choose format array and append matchday numbers as items accordingly
 # array items change every season
-specialMD = []
-conlunes = [5]
+specialMD = [7, 11]
+conlunes = [5, 13]
 english = []
 sevenplustwo = []
 sinviernes = []
