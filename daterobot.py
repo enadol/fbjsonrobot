@@ -7,15 +7,24 @@ from fbjson import lstdate
 lstdatenew = []
 lstnuevafecha = []
 for item in lstdate:
+	#print(lstdate)
 	fecha = item.split('.')
-	#print fecha
-	partida = fecha[0].split(' ')
-	#print partida
-	dia = partida[1]
-	#print dia
-	mes = fecha[1].zfill(2)
+	print(fecha)
+	#para fecha sin . p. ej [Fr ]
+	#partida = fecha[0].split('  ')
+	#print(partida)
+	#dia = partida[1]
+	
+	#para fecha con . p. ej [Fr. ]
+	partida = fecha[1].split(' ')
+	dia = partida[1].zfill(2)
+	print(dia)
+	
+
+	mes = fecha[2].zfill(2)
 	#print int(fecha[1])
 	
+
 	if int(mes) >= 8:
 		fecha[2] = "2019"
 		
@@ -32,6 +41,6 @@ for item in lstdate:
 	#nuevafecha2=ddia+"-"+mmes+"-"+yyear
 	#nuevafecha3=datetime.datetime.strptime(nuevafecha2, "%d-%m-%Y").strftime("%Y-%m-%d")
 	lstnuevafecha.append(ffecha)
-#print lstnuevafecha
+#print(lstnuevafecha)
 	
 	
