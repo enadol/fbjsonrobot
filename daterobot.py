@@ -1,5 +1,5 @@
 # !python3
-# import datetime
+import re
 # import time
 from fbjson import lstdate
 # from jsonbuilderbis import match
@@ -7,37 +7,39 @@ from fbjson import lstdate
 lstdatenew = []
 lstnuevafecha = []
 for item in lstdate:
+	#regex para extraer p.e. 
+	corte = re.compile('.*\s(.*)]')
 	#print(lstdate)
-	fecha = item.split('.')
-	print(fecha)
+	nada, fecha, nada2 = corte.split(item)
+	#print(fecha)
 	#para fecha sin . p. ej [Fr ]
 	#partida = fecha[0].split('  ')
 	#print(partida)
 	#dia = partida[1]
 	
 	#para fecha con . p. ej [Fr. ]
-	partida = fecha[1].split(' ')
-	dia = partida[1].zfill(2)
-	print(dia)
+	partida = fecha.split('.')
+	dia = partida[0].zfill(2)
+	#print(dia)
 	
-
-	mes = fecha[2].zfill(2)
-	#print int(fecha[1])
+	mes = partida[1].zfill(2)
+	#print(mes)
 	
-
 	if int(mes) >= 8:
-		fecha[2] = "2019"
+		partida[2] = "2019"
 		
 		#print mes
 	else:
-		fecha[2] = "2020"
+		partida[2] = "2020"
 	#print mes, fecha[2]
-	nuevafecha1 = dia, mes, fecha[2]
-	#print nuevafecha1
-	ddia = nuevafecha1[0]
-	mmes = nuevafecha1[1]
-	yyear = nuevafecha1[2]
-	ffecha = yyear + "-" + mmes + "-" + ddia
+	separator="-"
+	ffecha = separator.join([partida[2], mes, dia])
+
+	#print(ffecha)
+	#ddia = nuevafecha1[0]
+	#mmes = nuevafecha1[1]
+	#yyear = nuevafecha1[2]
+	#ffecha = yyear + "-" + mmes + "-" + ddia
 	#nuevafecha2=ddia+"-"+mmes+"-"+yyear
 	#nuevafecha3=datetime.datetime.strptime(nuevafecha2, "%d-%m-%Y").strftime("%Y-%m-%d")
 	lstnuevafecha.append(ffecha)
