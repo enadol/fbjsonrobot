@@ -1,4 +1,4 @@
-from input import jornada as howmany
+from prelaunch import jornada as howmany
 from jsonbuilder import match, score1, score2, lstjornada
 import json
 import pprint
@@ -12,7 +12,6 @@ pp = pprint.PrettyPrinter(indent=4)
 # print score1, score2
 fhand = open('bundesliga.json', 'w')
 fhand.write('{\n"name": "Deutsche Bundesliga 2019/20",\n"rounds": [\n{\n"name": "1. Jornada",\n"matches": [\n{\n')
-#print match[501]
 
 for item in match:
 	count = count+1
@@ -75,9 +74,5 @@ for item in match:
 			fhand.write('\n]\n}')
 	else:
 		continue
-
-
-
-#print count
 
 fhand.close()

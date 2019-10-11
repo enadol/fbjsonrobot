@@ -1,18 +1,9 @@
 #!python3
 # import re
+import datetime
 from dateproofer import diadef
-from fbjson import lstjornada
-# from fbjson import lstdate
-from fbjson import lsthome
-from fbjson import lstaway
-from fbjson import lstgoalshome
-from fbjson import lstgoalsaway
-from fbjson import clubkeys
-from fbjson import clubcodes
+from fbjson import lstjornada, lsthome, lstaway, lstgoalshome, lstgoalsaway, clubkeys, clubcodes
 
-
-# print len(diadef) = 114
-# print clubcodes
 lstpartidos = []
 matches = []
 lstteam1 = []
@@ -23,15 +14,12 @@ ronda2 = []
 rondas = [ronda1, ronda2]
 match = []
 count = 0
-#print(lsthome)
-#print(len(lsthome))
+
 for e in range(0,len(lsthome)):
 	# dinamically generated date from dateproofer.py
-	date = diadef[e]
+	date = datetime.datetime.strftime(diadef[e], "%Y-%m-%d")
 	name1 = lsthome[e]
-	# print name1
 	key1 = clubkeys[name1]
-	# print key1
 	code1 = clubcodes[name1]
 	name2 = lstaway[e]
 	key2 = clubkeys[name2]
@@ -61,5 +49,4 @@ for e in range(0,len(lsthome)):
 	match.append(score1)
 	match.append(score2)
 	matches.append(match)
-# print match
-# print diadef
+

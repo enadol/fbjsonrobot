@@ -1,5 +1,5 @@
 import urllib.request
-from input import jornada
+from prelaunch import jornada
 
 with urllib.request.urlopen('https://raw.githubusercontent.com/openfootball/de-deutschland/master/2019-20/1-bundesliga.txt') as response:
 	data = response.read()
