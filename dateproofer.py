@@ -10,7 +10,7 @@ diadef = []
 # array items change every season
 specialMD = [7,11]
 conlunes = [5,13]
-english = []
+english = [16]
 sevenplustwo = []
 sinviernes = []
 eightplusone = []
