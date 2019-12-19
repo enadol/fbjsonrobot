@@ -1,4 +1,5 @@
 #!python3
+import sys
 try:
 
 	import subprocess

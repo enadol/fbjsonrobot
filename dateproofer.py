@@ -1,29 +1,27 @@
 # !python3
 from daterobot import lstnuevafecha
 import datetime
-
+#from prelaunch import jornada
 
 diadef = []
-#print(lstnuevafecha)
+
 # special matchday formats
 # choose format array and append matchday numbers as items accordingly
 # array items change every season
-specialMD = [7,11]
-conlunes = [5,13]
+specialMD = [7, 11]
+conlunes = [5, 13]
 english = [16]
 sevenplustwo = []
 sinviernes = []
 eightplusone = []
 
-# print lstnuevafecha
-# print lunes
 # len(diadef) must be == len(lsthome) == len(lstaway)
 # SOLVED: operator // floor division instead of / por python 3.x
 for date in lstnuevafecha:
 	jornada = len(diadef) // 9
 	jornada +=1
 	date2 = datetime.datetime.strftime(date, '%A')
-
+	
 # proof if machday is of special format
 
 # matchdays with five matches on saturday, two on sunday, one on monday
@@ -125,3 +123,4 @@ for date in lstnuevafecha:
 			for i in range(0,2):
 				diadef.append(date)
 
+#print(len(diadef))

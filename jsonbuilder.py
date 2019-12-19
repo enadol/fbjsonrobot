@@ -4,17 +4,15 @@ import datetime
 from dateproofer import diadef
 from fbjson import lstjornada, lsthome, lstaway, lstgoalshome, lstgoalsaway, clubkeys, clubcodes
 
+
 lstpartidos = []
 matches = []
 lstteam1 = []
 lstteam2 = []
 lstteams = []
-ronda1 = []
-ronda2 = []
-rondas = [ronda1, ronda2]
 match = []
 count = 0
-
+#print(diadef)
 for e in range(0,len(lsthome)):
 	# dinamically generated date from dateproofer.py
 	date = datetime.datetime.strftime(diadef[e], "%Y-%m-%d")

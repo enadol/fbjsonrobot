@@ -15,6 +15,14 @@ with urllib.request.urlopen('https://raw.githubusercontent.com/openfootball/de-d
 
     data2 = data.decode('utf-8')
 
+    filename = "core.txt"
+
+    archivo = open(filename, "w", newline = '\n')
+
+    data2 = data2.replace("ö", "oe")
+
+    data2 = data2.replace("ü", "ue")
+
     lines = data2.splitlines()
 
 
@@ -49,4 +57,8 @@ for line in lines:
                 
 
 jornada = len(lstmd)
+#print(lstmd)
+#print(lstfechas)
+
+#return jornada
 
